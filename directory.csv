@@ -1,0 +1,903 @@
+Brand,Store Number,Store Name,Ownership Type,Street Address,City,State/Province,Country,Postcode,Phone Number,Timezone,Longitude,Latitude
+Starbucks,32368-134291,Shire Hotels Aztec West,Licensed,"Aztec West, Lodge on the Park, J Sainsbury's plc",Almondsbury,ENG,GB,BS32 4TS,01454 201777,GMT+0:00 Europe/London,-2.57,51.54
+Starbucks,12309-67500,Altrincham - Sainsbury's,Company Owned,"Lloyd Street, Starbucks c/o Sainsbury's",Altrincham,ENG,GB,WA14 2SU,1619296924,GMT+0:00 Europe/London,-2.35,53.38
+Starbucks,23586-231430,SSP Ashford,Licensed,"Ashford International Station, Plt 1-2, Station Road, Kent",Ashford,ENG,GB,TN23 1EZ,,GMT+0:00 Europe/London,0.88,51.14
+Starbucks,25245-240306,Ashford - High Street,Franchise,89-91 High Street,Ashford,ENG,GB,TN24 8SA,,GMT+0:00 Europe/London,0.87,51.15
+Starbucks,9157-152265,WB Warwick North,Licensed,"M40 Motoway Northbound, Junction 12/13",Ashorne,ENG,GB,CV35 0AA,01926 651681,GMT+0:00 Europe/London,-1.51,52.22
+Starbucks,18361-190425,WB Warwick Kiosk,Licensed,"M40 Motorway Southbound, Junction 13/12, Banbury Road",Ashorne,ENG,GB,CV35 0AA,01926 650168,GMT+0:00 Europe/London,-1.5,52.22
+Starbucks,12885-140706,Baldock Services - MSA A1/A507,Company Owned,"MSA area, A1/A507 Radwell,(Unit 8b), Baldock Motorway Service Area",Baldock,ENG,GB,SG7 5TR,1462735407,GMT+0:00 Europe/London,-0.2,52.01
+Starbucks,27395-236929,Banbury - Banbury Gateway SP,Franchise,"Unit 16, Banbury Gateway Shopping Park, Wildemere Road",Banbury,ENG,GB,OX16 3JU,,GMT+0:00 Europe/London,-1.32,52.08
+Starbucks,12507-94368,Barnes,Company Owned,147 Church Road,Barnes,ENG,GB,SW13 9HR,2087415189,GMT+0:00 Europe/London,-0.24,51.48
+Starbucks,12227-41519,Barnet High Street,Company Owned,113 Barnet High St,Barnet,ENG,GB,EN5 5UZ,2084405691,GMT+0:00 Europe/London,-0.2,51.66
+Starbucks,23015-227084,Next Basildon,Licensed,"Next, Basildon, Unit 4, Mayflower Retail Park",Basildon,ENG,GB,SS14 3HZ,,GMT+0:00 Europe/London,0.48,51.59
+Starbucks,27635-248277,Basildon - Eastgate Centre,Franchise,49 Eastgate Centre,Basildon,ENG,GB,SS14 1EB,,GMT+0:00 Europe/London,0.46,51.57
+Starbucks,28781-251211,Basingstoke- Houndmills Trade Pk DT,Franchise,Houndmills Road,Basingstoke,ENG,GB,RG21 6AH,01256 472471,GMT+0:00 Europe/London,-1.11,51.27
+Starbucks,28690-250889,Basingstoke - Old Basing Mall,Franchise,"Unit 3, Old Basing Mall",Basingstoke,ENG,GB,RG21 2BH,,GMT+0:00 Europe/London,-1.08,51.27
+Starbucks,28692-250880,Basingstoke - Festival Place UG,Franchise,"Unit 39 Upper Ground, Festival Place",Basingstoke,ENG,GB,RG21 7BF,,GMT+0:00 Europe/London,-1.09,51.27
+Starbucks,23575-231424,SSP Bath,Licensed,"Bath Spa Station, Platform 1, Dorchester Street",Bath,ENG,GB,BA1 1SU,,GMT+0:00 Europe/London,-2.36,51.38
+Starbucks,21365-212224,Bath - Avon Street,Franchise,"Unit B Strahan House, Avon Street",Bath,ENG,GB,BA1  1UN,,GMT+0:00 Europe/London,-2.36,51.38
+Starbucks,12863-139663,Bath - High Street,Company Owned,13-14 High Street,Bath,ENG,GB,BA1 5AH,1225471637,GMT+0:00 Europe/London,-2.36,51.38
+Starbucks,12341-237067,Beaconsfield Sainsbury's,Company Owned,Maxwell Road,Beaconsfield,ENG,GB,HP9 1QH,1494670643,GMT+0:00 Europe/London,-0.64,51.61
+Starbucks,3187-140748,Beaconsfield Services - MSA M40/J2,Company Owned,"Unit 1, MSA, J2,  M40",Beaconsfield,ENG,GB,HP9 2SE,1494674605,GMT+0:00 Europe/London,-0.63,51.59
+Starbucks,15383-160610,Centre Parcs Woburn Centre,Licensed,"Woburn Forest, Ampthill",Bedford,ENG,GB,MK45 2JD,01525 842943,GMT+0:00 Europe/London,-0.49,52.03
+Starbucks,15381-160608,Centre Parcs Woburn Poolside,Licensed,Woburn Forest Ampthill,Bedford,ENG,GB,MK45 2JD,01525 842943,GMT+0:00 Europe/London,-0.49,52.03
+Starbucks,23583-231428,SSP Bedford,Licensed,"Bedford Station, Ashburnham Road",Bedford,ENG,GB,MK40 1DR,1234267448,GMT+0:00 Europe/London,-0.48,52.14
+Starbucks,15384-160609,Centre Parcs Woburn Sports Plaza,Licensed,"Woburn Forest, Ampthill",Bedford,ENG,GB,MK45 2JD,01525 842943,GMT+0:00 Europe/London,-0.49,52.03
+Starbucks,9136-152279,WB Membury North,Licensed,"M4 Motorway Eastbound, Junction 14/15, Lambourne",Berkshire,ENG,GB,RG17 7TZ,01488 674 360,GMT+0:00 Europe/London,-1.56,51.48
+Starbucks,9155-152277,WB Membury South,Licensed,"M4 Motorway Westbound, Junction 14/15, Lambourne",Berkshire,ENG,GB,RG17 7TZ,014 8867 4360,GMT+0:00 Europe/London,-1.56,51.48
+Starbucks,28685-250882,Ascot - High Street,Franchise,"57 High Street, Ascot",Berkshire,ENG,GB,SL5 7HP,,GMT+0:00 Europe/London,-0.67,51.41
+Starbucks,48484-263447,Beverley-Flemingate Centre,Franchise,"Unit 2B Block D, Flemingate Centre, The Mall",Beverley,ENG,GB,HU17 0LL,1482860133,GMT+0:00 Europe/London,-0.42,53.84
+Starbucks,12565-96660,Bexleyheath - Broadway Shopping Cen,Company Owned,"Broadway Shopping Centre, Unit 15",Bexleyheath,ENG,GB,DA6 7JN,2083315653,GMT+0:00 Europe/London,0.15,51.46
+Starbucks,23093-227647,Bickerstaffe - Skelmersdale Road,Franchise,"Skelmersdale Road, Ormskirk, Lancashire",Bickerstaffe,ENG,GB,L39 0EZ,01695 722073,GMT+0:00 Europe/London,-2.83,53.54
+Starbucks,26592-228206,Bideford - Atlantic Village DT,Franchise,"Atlantic Park, Clovelly Road",Bideford,ENG,GB,EX39 3QU,,GMT+0:00 Europe/London,-4.22,51.02
+Starbucks,5192-148826,Birmingham BPH AC Marriot Hotel,Licensed,"160 Wharfside Street, The Mailbox",Birmingham,ENG,GB,B1 1RL,0121 643 9344,GMT+0:00 Europe/London,-1.91,52.48
+Starbucks,12952-140408,Birmingham - Bullring - Selfridges,Company Owned,"Birmingham-Selfridges, Bullring",Birmingham,ENG,GB,B5 4BP,1216432595,GMT+0:00 Europe/London,-1.89,52.48
+Starbucks,23479-229327,Birmingham Cineworld Broad St (181),Licensed,"Cineworld, 181 Broad St",Birmingham,ENG,GB,B15 1DA,,GMT+0:00 Europe/London,-1.91,52.47
+Starbucks,3638-151108,NEC Atrium,Licensed,Atrium Halls 7-9,Birmingham,ENG,GB,B40 1NT,0121 767 2496,GMT+0:00 Europe/London,-1.73,52.45
+Starbucks,25571-241546,Cineworld NEC,Licensed,"C/O NEC Resorts World Complex, First Floor, Cineworld",Birmingham,ENG,GB,B40 1PA,,GMT+0:00 Europe/London,-1.72,52.45
+Starbucks,26831-245768,Birmingham WelcomeBreak Hopwood DT,Licensed,"Hopwood Park M42, Junction 2, Redditch Road",Birmingham,ENG,GB,B48 7AU,1214474000,GMT+0:00 Europe/London,-1.95,52.36
+Starbucks,17334-180566,SSP Birmingham New St,Licensed,"New Street Station, South concourse level",Birmingham,ENG,GB,B2 4ND,,GMT+0:00 Europe/London,-1.9,52.48
+Starbucks,12247-41621,Birmingham - Colmore Row,Company Owned,"125 Colmore Row, Lloyds, The Bullring Shopping Centre",Birmingham,ENG,GB,B3 3SD,1212362660,GMT+0:00 Europe/London,-1.9,52.48
+Starbucks,12441-93182,Birmingham - Bullring - Upper East,Company Owned,"Bullring Centre, Unit K 17/18/19, First Floor, The Burlington",Birmingham,ENG,GB,B5 4EN,1216430390,GMT+0:00 Europe/London,-1.89,52.48
+Starbucks,12262-46960,Birmingham - New Street,Company Owned,"114/115 New Street, Unit 6",Birmingham,ENG,GB,B2 4JH,1216436643,GMT+0:00 Europe/London,-1.9,52.48
+Starbucks,3623-151109,NEC Piazza,Licensed,"Level 1, Hall 5",Birmingham,ENG,GB,B40 1NT,0121 767 2489,GMT+0:00 Europe/London,-1.72,52.45
+Starbucks,9156-152264,WB Hopwood Kiosk,Licensed,"M42 Motorway, Junction 2, Redditch Road",Birmingham,ENG,GB,B48 7AU,1214474000,GMT+0:00 Europe/London,-1.95,52.36
+Starbucks,20097-203367,Malmaison Birmingham,Licensed,"The MailBox, Wharside St. (1), The Fort SP",Birmingham,ENG,GB,B1 1RD,,GMT+0:00 Europe/London,-1.91,52.48
+Starbucks,12819-137870,Birmingham - The Fort Shopping Park,Company Owned,"BIRMINGHAM- THE FORT, RESTAURA, UNIT F2, 20 FORT PARKWAY",Birmingham,ENG,GB,B24 9FP,1213822637,GMT+0:00 Europe/London,-1.82,52.51
+Starbucks,4013-151110,ICC Broad St,Licensed,"Broad Street, The Bullring Shopping Centre",Birmingham,ENG,GB,B1 2EA,0121 644 5063,GMT+0:00 Europe/London,-1.91,52.48
+Starbucks,12415-87082,Birmingham - Bullring - Middle West,Company Owned,"Bullring Shopping Centre, SU 517, Core 20",Birmingham,ENG,GB,B2 4XJ,1216161110,GMT+0:00 Europe/London,-1.89,52.48
+Starbucks,9143-152266,WB Hopwood Main Café,Licensed,"M42 Motorway, Junction 2, Redditch Road, Alvechurch",Birmingham,ENG,GB,B48 7AU,1214474000,GMT+0:00 Europe/London,-1.95,52.36
+Starbucks,28702-250909,Birstall Business Pk Bankwood Way,Franchise,"Centre 27 Business Park, Bankwood Way",Birstall,ENG,GB,WF17 9TB,,GMT+0:00 Europe/London,-1.64,53.74
+Starbucks,27642-248279,Bishop Stortford - Jacksons Square,Franchise,Jacksons Square,Bishop's Stortford,ENG,GB,CM23 3AB,,GMT+0:00 Europe/London,0.16,51.87
+Starbucks,17511-182524,WB Birchanger Kiosk,Licensed,"Birchanger Green Service Area, Old Dunmow Road",Bishops Storford,ENG,GB,CM23 5QZ,1279653388,GMT+0:00 Europe/London,0.19,51.87
+Starbucks,9121-150525,Blackburn - Beehive Business Pk DT,Franchise,"Beehive Business Park, Haslingdon Road, Shadworth Industrial Estate",Blackburn,ENG,GB,BB1 2EE,01254 663409,GMT+0:00 Europe/London,-2.45,53.73
+Starbucks,47731-259624,Blackpool Hounds Hill Shopping Ctre,Franchise,"Victoria Street, Unit 29, Hounds Hill Shopping Centre",Blackpool,ENG,GB,FY1 4HU,01253 299 750,GMT+0:00 Europe/London,-3.05,53.82
+Starbucks,12775-155328,Village Blackpool,Licensed,"East Park Drive, Herons Reach",Blackpool,ENG,GB,FY3 8LL,1253832582,GMT+0:00 Europe/London,-3.01,53.81
+Starbucks,20724-208164,Cineworld Boldon,Licensed,"Cineworld Cinemas, Boldon Colliery, Leisure Park, Abingdon Way",Boldon,ENG,GB,NE35 9PB,0191 536 0913,GMT+0:00 Europe/London,-1.47,54.95
+Starbucks,6081-154368,Bolton - Rivington North,Franchise,"M61 Motorway Northbound, Eurogarages, Bolton Market Hall",Bolton,ENG,GB,BL6 5UZ,01204 474923,GMT+0:00 Europe/London,-2.58,53.6
+Starbucks,12696-105699,Bolton Market Hall Unit N,Company Owned,"Bolton Market Hall, Unit N",Bolton,ENG,GB,BL1 2AR,1204361727,GMT+0:00 Europe/London,-2.43,53.58
+Starbucks,6089-154367,Bolton - Rivington South,Franchise,"M61 Motorway Southbound, Eurogarages",Bolton,ENG,GB,BL6 5UZ,01204 673942,GMT+0:00 Europe/London,-2.57,53.6
+Starbucks,23094-227644,Bournemouth - Richmond Hill,Franchise,"Unit 5&6 Bristol & West House, Richmond Hill, Dorset",Bournemouth,ENG,GB,BH2 6HE,,GMT+0:00 Europe/London,-1.88,50.72
+Starbucks,26726-245125,Westbourne - Poole Road,Franchise,98 Poole Road,Bournemouth,ENG,GB,BH4 9EN,,GMT+0:00 Europe/London,-1.9,50.72
+Starbucks,25828-242626,Bournemouth - Holdenhurst Road,Franchise,"The Parlour, Unit 2 Lyme Regis House, 69 Holdenhurst Rd",Bournemouth,ENG,GB,BH8 8FT,,GMT+0:00 Europe/London,-1.86,50.72
+Starbucks,32724-140325,Village Bournemouth,Licensed,"Deansleigh Road, Wessex Fields",Bournemouth,ENG,GB,BH7 7DZ,01202 416140,GMT+0:00 Europe/London,-1.82,50.75
+Starbucks,18967-193486,Bournemouth - The Triangle,Franchise,65 Commercial Road,Bournemouth,ENG,GB,BH2 5RG,01202 553590,GMT+0:00 Europe/London,-1.88,50.72
+Starbucks,29705-254774,Bournemouth Aramark Chaseside,Licensed,"JP Morgan, 1 Chaseside, J Sainsbury's plc",Bournemouth,ENG,GB,BH7 7DB,,GMT+0:00 Europe/London,-1.86,50.73
+Starbucks,12294-55239,Bracknell - Sainsbury's,Company Owned,"Ringmead, Starbucks c/o Sainsbury's",Bracknell,ENG,GB,RG12 7SS,1344307768,GMT+0:00 Europe/London,-0.74,51.39
+Starbucks,28701-250903,Bradford - Centenary Square,Franchise,"Centenary Square, Market Street, Part Unit C",Bradford,ENG,GB,BD1 1HY,1274726528,GMT+0:00 Europe/London,-1.75,53.79
+Starbucks,22770-222444,Bradford - Rooley Lane DT,Franchise,"Ring Road Service Station, Rooley Lane",Bradford,ENG,GB,BD4 7SJ,,GMT+0:00 Europe/London,-1.73,53.77
+Starbucks,19233-199964,Braintree Cineworld Freeport,Licensed,"Braintree Freeport Village, Charter Way, Braintree Designer Village Outlet",Braintree,ENG,GB,CM77 8YH,,GMT+0:00 Europe/London,0.57,51.87
+Starbucks,12439-92929,Braintree - Freeport Outlet Centre,Company Owned,"Charter Way, Chapel Hill,, Unit 83, Braintree Designer Outlet",Braintree,ENG,GB,CM77 8YH,1376553714,GMT+0:00 Europe/London,0.57,51.87
+Starbucks,32556-138007,Centre Parcs Elveden Lakeside,Licensed,"Elveden Forest, Lakeside",Brandon,ENG,GB,IP27 0YZ,01842 894694,GMT+0:00 Europe/London,0.63,52.45
+Starbucks,32316-134269,Centre Parcs Elveden Forest Centre,Licensed,"Elveden Forest, Coffee Shop",Brandon,ENG,GB,IP27 0YZ,01842 894622,GMT+0:00 Europe/London,0.63,52.45
+Starbucks,27637-248275,Brentwood - High Street,Franchise,36B High Street,Brentwood,ENG,GB,CM14 4AJ,,GMT+0:00 Europe/London,0.3,51.62
+Starbucks,20875-208484,Bridgend - Waterton Retail Park DT,Franchise,"Waterton Retail Park, Waterton Road, Merry Hill Shopping Centre",Bridgend,ENG,GB,CF31 3TN,01656 645885,GMT+0:00 Europe/London,-3.54,51.5
+Starbucks,12327-63059,Merry Hill Centre - Upper Mall,Company Owned,"Phase 5 Merry Hill Shopping Centre, Kiosk 7a, Upper Mall",Brierley Hill,ENG,GB,DY5 1QX,1384485953,GMT+0:00 Europe/London,-2.11,52.48
+Starbucks,22889-225864,WB Hartshead Moor East DT,Licensed,"Starbucks HartsheadMoor EDT, M62 Motorway, J25-26, Clifton",Brighouse,ENG,GB,HD6 4JX,01142 486434,GMT+0:00 Europe/London,-1.75,53.71
+Starbucks,25237-240304,Brighton - Western Road,Franchise,GF & Second Floor 201 Western Road,Brighton,ENG,GB,BN1 2BA,,GMT+0:00 Europe/London,-0.15,50.82
+Starbucks,25244-240307,Brighton - North Road,Franchise,Unit 6 Block 4 Jubilee Street,Brighton,ENG,GB,BN1  1GE,,GMT+0:00 Europe/London,-0.14,50.82
+Starbucks,25238-240313,Brighton - St James Street,Franchise,114-115 St James's Street,Brighton,ENG,GB,BN2 1TH,,GMT+0:00 Europe/London,-0.14,50.82
+Starbucks,12811-139690,Bristol - Horsefair,Company Owned,48 Horsefair,Bristol,ENG,GB,BS1 3EE,1179291367,GMT+0:00 Europe/London,-2.59,51.46
+Starbucks,25247-240264,Bristol - Wine Street,Franchise,"Vintry Building, Wine Street, The Mall, Cribbs Causeway",Bristol,ENG,GB,BS1 2BD,1179259830,GMT+0:00 Europe/London,-2.59,51.46
+Starbucks,12651-102637,Bristol -Cribs Causeway -Lower Mall,Company Owned,"The Mall, Cribbs Causeway, KIOSK 072 Lower Level",Bristol,ENG,GB,BS34 5TQ,1179505294,GMT+0:00 Europe/London,-2.6,51.53
+Starbucks,17508-182527,Bristol WelcomeBreak - Gordano 2ndC,Licensed,"M5 Motorway, Junction 19, Portbury, Bristol - Cabot Circus",Bristol,ENG,GB,BS20 7XG,1275373709,GMT+0:00 Europe/London,-2.75,51.48
+Starbucks,12926-137800,Bristol - Cabot Circus - Level 1,Company Owned,70 Cabot Circus,Bristol,ENG,GB,BS1 3BQ,01179 304 231,GMT+0:00 Europe/London,-2.59,51.46
+Starbucks,25834-242684,Bristol - Clifton Down Shopping Ctr,Franchise,"Clifton Downs Shopping Centre, Whiteladies Road",Bristol,ENG,GB,BS8 2NN,1179467522,GMT+0:00 Europe/London,-2.61,51.46
+Starbucks,4016-143785,SSP Bristol Templemeads,Licensed,Bristol Temple Meads Station,Bristol,ENG,GB,BS1 6QF,,GMT+0:00 Europe/London,-2.58,51.45
+Starbucks,31128-240464,SSP Bristol Airport,Licensed,"New Terminal Building, Room B13",Bristol,ENG,GB,BS48 3DY,,GMT+0:00 Europe/London,-2.71,51.39
+Starbucks,20100-203345,WB Gordano DT,Licensed,"M5 Motorway, Junction 19, Portbury, Unit A",Bristol,ENG,GB,BS20 7XG,,GMT+0:00 Europe/London,-2.71,51.48
+Starbucks,12226-34521,Bristol - Temple Quay,Company Owned,"1 Temple Square, Unit A, Restaurant/Bar Cafe 2",Bristol,ENG,GB,BS1 6EB,1179273340,GMT+0:00 Europe/London,-2.58,51.45
+Starbucks,9137-152278,WB Gordano,Licensed,"M5 Motorway, Junction 19, Portbury",Bristol,ENG,GB,BS20 7XG,01275 373 624,GMT+0:00 Europe/London,-2.71,51.48
+Starbucks,7165-150864,DSGI Bristol,Licensed,"Centaurus Road, Cribb's Causeway",Bristol,ENG,GB,BS34 5TS,1179504770,GMT+0:00 Europe/London,-2.6,51.53
+Starbucks,12904-137732,Bromley - Glades Shopping Centre,Company Owned,"Bromley - Glades Shopping Centre, unit 220",Bromley,ENG,GB,BR1 1DN,2083139564,GMT+0:00 Europe/London,0.02,51.4
+Starbucks,12582-97442,Bromley High Street,Company Owned,31 High Street,Bromley,ENG,GB,BR1 1LG,2084642975,GMT+0:00 Europe/London,0.02,51.4
+Starbucks,12088-11316,Bromley - Market Square,Company Owned,25 Market Square,Bromley,ENG,GB,BR1 1NA,2084606656,GMT+0:00 Europe/London,0.02,51.41
+Starbucks,25945-243104,Broughton - Cineworld,Franchise,"C/O Cineworld, Broughton Retail Park, Chester Road",Broughton,ENG,GB,CH4 0DE,1244504720,GMT+0:00 Europe/London,-2.97,53.17
+Starbucks,9183-152285,WB Newport Pagnell North,Licensed,"M1 Motorway Northbound, Junction 14/15, Newport Pagnell",Buckinghamshire,ENG,GB,MK16 8DS,01908 217722,GMT+0:00 Europe/London,-0.75,52.08
+Starbucks,9184-152286,WB Newport Pagnell South,Licensed,"M1 Motorway Southbound, Junction 14/15, Newport Pagnell",Buckinghamshire,ENG,GB,MK16 8DS,01908 217722,GMT+0:00 Europe/London,-0.75,52.08
+Starbucks,12293-139700,Burpham - Sainsbury's,Company Owned,"Bowlers Farm Lane, Starbucks c/o Sainsbury's",Burpham,ENG,GB,GU4 7JU,1483301082,GMT+0:00 Europe/London,-0.54,51.26
+Starbucks,15325-157706,Village Bury,Licensed,"Rochdale Road, Waterford Business Park",Bury,ENG,GB,BL9 7BQ,1617644444,GMT+0:00 Europe/London,-2.28,53.59
+Starbucks,27632-248269,Bury St Edmunds - Buttermarket,Franchise,20/20A Buttermarket,Bury St Edmunds,ENG,GB,IP33 1DT,,GMT+0:00 Europe/London,0.71,52.25
+Starbucks,12575-96868,Camberley - Sainsbury's,Company Owned,"Blackwater Valley Road, Watchmoore Park",Camberley,ENG,GB,GU15 3YN,1276684264,GMT+0:00 Europe/London,-0.76,51.32
+Starbucks,28691-250883,Camberley - The Atrium,Franchise,"Unit B1, The Atrium",Camberley,ENG,GB,GU15 3PT,,GMT+0:00 Europe/London,-0.75,51.34
+Starbucks,27629-248273,Cambridge - Christs Lane,Franchise,"Unit 4, 6 Christs Lane",Cambridge,ENG,GB,CB1 1NP,,GMT+0:00 Europe/London,0.12,52.21
+Starbucks,27631-248271,Cambridge - New Market Road,Franchise,"Unit 20, Cambridge Retail Park, New Market Road",Cambridge,ENG,GB,CB5 8WR,,GMT+0:00 Europe/London,0.14,52.21
+Starbucks,47133-256909,Cambridge - Regent St,Franchise,38-40 Regent Street,Cambridge,ENG,GB,CB2 1DP,01223 354941,GMT+0:00 Europe/London,-0.3,52.55
+Starbucks,27630-248272,Cambridge Grand Arcade St Andew St,Franchise,"Unit SU35,  Grand Arcade, St. Andrew's Street",Cambridge,ENG,GB,CB2 3BJ,,GMT+0:00 Europe/London,0.12,52.2
+Starbucks,18446-191044,Compass Addenbrooke's,Licensed,Hills Road,Cambridge,ENG,GB,CB2 0QQ,,GMT+0:00 Europe/London,0.14,52.19
+Starbucks,27640-248267,Cambridge - Fitzroy Street,Franchise,"39 Fitzroy Street, Grafton Centre",Cambridge,ENG,GB,CB1 1ER,,GMT+0:00 Europe/London,0.13,52.21
+Starbucks,25240-240311,Canterbury - St George Street,Franchise,"13 St Georges Street, J Sainsbury's",Canterbury,ENG,GB,CT1 2JT,,GMT+0:00 Europe/London,1.08,51.28
+Starbucks,12170-17975,Canterbury Kingsmead - Sainsbury's,Company Owned,Kingsmead Road,Canterbury,ENG,GB,CT1 1BW,1227765840,GMT+0:00 Europe/London,1.08,51.28
+Starbucks,20405-205384,Aramark Cardiff Hospital,Licensed,"University Hospital Wales, Heath Park, South Glamorgan",Cardiff,ENG,GB,CF14 4XW,,GMT+0:00 Europe/London,-3.19,51.51
+Starbucks,12899-137735,Carlisle - Scotch Street,Company Owned,"CARLISLE - SCOTCH STREET(64), 64,SCOTCH STREET",Carlisle,ENG,GB,CA3 8PN,1228535549,GMT+0:00 Europe/London,-2.94,54.9
+Starbucks,28703-250902,Castleford - Xscape Snozone,Franchise,"Mall Kiosk Xscape Snowzone, Glasshoughton",Castleford,ENG,GB,WF10 4SB,,GMT+0:00 Europe/London,-1.34,53.71
+Starbucks,28697-250901,Castleford Designer Outlet Village,Franchise,"F14/15 Freeport, Castleford Designer Outlet Village",Castleford,ENG,GB,WF10 4SB,,GMT+0:00 Europe/London,-1.34,53.71
+Starbucks,28833-251450,"Chatham, The Quay",Franchise,"Unit 8 Lower, Pier 5, The Quay, Chatham, Kent",Chaltham,ENG,GB,ME4 4ZJ,01634 890 362,GMT+0:00 Europe/London,0.53,51.4
+Starbucks,25511-241226,SSP Chatham,Licensed,"Chatham Station concourse, Railway Street",Chatham,ENG,GB,ME4 6PN,,GMT+0:00 Europe/London,0.52,51.38
+Starbucks,15197-157709,Village Cheadle,Licensed,Cheadle Road,Cheadle,ENG,GB,SK8 1HW,1614951527,GMT+0:00 Europe/London,-2.21,53.39
+Starbucks,27644-248281,Chelmsford High Chelmer SC,Franchise,"Mall Kiosk, High Chelmer SC",Chelmsford,ENG,GB,CM1 1XB,,GMT+0:00 Europe/London,0.47,51.73
+Starbucks,12217-38319,Chelmsford - High Street (39),Company Owned,"39 High Street, Dukesmead House",Chelmsford,ENG,GB,CM1 1BE,1245267417,GMT+0:00 Europe/London,0.47,51.73
+Starbucks,26117-243592,Cheltenham - The Promenade,Franchise,Unit 1  The Promenade,Cheltenham,ENG,GB,GL50 1LN,01242 530 238,GMT+0:00 Europe/London,-2.08,51.9
+Starbucks,3791-152295,WB Burtonwood,Licensed,"M62 Motorway, Great Sankey",Cheshire,ENG,GB,WA5 3AX,01925 651 656,GMT+0:00 Europe/London,-2.64,53.42
+Starbucks,28407-250703,Ellesmere Port Coliseum Shopping Pk,Franchise,"Coliseum Shopping Park, 15d Coliseum Way, Ellesmere Port",Cheshire,ENG,GB,CH65 9HD,,GMT+0:00 Europe/London,-2.89,53.26
+Starbucks,28396-250693,Chester - Northgate Street,Franchise,18-20 Northgate Street,Chester,ENG,GB,CH1 2HA,,GMT+0:00 Europe/London,-2.89,53.19
+Starbucks,6126-149546,Chester - Deeside DT,Franchise,"BP Deeside Service Area, Parkway, Zone 2, Deeside Industrial Estate",Chester,ENG,GB,CH5 2NN,01244 288876,GMT+0:00 Europe/London,-3.01,53.23
+Starbucks,12766-155329,Village Chester,Licensed,"St David's Park, Ewloe",Chester,ENG,GB,CH5 3YB,01244 528 530,GMT+0:00 Europe/London,-3.01,53.81
+Starbucks,17398-176685,Chesterfield - J29A M1 Services DT,Franchise,"Markham Vale, J29A M1",Chesterfield,ENG,GB,S44 5HQ,01246 828975,GMT+0:00 Europe/London,-1.33,53.24
+Starbucks,24411-237886,Chesterfield - Mansfield Road DT,Franchise,"Heath, Mansfield Road",Chesterfield,ENG,GB,S44 5SF,1246857952,GMT+0:00 Europe/London,-1.34,53.2
+Starbucks,47788-259767,Chichester - North Street-,Franchise,13 North Street,Chichester,ENG,GB,PO19 1LB,01243 532750,GMT+0:00 Europe/London,-0.78,50.84
+Starbucks,12913-137733,Chiswell Green - North Orbital Rd,Company Owned,Saint Albans,Chiswell Green,ENG,GB,AL2  2AB,1727857952,GMT+0:00 Europe/London,-0.36,51.72
+Starbucks,12698-105419,Chiswick Park - Building 5,Company Owned,"5 Chiswick Park, Unit 3 Building 5",Chiswick,ENG,GB,W4 5YA,2089949511,GMT+0:00 Europe/London,-0.28,51.5
+Starbucks,25878-242846,Chorley - M6 Jct 27/29 Mill Lane,Franchise,"M6 Motorway Northbound, Junction 27/28, Mill Lane",Chorley,ENG,GB,PR7 5LR,,GMT+0:00 Europe/London,-2.69,53.63
+Starbucks,6147-154384,WB Charnock North,Licensed,"M6 Motorway Northbound, Junction 27/28, Mill Lane",Chorley,ENG,GB,PR7 5LR,7841745628,GMT+0:00 Europe/London,-2.69,53.63
+Starbucks,6138-154385,WB Charnock South,Licensed,"M6 Motorway Northbound, Junction 27/28, Mill Lane",Chorley,ENG,GB,PR7 5LR,1257791494,GMT+0:00 Europe/London,-2.69,53.63
+Starbucks,16288-170233,Shire Hotels Fleece,Licensed,"41 Market Place, Fleece Hotel",Cirencester,ENG,GB,GL7 2NZ,,GMT+0:00 Europe/London,-1.97,51.72
+Starbucks,21656-214044,Cleckheaton Centurion Way DT,Franchise,"Off M606 Roundabout, Centurion Way, Off Whitehall Rd",Cleckheaton,ENG,GB,BD19 3QE,,GMT+0:00 Europe/London,-1.72,53.74
+Starbucks,28682-250885,Cobham - High Street,Franchise,23 Cobham High Street,Cobham,ENG,GB,KT11 3DH,,GMT+0:00 Europe/London,-0.41,51.33
+Starbucks,24179-227649,"Cockermouth, Oakhurst Services",Franchise,"Pakhurst Service Station, Lamplugh Road",Cockermouth,ENG,GB,CA13 0QT,01900 827419,GMT+0:00 Europe/London,-3.37,54.65
+Starbucks,27636-248276,Colchester - Culver Street West,Franchise,25 Culver Street West,Colchester,ENG,GB,CO1 1JG,,GMT+0:00 Europe/London,0.9,51.89
+Starbucks,31127-106652,WB Corley North,Licensed,"Motorway Services Area M6, Northbound, Arena Retail Park",Corley,ENG,GB,CU7 8NR,1676540111,GMT+0:00 Europe/London,-1.55,52.47
+Starbucks,3826-153526,Coventry - Arena RP - New Look,Company Owned,"Unit 2, Classic Drive",Coventry,ENG,GB,CV6 6AS,2476662375,GMT+0:00 Europe/London,-1.49,52.44
+Starbucks,12789-139685,Coventry - Broadgate,Company Owned,52 Broadgate,Coventry,ENG,GB,CV1 1NF,2476258306,GMT+0:00 Europe/London,-1.51,52.41
+Starbucks,9144-152267,WB Corley South,Licensed,"Motorway Services Area M6, Southbound, Corley",Coventry,ENG,GB,CV7 8NR,1676540171,GMT+0:00 Europe/London,-1.55,52.47
+Starbucks,26833-245765,WB Corley North DT,Licensed,"Corley North M6, Junction 3/4",Coventry,ENG,GB,CV7 8NR,1676540111,GMT+0:00 Europe/London,-1.55,52.47
+Starbucks,6091-153888,Village Coventry,Licensed,"Dolomite Avenue, Coventry Business Park",Coventry,ENG,GB,CV4 9GZ,8449808042,GMT+0:00 Europe/London,-1.55,52.4
+Starbucks,18445-191045,Compass Coventry Uni,Licensed,"Gulson Road, ECB (Engineering & Computing Building)",Coventry,ENG,GB,CV1 2JH,2476225719,GMT+0:00 Europe/London,-1.5,52.4
+Starbucks,25419-240994,SSP Coventry,Licensed,"Coventry Railway Station, Station Square",Coventry,ENG,GB,CV1 2GT,,GMT+0:00 Europe/London,-1.51,52.4
+Starbucks,18670-194104,Cineworld Crawley,Licensed,Unit 1 Crawley Leisure Park,Crawley,ENG,GB,RH10 8LR,01293 538242,GMT+0:00 Europe/London,-0.18,51.12
+Starbucks,24323-237124,Crawley - Queens Square,Franchise,12/13 Queens Square,Crawley,ENG,GB,RH101DY,,GMT+0:00 Europe/London,-0.19,51.12
+Starbucks,28004-249489,Crewe - Market Street,Franchise,"44 Market Street, Cheshire, Whitgift Square",Crewe,ENG,GB,CW1 2EL,01270 749349,GMT+0:00 Europe/London,-2.44,53.1
+Starbucks,12743-139673,Croydon - Whitgift Centre - Lower,Company Owned,"Whitgift Centre, Cafe Kiosk, Centrale Shopping Centre",Croydon,ENG,GB,CR0 1UP,2086880318,GMT+0:00 Europe/London,-0.1,51.38
+Starbucks,12515-94583,Croydon-Centrale Shopping Ctr-Upper,Company Owned,"Centrale Shopping Centre, Unit 79",Croydon,ENG,GB,CR0 1TY,2086869986,GMT+0:00 Europe/London,-0.1,51.38
+Starbucks,1141-134277,SSP Croydon,Licensed,"Station Approach, Queen St Shopping Centre",Croydon,ENG,GB,CRO 1LF,,GMT+0:00 Europe/London,-0.09,51.37
+Starbucks,12750-140644,Darlington - Northgate,Company Owned,"Northgate, Unit 2 Queen St Shopping Centre",Darlington,ENG,GB,DL3 6SL,1325284187,GMT+0:00 Europe/London,-1.55,54.53
+Starbucks,28835-251451,"Deal, high street",Franchise,47 High Street,Deal,ENG,GB,CT14 6EL,01304 368790,GMT+0:00 Europe/London,1.4,51.22
+Starbucks,32246-134149,Derby Football Club,Licensed,Pride Park Stadium,Derby,ENG,GB,DE24 8XL,1332821092,GMT+0:00 Europe/London,-1.45,52.92
+Starbucks,12757-139686,Derby - Westfield Level 2,Company Owned,"Eagle Centre, Unit SU232",Derby,ENG,GB,DE1 2AZ,1332368241,GMT+0:00 Europe/London,-1.48,52.92
+Starbucks,18413-190744,Derby - Little Eaton,Franchise,"Ford Lane, Little Eaton",Derby,ENG,GB,DE21 5DA,01332 835837,GMT+0:00 Europe/London,-1.46,52.96
+Starbucks,23544-227650,Monmouth Southbound A40,Franchise,"Monmouth Services, A40 Southbound",Dingestow,ENG,GB,NP25 4BG,,GMT+0:00 Europe/London,-2.81,51.77
+Starbucks,28695-250904,Doncaster - Frenchgate Interchange,Franchise,"Unit 64, Frenchgate Interchange",Doncaster,ENG,GB,DN1 1QB,,GMT+0:00 Europe/London,-1.14,53.52
+Starbucks,25421-240992,SSP Doncaster,Licensed,"Doncaster Railway Station, South Yorkshire, Platform 3b",Doncaster,ENG,GB,DN1 1PE,1302341384,GMT+0:00 Europe/London,-1.14,53.52
+Starbucks,3756-145912,Village Dudley,Licensed,"Birmingham Road, Castlegate Park",Dudley,ENG,GB,DY14 4TB,8712224584,GMT+0:00 Europe/London,-2.07,52.51
+Starbucks,17503-182544,Marriott Hotel Durham,Licensed,"Old Elvet, North East Outlet Centre",Durham,ENG,GB,DH1 3JN,1913753614,GMT+0:00 Europe/London,-1.57,54.78
+Starbucks,12390-83728,Dalton Park Outlet Centre,Company Owned,"North East Outlet Centre, Dalton Park, 2/3 Bridge House",Durham,ENG,GB,SR7 9HU,1915269993,GMT+0:00 Europe/London,-1.37,54.82
+Starbucks,8095-151344,Durham - Framwellgate Bridge,Company Owned,"North Road, Framwellgate Bridge",Durham,ENG,GB,DH1 3RB,1913750387,GMT+0:00 Europe/London,-1.58,54.78
+Starbucks,18981-195184,Consett - Puddlers Corner DT,Franchise,"Puddlers Corner, Consett",Durham,ENG,GB,DH8 5XP,,GMT+0:00 Europe/London,-1.84,54.85
+Starbucks,15878-166205,Bishop Auckland Abraham EP DT,Franchise,"Abraham Enterprise Park, Unit 4, St Helen Auckland",Durham,ENG,GB,DL14 9TT,01388 602497,GMT+0:00 Europe/London,-1.69,54.64
+Starbucks,12953-140504,Ealing - The Green,Company Owned,Ealing - The Green (11-12),Ealing,ENG,GB,W5  5DA,2085675733,GMT+0:00 Europe/London,-0.31,51.51
+Starbucks,12044-10590,Ealing - Oak Road,Company Owned,7 Oak Road,Ealing,ENG,GB,W5 3SS,2085671199,GMT+0:00 Europe/London,-0.3,51.51
+Starbucks,12310-237068,East Grinstead Sainsburys,Company Owned,"Brooklands Way, Starbucks c/o Sainsbury's",East Grinstead,ENG,GB,RH19 1DD,1342315869,GMT+0:00 Europe/London,-0.02,51.13
+Starbucks,25241-271805,Cobra at Eastbourne Arndale Center,Franchise,20 Arndale Centre,Eastbourne,ENG,GB,BN21 3NW,,GMT+0:00 Europe/London,0.28,50.77
+Starbucks,22220-218787,Birmingham - Edgbaston,Franchise,30 Hagley Road,Edgbaston,ENG,GB,B16 8PE,1214556562,GMT+0:00 Europe/London,-1.92,52.47
+Starbucks,4183-140378,Birmingham Uni BHM - Edgbaston,Licensed,Muirhead Tower,Edgbaston,ENG,GB,B15 2TT,0121 414 8256,GMT+0:00 Europe/London,-1.93,52.45
+Starbucks,47766-259787,Edgeware - Station Road,Franchise,81-83 Station Road,Edgeware,ENG,GB,HA8 7JG,020 8952 1310,GMT+0:00 Europe/London,-0.28,51.61
+Starbucks,28720-250964,Edinburgh - Leith Walk,Franchise,"3 Shrub Place, Leith Walk",Edinburgh,ENG,GB,EH7 4PA,,GMT+0:00 Europe/London,-3.18,55.96
+Starbucks,32727-140305,Village Elstree,Licensed,"Centennial Avenue, Centennial Park",Elstree,ENG,GB,WD6 3SY,8712224588,GMT+0:00 Europe/London,-0.31,51.64
+Starbucks,28414-250718,"Ely, 3A The Cloisters",Franchise,3A The Cloisters,Ely,ENG,GB,CB7 4ZH,01353 661384,GMT+0:00 Europe/London,0.27,52.4
+Starbucks,29983-256286,Emsworth -Havant Bypass,Franchise,"A27 Eastbound, Havant Bypass",Emsworth,ENG,GB,,29983,GMT+0:00 Europe/London,-0.95,50.85
+Starbucks,22367-220184,Epping - High Street,Franchise,199 High Street,Epping,ENG,GB,CM16 4BL,,GMT+0:00 Europe/London,0.11,51.7
+Starbucks,47854-260060,Epsom - Ashley Centre,Franchise,"Unit 31, 18 East Gate Street, The Ashley Centre",Epsom,ENG,GB,KT18 5DA,01372 743 167,GMT+0:00 Europe/London,-0.27,51.33
+Starbucks,7166-150865,DSGI Lakeside,Licensed,"West Thurrock Retail Park, (Lakeside) Grays",Essex,ENG,GB,RM20 1WN,1708683601,GMT+0:00 Europe/London,0.28,51.49
+Starbucks,47164-256968,BishopStort WelcomeBreak-BirchGr DT,Licensed,"Dunmow Rd, Bishop's Stortford",Essex,ENG,GB,CM23 5QZ,,GMT+0:00 Europe/London,0.19,51.87
+Starbucks,27602-248046,Exeter - Alphington Road DT,Franchise,"Unit 9, Marsh Barton Trading EState",Exeter,ENG,GB,EX2 8JD,01392 436423,GMT+0:00 Europe/London,-3.53,50.71
+Starbucks,25420-240993,SSP Exeter,Licensed,"Exeter St Davids Railway Station, Concourse   Bonhay Rd, Devon",Exeter,ENG,GB,EX4 4NT,,GMT+0:00 Europe/London,-3.54,50.73
+Starbucks,24319-237001,Exeter - High Street,Franchise,5 High Street,Exeter,ENG,GB,EX4 3LF,1392424099,GMT+0:00 Europe/London,-3.53,50.72
+Starbucks,32380-138014,Bourne Leisure Devon Cliffs,Licensed,Sandy Bay,Exmouth,ENG,GB,EX8 5BT,01395 226259,GMT+0:00 Europe/London,-3.4,50.64
+Starbucks,3188-143124,Village Farnborough,Licensed,Pinehurst Avenue,Farnborough,ENG,GB,GUI4 7BF,8712224590,GMT+0:00 Europe/London,-0.76,51.29
+Starbucks,28564-250839,Farnham - Lion and Lamb Yard,Franchise,"Unit 3, Lion and Lamb Yard, Sainsbury's",Farnham,ENG,GB,GU9 7LL,,GMT+0:00 Europe/London,-0.8,51.21
+Starbucks,12257-54900,Farnham Water Lane - Sainsbury's,Company Owned,"Water Lane, Starbucks c/o Sainsbury's",Farnham,ENG,GB,GU9 9NJ,1252718299,GMT+0:00 Europe/London,-0.78,51.22
+Starbucks,47944-260613,Feltham - The Longford Centre,Franchise,"Unit 14, The Longford Centre",Feltham,ENG,GB,TW13 4BH,020 8831 9558,GMT+0:00 Europe/London,-0.41,51.45
+Starbucks,16580-173285,WB Fleet South 2nd Cafe,Licensed,M3 Services Fleet Services,Fleet,ENG,GB,GU51 1AA,,GMT+0:00 Europe/London,-0.86,51.3
+Starbucks,17500-182528,WB Fleet North 2nd Café,Licensed,M3 Services Fleet Services,Fleet,ENG,GB,GU51 1AA,,GMT+0:00 Europe/London,-0.86,51.3
+Starbucks,25242-240309,Folkestone - Bouverie Place,Franchise,Unit RU11 Bouviere Place,Folkestone,ENG,GB,CT20 1AE,,GMT+0:00 Europe/London,1.18,51.08
+Starbucks,21167-209704,Eurotunnel,Licensed,"Passenger Terminal Building,, Ashford Road, Kent",Folkestone,ENG,GB,CT18 8XX,,GMT+0:00 Europe/London,1.11,51.12
+Starbucks,20323-204844,Fraddon - Kingsley Village,Franchise,"Kingsley Village A30, Penhale, Team Valley Retail Park",Fraddon,ENG,GB,TR9 6NA,,GMT+0:00 Europe/London,-4.92,50.39
+Starbucks,10100-152587,Newcastle Next - Team Valley RP,Company Owned,"Team Valley Retail Park, Metro Centre Retail Park",Gateshead,ENG,GB,NE11 0BD,1914915175,GMT+0:00 Europe/London,-1.62,54.92
+Starbucks,15710-152299,Gateshead -Metrocentre Retail Pk DT,Company Owned,"Western Avenue, Metro Centre - Tyne and Wear",Gateshead,ENG,GB,NE11 9ZG,0191 4605040,GMT+0:00 Europe/London,-1.67,54.96
+Starbucks,12882-139967,Gateshead - Lower Mall Metrocentre,Company Owned,"11-15, Cameron Walk",Gateshead,ENG,GB,NE11 9YR,1914601086,GMT+0:00 Europe/London,-1.67,54.96
+Starbucks,15909-166824,WB Michaelwood North Kiosk,Licensed,"M5 Motorway Northbound, Junction 13/14, Lower Wick, Dursley",Gloucestershire,ENG,GB,GL11 6DD,01454 260631,GMT+0:00 Europe/London,-2.43,51.66
+Starbucks,9186-152283,WB Michaelwood South,Licensed,"M5 Motorway Southbound, Junction 13/14, Lower Wick",Gloucestershire,ENG,GB,GL11 6DD,01454 260631,GMT+0:00 Europe/London,-2.43,51.66
+Starbucks,15910-166825,WB Michaelwood South Kiosk,Licensed,"M5 Motorway Southbound, Junction 13/14, Lower Wick, Dursley",Gloucestershire,ENG,GB,GL11 6DD,01454 260631,GMT+0:00 Europe/London,-2.43,51.66
+Starbucks,9187-152282,Dursley WB Michaelwood North,Licensed,"M5 Motorway Northbound, Junction 13/14, Lower Wick",Gloucestershire,ENG,GB,GL11 6DD,01454 260631,GMT+0:00 Europe/London,-2.43,51.66
+Starbucks,23585-231431,SSP Grantham,Licensed,"Grantham Station, Station Road, Lincs",Grantham,ENG,GB,NG31 6BT,,GMT+0:00 Europe/London,-0.64,52.91
+Starbucks,47778-259777,Great Yarmouth Market Gates SC,Franchise,"Unit 31 Market Gates Shopping  Centre, Bluewater Shopping Centre",Great Yarmouth,ENG,GB,NR30 2BG,01493 843 332,GMT+0:00 Europe/London,1.73,52.61
+Starbucks,12096-11335,Bluewater - Rose Gallery - Upper,Company Owned,"Unit 007,  Upper Rose Gallery, Bluewater Shopping Centre",Greenhithe,ENG,GB,DA9 9SS,1322427777,GMT+0:00 Europe/London,0.27,51.44
+Starbucks,12083-11315,Bluewater - Guild Hall - Upper,Company Owned,"Unit 127, Upper Guild Hall",Greenhithie,ENG,GB,DA9 9SS,1322624730,GMT+0:00 Europe/London,0.27,51.44
+Starbucks,28569-250834,Guildford - White Lion Walk,Franchise,13-14 White Lion Walk,Guildford,ENG,GB,GU1 3DN,01483 300590,GMT+0:00 Europe/London,-0.58,51.24
+Starbucks,28689-250890,Guildford -Wisley North Service Stn,Franchise,Wisley North Service Station,Guildford,ENG,GB,GU23 6PT,,GMT+0:00 Europe/London,-0.49,51.29
+Starbucks,32245-134148,University of Surrey - Stag Hill,Licensed,Stag Hill Campus,Guildford,ENG,GB,GU2 7XH,01483 682145,GMT+0:00 Europe/London,-0.59,51.24
+Starbucks,28562-250842,Guildford - High Street,Franchise,195 High Street,Guildford,ENG,GB,GU1 3AW,,GMT+0:00 Europe/London,-0.57,51.24
+Starbucks,4160-147607,Guildford Uni Sports Park,Licensed,Richard Meyjes Road,Guildford,ENG,GB,GU2 7XX,01483 686542,GMT+0:00 Europe/London,-0.61,51.24
+Starbucks,18517-192045,Hailsham - A22/A267 North Street,Franchise,"A22/A267, Hellingly, The Broadway Centre",Hailsham,ENG,GB,BN27 4DT,01323 441171,GMT+0:00 Europe/London,0.23,50.88
+Starbucks,12924-137754,Hammersmith The Broadway Centre,Company Owned,"HAMMERSMITH THE BROADWAY CENTR, UNIT 5B/6",HAMMERSMITH,ENG,GB,W6 9YD,2085637209,GMT+0:00 Europe/London,-0.22,51.49
+Starbucks,9153-152276,WB Fleet North,Licensed,"Fleet Services, M3 Motorway",Hampshire,ENG,GB,GU51 1AA,01252 788500,GMT+0:00 Europe/London,-0.86,51.3
+Starbucks,16860-176444,WB Fleet North DT,Licensed,"M3 Motorway, Junction 4a-5, Fleet",Hampshire,ENG,GB,GU51 1AA,,GMT+0:00 Europe/London,-0.86,51.3
+Starbucks,9141-152275,WB Fleet South,Licensed,"M3 Motorway, Junction 4a-5",Hampshire,ENG,GB,GU51 1AA,01252 788500,GMT+0:00 Europe/London,-0.86,51.3
+Starbucks,18950-196624,Farnborough - The Meads,Franchise,"Unit 14, The Meads, Farnborough",Hampshire,ENG,GB,GU14 7RT,01252 514775,GMT+0:00 Europe/London,-0.76,51.29
+Starbucks,17300-176704,WB Cobham,Licensed,"M25 Motorway, Junction 9/10, Cobham, Sainsbury",Hampsire,ENG,GB,KT11 3DB,,GMT+0:00 Europe/London,-0.41,51.3
+Starbucks,12527-95054,Hampton - Sainsbury's,Company Owned,303 Uxbridge Road,Hampton,ENG,GB,TW12 1AW,2089415938,GMT+0:00 Europe/London,-0.38,51.43
+Starbucks,12790-140546,Hanley - The Potteries Shopping Ctr,Company Owned,"The Potteries  Shopping Centre, Unit D","Hanley, Stoke-on-Trent",ENG,GB,ST1 1PS,1782286943,GMT+0:00 Europe/London,-2.18,53.03
+Starbucks,28684-250888,Fleet - Fleet Road,Franchise,"178/180 Fleet Road, Fleets",Hants,ENG,GB,GU51 4DA,,GMT+0:00 Europe/London,-0.84,51.28
+Starbucks,26832-245766,WB Fleet South DT,Licensed,"Fleet South M3, Junction 4a/5, Fleet",Hants,ENG,GB,GU51 1AA,1252786136,GMT+0:00 Europe/London,-0.86,51.3
+Starbucks,49194-267469,"Harlow, Harvey Shopping Centre",Franchise,"Unit B2, Harvey Shopping Centre,",Harlow,ENG,GB,CM20 1XR,01279 435 703,GMT+0:00 Europe/London,0.09,51.77
+Starbucks,28699-250898,Harrogate - Victoria Shopping Ctr,Franchise,"Unit 6, Victoria Centre, Cambridge Street",Harrogate,ENG,GB,HG1 1RX,,GMT+0:00 Europe/London,-1.54,53.99
+Starbucks,47765-259788,Harrow - St Georges Centre,Franchise,Unit 17 St Georges Centre,Harrow,ENG,GB,HA1 1HS,020 8427 5120,GMT+0:00 Europe/London,-0.34,51.58
+Starbucks,3748-145904,Sheraton Hotel London,Licensed,"A4 Bath Road, Sainsbury",Hayes,ENG,GB,UB3 5BP,(208) 7592535,GMT+0:00 Europe/London,-0.42,51.48
+Starbucks,12525-237069,Haywards Heath Sainsburys,Company Owned,Bannister Way,Haywards Heath,ENG,GB,RH16 1DG,1444452274,GMT+0:00 Europe/London,-0.11,51.01
+Starbucks,26116-243594,Headington - London Road,Franchise,71 London Road,Headington,ENG,GB,OX3 9AA,01865 764 943,GMT+0:00 Europe/London,-1.21,51.76
+Starbucks,16018-161984,Heathrow - Bath Road DT,Franchise,"9 Bath Road, White Hart",Heathrow,ENG,GB,TW6 2AA,0208 8977938,GMT+0:00 Europe/London,-0.42,51.48
+Starbucks,28567-250836,Hemel Hempstead - Riverside SC,Franchise,"Unit C7, Riverside",Hemel Hempstead,ENG,GB,HP1 1BT,,GMT+0:00 Europe/London,-0.47,51.75
+Starbucks,28563-250841,Henley - Market Street,Franchise,Market Street,Henley-on-Thames,ENG,GB,RG9 2BA,,GMT+0:00 Europe/London,-0.9,51.54
+Starbucks,26107-243593,Hereford - Commercial Street,Franchise,62 Commercial Street,Hereford,ENG,GB,HR1 2DJ,01432 360 821,GMT+0:00 Europe/London,-2.71,52.06
+Starbucks,27643-248282,Hertford - Birchley Green,Franchise,Unit 8&9 Birchley Green,Hertford,ENG,GB,SG14 1BN,,GMT+0:00 Europe/London,-0.08,51.8
+Starbucks,9139-152280,WB Birchanger,Licensed,"M11 Motorway, Junction 8, Old Dunmow Road, Bishop Stortford",Hertfordshire,ENG,GB,CM23 5QZ,1279653388,GMT+0:00 Europe/London,0.19,51.87
+Starbucks,9138-152281,WB South Mimms,Licensed,"M25 Motorway, Junction 23, Bignall Corner, Potters Bar",Hertforshire,ENG,GB,EN6 3QQ,(0)1707 646 333,GMT+0:00 Europe/London,-0.22,51.69
+Starbucks,27255-243845,Hexham - Bridge End DT,Franchise,Bridge End,Hexham,ENG,GB,NE46 4DL,1434605866,GMT+0:00 Europe/London,-2.09,54.98
+Starbucks,28683-250884,High Wycombe - Eden Walk SC,Franchise,"Unit 9, Eden Centre",High Wycombe,ENG,GB,HP11 2BZ,,GMT+0:00 Europe/London,-0.75,51.63
+Starbucks,26111-243609,Hitchin - Market Place,Franchise,6-7 MARKET PLACE,Hitchin,ENG,GB,SG5 1DR,01462 453 109,GMT+0:00 Europe/London,-0.28,51.95
+Starbucks,20406-205385,Hornchurch - High Street,Franchise,127 High Street,Hornchurch,ENG,GB,RM11 1TX,,GMT+0:00 Europe/London,0.22,51.56
+Starbucks,28397-250691,Bolton - Middlebrook Retail Park,Franchise,"6C, Unit 17, The Linkway, Middlebrook Retail & Leisure Park",Horwich,ENG,GB,BL6 6JA,,GMT+0:00 Europe/London,-2.53,53.58
+Starbucks,47945-260612,Hounslow - High Street,Franchise,198 High Street,Hounslow,ENG,GB,TW3 1HL,020 8570 1356,GMT+0:00 Europe/London,-0.36,51.47
+Starbucks,18421-190945,SSP Heathrow T5C,Licensed,Terminal 5 Airside,Hounslow,ENG,GB,TW6 2GA,020 8283 7696,GMT+0:00 Europe/London,-0.48,51.47
+Starbucks,26549-244527,Heathrow Airport T5B AirsideLondon,Licensed,"Heathrow Airport, Terminal 5B Airside",Houslow,ENG,GB,TW62GA,,GMT+0:00 Europe/London,-0.49,51.47
+Starbucks,25243-240308,Hove - Western Road,Franchise,"50 -51 Western Road, The Pod - St. Stephens Centre",Hove,ENG,GB,BN3 1JD,,GMT+0:00 Europe/London,-0.16,50.83
+Starbucks,12664-103507,Hull - St Stephens Centre,Company Owned,"St Stephens Centre, Ferensway",Hull,ENG,GB,HU1 3UF,1482211501,GMT+0:00 Europe/London,-0.33,53.74
+Starbucks,15163-157704,Village Hull,Licensed,Henry Boot Way,Hull,ENG,GB,HU4 7DY,01482 560911,GMT+0:00 Europe/London,-0.41,53.72
+Starbucks,17509-182526,WB Membury 2nd Cafe,Licensed,"M4 Motorway, Junction 14/15, Lambourne",Hungerford,ENG,GB,RG17 7TZ,,GMT+0:00 Europe/London,-1.56,51.48
+Starbucks,22194-218828,WB Membury South DT,Licensed,"M4 Motorway, J14/15 membury,, Lambourne,Berks,",Hungerford,ENG,GB,RG17 7TZ,,GMT+0:00 Europe/London,-1.56,51.48
+Starbucks,18362-190424,WB Membury North DT,Licensed,"M4 Motorway, Junction 14/15, Lambourne",Hungerford,ENG,GB,RG17 7TZ,,GMT+0:00 Europe/London,-1.56,51.48
+Starbucks,26108-243612,Huntingdon - Chequers Court,Franchise,"CHEQUERS COURT, UNITS B&C",Huntingdon,ENG,GB,PE29 3NB,01480 411 910,GMT+0:00 Europe/London,-0.18,52.33
+Starbucks,17501-182565,Village Hyde,Licensed,Captain Clarke Road,Hyde,ENG,GB,SK14 4QG,8712224586,GMT+0:00 Europe/London,-2.09,53.47
+Starbucks,49006-266325,Ilford - High Road,Franchise,"88 High Road, Ilford",Ilford,ENG,GB,IG1 1DN,0208 553 3232,GMT+0:00 Europe/London,0.07,51.56
+Starbucks,47772-259783,Ipswich Tavern Street,Franchise,41 - 49 Tavern Street,Ipswich,ENG,GB,IP1 3AG,01473 214 760,GMT+0:00 Europe/London,1.16,52.06
+Starbucks,29451-253088,Ipswich Station SSPEMEA - Burrell R,Licensed,"Ipswich Station, Burrell Road, Suffolk",Ipswich,ENG,GB,IP2 8AN,,GMT+0:00 Europe/London,1.14,52.05
+Starbucks,20727-208168,Cineworld Ipswich,Licensed,"Cineworld Cinemas, Cardinal Park, Grafton Way (11)",Ipswich,ENG,GB,IP1 1AX,0871-200-2000,GMT+0:00 Europe/London,1.15,52.05
+Starbucks,21328-211887,Capel St Mary - A12 South,Franchise,"The A12 (southbound), Capel St Mary",Ipswich,ENG,GB,IP9 2JJ,01473 311552,GMT+0:00 Europe/London,1.06,52
+Starbucks,28413-250714,"Douglas, Isle of Man",Franchise,"18/20 Victoria Str & 41/45 Duke Str, Douglas",Isle of Man,ENG,GB,IM1 2AU,01624 628269,GMT+0:00 Europe/London,-4.48,54.15
+Starbucks,32591-138011,DeMontford Hotel Kenilworth,Licensed,212 Abbey End,Kenilworth,ENG,GB,CV8 1ED,1926514190,GMT+0:00 Europe/London,-1.58,52.34
+Starbucks,1134-152287,WB London Gateway,Licensed,"M1 Motorway, Junction 2/4, Mill Hill",Kent,ENG,GB,CT18 8XX,02089 060611,GMT+0:00 Europe/London,-0.26,51.63
+Starbucks,18172-188369,Kettering - Cherry Hall Rd DT,Franchise,"Cherry Hall Road, Unit A, Kettering Business Park-Northamptonshire, Weavers Wharf Retail Park",Kettering,ENG,GB,NN14 1UD,01536 412942,GMT+0:00 Europe/London,-0.73,52.43
+Starbucks,1560-140952,Kidderminster - Weavers Wharf,Company Owned,Weavers Wharf Retail Park,Kidderminster,ENG,GB,DY10 1AA,01562 825713,GMT+0:00 Europe/London,-2.25,52.39
+Starbucks,12935-140407,Kilburn - High Road,Company Owned,"Kilburn - High Road ( 24-32), The Bentall Centre",KILBURN,ENG,GB,NW6 5UA,2073726430,GMT+0:00 Europe/London,-0.19,51.54
+Starbucks,12514-94541,Kingston-Bentall Centre,Company Owned,"Wood Street, Unit G27, Bentall Centre",Kingston Upon Thames,ENG,GB,KT1 1TR,2089749186,GMT+0:00 Europe/London,-0.3,51.41
+Starbucks,3793-152297,WB Abington,Licensed,"M74 Motorway, Junction 13, Abington, Biggar",Lanarkshire,ENG,GB,ML12 6RG,01864 502 637,GMT+0:00 Europe/London,-3.69,55.51
+Starbucks,3758-145906,Preston - Ribby Hall Village,Licensed,"Ribby Road, Wrea Green",Lancashire,ENG,GB,PR4 2PR,01772 674528,GMT+0:00 Europe/London,-2.9,53.78
+Starbucks,28405-250704,Lancaster - Market Street,Franchise,"19 Market Street, The Shires Retail Park",Lancaster,ENG,GB,LA1 1HZ,,GMT+0:00 Europe/London,-2.8,54.05
+Starbucks,12598-98207,Leamington Spa - Sainsburys,Company Owned,"The Shires Retail Park, Tachbrook Park Drive",Leamington Spa,ENG,GB,CV34 6RH,1926831598,GMT+0:00 Europe/London,-1.55,52.28
+Starbucks,26114-243606,Leamington Spa - Warwick Street,Franchise,"UNIT 2, PRIORS GATE, WARWICK STREET",Leamington Spa,ENG,GB,CV32 4QC,01926 420 305,GMT+0:00 Europe/London,-1.53,52.29
+Starbucks,15162-157705,Village Leeds Otley Rd,Licensed,"186 Otley Road, Headingley",Leeds,ENG,GB,LS16 5PR,1133236150,GMT+0:00 Europe/London,-1.59,53.84
+Starbucks,28705-250895,Leeds - Briggate,Franchise,80 Briggate,Leeds,ENG,GB,LS1 6LQ,,GMT+0:00 Europe/London,-1.54,53.8
+Starbucks,28704-250908,Leeds - Street Lane,Franchise,56 Street Lane,Leeds,ENG,GB,LS8 2ET,,GMT+0:00 Europe/London,-1.5,53.84
+Starbucks,47833-260048,Leeds - The Light-,Franchise,"Unit 64 The Light, The Headrow",Leeds,ENG,GB,LS1 8EQ,0113 245 9757,GMT+0:00 Europe/London,-1.55,53.8
+Starbucks,32743-140304,Village Leeds Capitol Blvd,Licensed,"Capitol Boulevard, Tingley",Leeds,ENG,GB,LS27 0TS,0113 3878250,GMT+0:00 Europe/London,-1.59,53.73
+Starbucks,12370-78700,Leeds - Station Bridgelink,Company Owned,"Bridgelink, Mobile Unit 4, Leeds City Station",Leeds,ENG,GB,LS1 4DT,1132435543,GMT+0:00 Europe/London,-1.55,53.79
+Starbucks,12082-11905,"Leeds - Station, North Concourse",Company Owned,Unit 2 North Concourse,Leeds,ENG,GB,LS1 4DT,1132455449,GMT+0:00 Europe/London,-1.55,53.8
+Starbucks,47939-260606,Leeds - West One Wellington Street,Franchise,"Unit A, West One, Wellington Street",Leeds,ENG,GB,LS1 1BA,01132 456 786,GMT+0:00 Europe/London,-1.56,53.8
+Starbucks,28698-250897,Leeds - Albion Street,Franchise,48 Albion Street,Leeds,ENG,GB,LS1 6AB,,GMT+0:00 Europe/London,-1.54,53.8
+Starbucks,28706-250907,Leeds - Bridgewater Place,Franchise,Unit2B Bridgewater Place,Leeds,ENG,GB,LS11 5BZ,,GMT+0:00 Europe/London,-1.55,53.79
+Starbucks,28694-250906,Leeds - City Point,Franchise,"9-11 St Paul's Street/King Street, Unit 2",Leeds City Point,ENG,GB,LS1  2HL,01132 455087,GMT+0:00 Europe/London,-1.55,53.8
+Starbucks,12715-106313,Leicester - Thurmaston Retail Park,Company Owned,"Thurmaston Retail Park, Unit 12b",Leicester,ENG,GB,LE4 8GP,1162602589,GMT+0:00 Europe/London,-1.09,52.68
+Starbucks,12474-154324,Leicester Uni,Licensed,"University Road, Percy Gee Building, Highcross Leicester",Leicester,ENG,GB,LEI 7RH,0116 2231214,GMT+0:00 Europe/London,-1.13,52.62
+Starbucks,12524-94988,Leicester - Highcross Shopping Ctr,Company Owned,"5 Shires Lane, Unit 28",Leicester,ENG,GB,LE1 4FP,1162513850,GMT+0:00 Europe/London,-1.14,52.64
+Starbucks,27650-248322,Leicester - Upperton Road,Franchise,"The Old Railway Shed, Upperton Road",Leicester,ENG,GB,LE3 0BG,,GMT+0:00 Europe/London,-1.15,52.63
+Starbucks,26830-245769,WB Leicester FE North DT,Licensed,"Leicester Forest East M1, Junction 21/21a",Leicester,ENG,GB,LE3 3GB,1162386801,GMT+0:00 Europe/London,-1.21,52.62
+Starbucks,17504-182529,WB Leicester FE North,Licensed,"M1 Motorway , Junction 21, Leicester Forest East",Leicester,ENG,GB,LE3 3GB,1162386801,GMT+0:00 Europe/London,-1.21,52.62
+Starbucks,9185-152268,WB Leicester FE South,Licensed,"M1 Motorway Southbound, Junction 21, Leicester Forest East",Leicester,ENG,GB,LE3 3GB,0116 2386801,GMT+0:00 Europe/London,-1.21,52.62
+Starbucks,47869-260051,Lincoln - High Street-,Franchise,313 High Street,Lincoln,ENG,GB,LN5 7DR,01522 575 780,GMT+0:00 Europe/London,-0.54,53.23
+Starbucks,28289-250624,Lincoln - Tritton Retail Park,Franchise,"Unit 9, Tritton Retail Park",Lincoln,ENG,GB,LN6 7AN,,GMT+0:00 Europe/London,-0.55,53.22
+Starbucks,16287-170232,Holiday Inn Lincoln,Licensed,"Brayford Wharf North, Kew Green Hotel",Lincoln,ENG,GB,LN1 1YW,1522544244,GMT+0:00 Europe/London,-0.55,53.23
+Starbucks,18363-190444,Liphook - A3 Northbound DT,Franchise,A3 Northbound,Liphook,ENG,GB,GU30 7TT,01428 725202,GMT+0:00 Europe/London,-0.82,51.08
+Starbucks,12453-154387,Old Thorns Hotel,Licensed,Griggs Green,Liphook,ENG,GB,GU30 7PE,01428 725876,GMT+0:00 Europe/London,-0.83,51.08
+Starbucks,18671-194105,Liverpool LJMU - Byrom St,Licensed,"Bryom Street, James Parson Building",Liverpool,ENG,GB,L3 3AF,1512312514,GMT+0:00 Europe/London,-2.98,53.41
+Starbucks,15883-158324,Liverpool - Speke Boulevard DT,Franchise,Speke Boulevard,Liverpool,ENG,GB,L24 9HZ,,GMT+0:00 Europe/London,-2.85,53.35
+Starbucks,15708-97735,SSP Liverpool Airside,Licensed,"Airside Departures Lounge, Unit RA2.18, Terminal Building",Liverpool,ENG,GB,L24 1YD,0151 9071165,GMT+0:00 Europe/London,-2.86,53.34
+Starbucks,23350-229325,Liverpool Uni Merseyside,Licensed,"Liverpool University Guild of Students, 160 Mount Pleasant, Merseyside",Liverpool,ENG,GB,L69 7BR,1517952610,GMT+0:00 Europe/London,-2.96,53.41
+Starbucks,18171-188368,Liverpool - Sugarbrook DT,Franchise,"East Lancashire Road, Unit (A)",Liverpool,ENG,GB,L11 2ST,,GMT+0:00 Europe/London,-2.92,53.46
+Starbucks,15348-160524,SSP Liverpool  Landside,Licensed,Liverpool John Lennon Airport - Landside,Liverpool,ENG,GB,L24 1YD,1519071121,GMT+0:00 Europe/London,-2.86,53.34
+Starbucks,28408-250701,Liverpool - Old Hall Street,Franchise,"The Old Cotton Exchange, Old Hall Street",Liverpool,ENG,GB,L3 9LQ,,GMT+0:00 Europe/London,-2.99,53.41
+Starbucks,28400-250698,Liverpool - Prescot Street,Franchise,"Unit 2A Prospect Point, Prescot Street",Liverpool,ENG,GB,L6 1BA,,GMT+0:00 Europe/London,-2.97,53.41
+Starbucks,28409-250699,Liverpool - Paradise Street,Franchise,104a Paradise Street,Liverpool,ENG,GB,L1 8JF,,GMT+0:00 Europe/London,-2.99,53.4
+Starbucks,28406-250705,Liverpool One - Thomas Steers Way,Franchise,"Unit P28, Liverpool One, 2 Thomas Steers Way",Liverpool,ENG,GB,L1 8LW,0151 7096700,GMT+0:00 Europe/London,-2.99,53.4
+Starbucks,17480-177564,Liverpool LJMU - Clarence St,Licensed,"Clarence Street, Redmonds Building",Liverpool,ENG,GB,L3 5UG,0151 231 3818,GMT+0:00 Europe/London,-2.97,53.41
+Starbucks,26936-246145,"Liverpool, Myrtle Street",Franchise,1b Myrtle Street,Liverpool,ENG,GB,L7 7DN,0151 306 2183,GMT+0:00 Europe/London,-2.97,53.4
+Starbucks,12929-137795,Clapham - St. John's Road,Company Owned,"37-39 St. John's Road, Brixton Underground Station",London,ENG,GB,SW11 1QN,2079244670,GMT+0:00 Europe/London,-0.17,51.46
+Starbucks,7013-150064,Brixton Station,Company Owned,"Shop 5, Brixton Underground Station",London,ENG,GB,SW9,2072747979,GMT+0:00 Europe/London,-0.11,51.46
+Starbucks,14945-154366,Stansted Airport DT,Franchise,"A120 Thermal Lane, London Stansted Airport",London,ENG,GB,CM24 1PY,01279 680361,GMT+0:00 Europe/London,0.25,51.88
+Starbucks,12949-140506,Juxon House - St. Pauls Church Yard,Company Owned,"St. Paul's Church Yard, Juxon House, Unit 2, Regents Corner",London,ENG,GB,EC4M 8EH,2072480359,GMT+0:00 Europe/London,-0.1,51.51
+Starbucks,12600-98209,Pentonville Road,Company Owned,"296 Pentoville Road, Regents Corner, London - KingsCross",London,ENG,GB,N1 9NR,2078121073,GMT+0:00 Europe/London,-0.12,51.53
+Starbucks,12130-15520,Earls Court Road,Company Owned,186 Earls Court Road,London,ENG,GB,SW5 9QG,2073731067,GMT+0:00 Europe/London,-0.19,51.49
+Starbucks,12079-11904,Notting Hill - Portobello Road,Company Owned,227 Portobello Road,London,ENG,GB,W11 1LT,2077275881,GMT+0:00 Europe/London,-0.21,51.52
+Starbucks,12283-55721,Great Portland Street,Company Owned,"159 Great Portland Street, Canary Wharf - Jubilee",London,ENG,GB,W1N 5FD,2076362038,GMT+0:00 Europe/London,-0.14,51.52
+Starbucks,12081-11216,Canary Wharf - Canada Square,Company Owned,"Unit R:P:490, One Canada Square",London,ENG,GB,E14  5AB,2075129908,GMT+0:00 Europe/London,-0.02,51.5
+Starbucks,12680-104297,Balham - Bedford Hill,Company Owned,"41 - 43 Bedford Hill, Balham",London,ENG,GB,SW12 9EY,2087726583,GMT+0:00 Europe/London,-0.15,51.44
+Starbucks,12063-10609,Earls Court - Old Brompton Road,Company Owned,259 Old Brompton Road,London,ENG,GB,SW5 9HP,2073706482,GMT+0:00 Europe/London,-0.19,51.49
+Starbucks,12365-77687,Walbrook,Company Owned,38 Walbrook,London,ENG,GB,EC4N 8BN,2076261391,GMT+0:00 Europe/London,-0.09,51.51
+Starbucks,12823-140547,Wigmore Street,Company Owned,132 Wigmore Street,London,ENG,GB,W1U 3SD,2074875417,GMT+0:00 Europe/London,-0.15,51.52
+Starbucks,16936-176204,"Tooting Broadway, Mitcham Road",Company Owned,"2 Mitcham Road, Tooting Broadway",London,ENG,GB,SW17 9ND,2087678321,GMT+0:00 Europe/London,-0.17,51.43
+Starbucks,12401-85700,Islington - High Street,Company Owned,"7 Islington High st, Chantrey House",London,ENG,GB,N1 9LQ,2072784778,GMT+0:00 Europe/London,-0.11,51.53
+Starbucks,12373-78720,Victoria - Buckingham Palace Road,Company Owned,"98 Buckingham Palace road, Chantrey House",London,ENG,GB,SW1W 0SS,2072590347,GMT+0:00 Europe/London,-0.15,51.49
+Starbucks,48307-262809,Wood Lane Underground Station-,Franchise,Wood Lane Underground Station,London,ENG,GB,W12 7RH,2087492014,GMT+0:00 Europe/London,-0.22,51.51
+Starbucks,48984-265754,Ealing Broadway Haven Green,Company Owned,"The Broadway, Central Chambers",London,ENG,GB,W5 2NT,2085673943,GMT+0:00 Europe/London,-0.3,51.51
+Starbucks,12917-137790,Moorgate,Company Owned,17 Moorgate,London,ENG,GB,EC2R 6PH,020 7600 6967,GMT+0:00 Europe/London,-0.09,51.52
+Starbucks,12177-23186,Earls Court - Sainsbury's,Company Owned,"158 Cromwell Road, Coffe Shop Unit Sainsbury's",London,ENG,GB,SW7 4EJ,2073703416,GMT+0:00 Europe/London,-0.19,51.5
+Starbucks,12971-140948,London - Westfield - Upper Mall,Company Owned,Unit 2122,London,ENG,GB,W12 7GE,2087497088,GMT+0:00 Europe/London,-0.22,51.51
+Starbucks,12768-140465,Dulwich - Sainsbury's,Company Owned,"80 Dog Kennel Hill, East Dulwich",London,ENG,GB,SE22 8AA,2077334314,GMT+0:00 Europe/London,-0.08,51.46
+Starbucks,12385-82660,Victoria-Palmer Street,Company Owned,16-18 Palmer Street,London,ENG,GB,SW1H 0AD,2072333475,GMT+0:00 Europe/London,-0.14,51.5
+Starbucks,12073-11116,Kensington - Gloucester Rd,Company Owned,"17-35 Gloucester Road, Unit 5",London,ENG,GB,SW7 4PL,2075812368,GMT+0:00 Europe/London,-0.18,51.5
+Starbucks,12362-75901,Fulham Broadway Station,Company Owned,"Fulham Broadway Station, Unit 4",London,ENG,GB,SW61BY,2076103736,GMT+0:00 Europe/London,-0.19,51.48
+Starbucks,12314-62402,Southampton Row,Company Owned,"124 Southhampton Row, Broadway",London,ENG,GB,WC1B 5AA,2074046420,GMT+0:00 Europe/London,-0.12,51.52
+Starbucks,12052-10419,Muswell Hill - Broadway,Company Owned,"114 Muswell Hill,",London,ENG,GB,N10 3RU,2088838559,GMT+0:00 Europe/London,-0.14,51.59
+Starbucks,29489-254066,"The Lion, 1 Junction",Franchise,"The Lion, 1 Junction Road, London",London,ENG,GB,N19 5QT,2072721930,GMT+0:00 Europe/London,-0.13,51.57
+Starbucks,12359-75880,Clapham High Street,Company Owned,"202/204 Clapham High Street, Ground Floor",London,ENG,GB,SW4 7UD,2076270817,GMT+0:00 Europe/London,-0.14,51.46
+Starbucks,12671-104117,Greenwich - The O2,Company Owned,"The O2, Unit 101",London,ENG,GB,SE10 0BB,2082691303,GMT+0:00 Europe/London,0,51.5
+Starbucks,12122-11946,Wardour Street/Hollen Street,Company Owned,"170 Wardour Street, The Circle",London,ENG,GB,W1V 4LA,2072871956,GMT+0:00 Europe/London,-0.14,51.52
+Starbucks,12754-137688,St Pancras International Station,Company Owned,"St Pancras International Station, Unit 24",London,ENG,GB,NW1 2QL,2072784878,GMT+0:00 Europe/London,-0.13,51.53
+Starbucks,15105-157269,DSGI Fulham,Licensed,Wandsworth Bridge Road,London,ENG,GB,SW6 2TZ,2073847259,GMT+0:00 Europe/London,-0.19,51.47
+Starbucks,12261-55319,Notting Hill Gate,Company Owned,64 Notting Hill Gate,London,ENG,GB,W11 3HT,2072296233,GMT+0:00 Europe/London,-0.2,51.51
+Starbucks,12546-95758,Shepherds Bush - Uxbridge Road,Company Owned,"62 Uxbridge Road, Shepherds Bush",London,ENG,GB,W12 8LP,2088112324,GMT+0:00 Europe/London,-0.22,51.5
+Starbucks,12006-10257,Grosvenor Street,Company Owned,3 Grosvenor Street,London,ENG,GB,W1K 4PU,020 7495 5534,GMT+0:00 Europe/London,-0.15,51.51
+Starbucks,12207-33145,Finsbury Square,Company Owned,"74/78 Finsbury Pavement, Units 4",London,ENG,GB,EC2A 1AT,2075889286,GMT+0:00 Europe/London,-0.09,51.52
+Starbucks,12021-10341,Carnaby Street,Company Owned,"34 Great Marlborough St, (Carnaby Street)",London,ENG,GB,W1F 7JD,2074340778,GMT+0:00 Europe/London,-0.14,51.51
+Starbucks,12144-16814,Cowcross Place,Company Owned,"Zinc House, Unit 1",London,ENG,GB,EC1M 6DQ,2074903973,GMT+0:00 Europe/London,-0.1,51.52
+Starbucks,17548-183076,Byward Street,Company Owned,9 Byward Street,London,ENG,GB,EC3R 5AS,2072832474,GMT+0:00 Europe/London,-0.08,51.51
+Starbucks,12278-55759,Great Russell Street,Company Owned,51 Great Russell Street,London,ENG,GB,WC1B 3BA,2074044939,GMT+0:00 Europe/London,-0.13,51.52
+Starbucks,16660-174224,SSP Liverpool St Broadgate Link,Licensed,59 Broadgate Link,London,ENG,GB,EC2M 7PY,,GMT+0:00 Europe/London,-0.08,51.52
+Starbucks,12436-92761,White City - Vivacity,Company Owned,"201 Wood Lane, Media Village, Kensington High St.",London,ENG,GB,W12 7TU,2087429326,GMT+0:00 Europe/London,-0.23,51.51
+Starbucks,12004-10855,Kensington High Street,Company Owned,"25a Kensington High St, J Sainsbury's plc",London,ENG,GB,W8 5NP,2079375446,GMT+0:00 Europe/London,-0.19,51.5
+Starbucks,12300-65543,Hendon - Sainsbury's,Company Owned,"Hyde Estate Road, Starbucks c/o Sainsbury's, Starbucks c/o Sainsbury's",London,ENG,GB,NW9 6JX,2082058928,GMT+0:00 Europe/London,-0.24,51.58
+Starbucks,12277-56620,Winchmore Hill - Sainsbury's,Company Owned,"681 Greens Lane, Winchmore Hill",London,ENG,GB,N21 3RS,2083643726,GMT+0:00 Europe/London,-0.1,51.63
+Starbucks,12202-23649,Leadenhall Street,Company Owned,11 Leadenhall Street,London,ENG,GB,EC3V 1LP,2076231745,GMT+0:00 Europe/London,-0.08,51.51
+Starbucks,12374-78721,High Holborn,Company Owned,90 High Holborn,London,ENG,GB,WC1V 6LJ,2072421598,GMT+0:00 Europe/London,-0.12,51.52
+Starbucks,25409-240951,Fox Excel,Franchise,"Warehouse K, ExCel Centre, 2 Western Gateway",London,ENG,GB,E16 1DR,0207 4768168,GMT+0:00 Europe/London,0.03,51.51
+Starbucks,12656-102946,St Martins Lane,Company Owned,99 St Martins Lane,London,ENG,GB,WC2N 4AS,2072405789,GMT+0:00 Europe/London,-0.13,51.51
+Starbucks,12796-140418,Baker Street (58),Company Owned,58 Baker Street,London,ENG,GB,W1U 7DD,2074863968,GMT+0:00 Europe/London,-0.16,51.52
+Starbucks,25631-241705,Upper St Martins Lane,Company Owned,5 Upper ST Martins Lane,London,ENG,GB,WC2H 9EA,2072408591,GMT+0:00 Europe/London,-0.13,51.51
+Starbucks,12151-19263,Fulham - Chels&West Hospital,Company Owned,"369 Fulham Road, Unit A and B",London,ENG,GB,SW10 9TR,2077951772,GMT+0:00 Europe/London,-0.18,51.49
+Starbucks,12205-34522,Holland Park Avenue,Company Owned,76 - 78 Holland Park Avenue,London,ENG,GB,W11 3RB,2072297357,GMT+0:00 Europe/London,-0.21,51.51
+Starbucks,22891-225945,Knightsbridge Underground,Franchise,"New Retail Unit, Knightsbridge Underground Station",London,ENG,GB,SW3 1ED,,GMT+0:00 Europe/London,-0.16,51.5
+Starbucks,12318-47400,Hampstead - South End Road,Company Owned,"5-7 South End Road, South Hampstead",London,ENG,GB,NW3 2PT,2074314744,GMT+0:00 Europe/London,-0.17,51.55
+Starbucks,12779-140491,Palmers Green - Green Lanes,Company Owned,"305-307 Green Lanes, London, Heathrow Express Area",London,ENG,GB,N13 4YB,2088862587,GMT+0:00 Europe/London,-0.11,51.62
+Starbucks,12541-95604,Paddington Station - Mezzanine,Company Owned,"Heathrow Express Area, Unit 3 - The Lawns., The Brunswick Centre",London,ENG,GB,W2 1AE,2077067268,GMT+0:00 Europe/London,-0.18,51.52
+Starbucks,12420-88040,Brunswick Centre,Company Owned,"Brunswick Centre, Unit 7",London,ENG,GB,WC1N 1AW,2078370567,GMT+0:00 Europe/London,-0.12,51.52
+Starbucks,3607-145624,SSP Liverpoll St Bishopsgate,Licensed,Lower Concourse,London,ENG,GB,EC2M 7QH,2072470438,GMT+0:00 Europe/London,-0.08,51.52
+Starbucks,12162-22021,Euston Tower,Company Owned,"Unit 1A Euston Tower Podium, Regents Place",London,ENG,GB,NW1 3DP,2073887651,GMT+0:00 Europe/London,-0.14,51.53
+Starbucks,12898-137731,Surrey Quays Shopping Ctr - Ground,Company Owned,"13-15 Surrey Quays, Unit B",London,ENG,GB,SE16 7LL,020 7231 4939,GMT+0:00 Europe/London,-0.05,51.49
+Starbucks,12376-78821,Wardour Street/Brewer Street,Company Owned,"60 - 66 Wardour Street, Ground Floor",London,ENG,GB,W1F 0TA,2072874834,GMT+0:00 Europe/London,-0.13,51.51
+Starbucks,12291-47983,Cavendish Square,Company Owned,"33 Cavendish Square, Unit 1",London,ENG,GB,W1G 0PW,2076290191,GMT+0:00 Europe/London,-0.14,51.52
+Starbucks,12119-11947,Golders Green,Company Owned,"7-9 Golders Green Road, The Torrington Public House",London,ENG,GB,NW11 8DY,2084584218,GMT+0:00 Europe/London,-0.2,51.57
+Starbucks,12601-98270,North Finchley - High Road,Company Owned,"811 High Road, Unit A, The Torrington Public House",London,ENG,GB,N12 8JR,2084927765,GMT+0:00 Europe/London,-0.18,51.62
+Starbucks,12639-101079,Vauxhall - Lambeth Road,Company Owned,"2 South Lambeth Road, Vauxhall",London,ENG,GB,SW8 1SP,2075871914,GMT+0:00 Europe/London,-0.12,51.49
+Starbucks,12197-33141,Cheapside,Company Owned,"143-144 Cheapside, Unit 3",London,ENG,GB,EC2V 6BJ,2076004711,GMT+0:00 Europe/London,-0.1,51.51
+Starbucks,12404-85703,Embankment,Company Owned,1-3 Villiers street,London,ENG,GB,WC2N 6NN,2079300649,GMT+0:00 Europe/London,-0.12,51.51
+Starbucks,12085-11295,Hampstead - West End Lane,Company Owned,201A West End Lane,London,ENG,GB,NW6 2LJ,2073729614,GMT+0:00 Europe/London,-0.19,51.55
+Starbucks,12078-11926,Villiers Street,Company Owned,"14 Villiers Street, Unit 14, Whiteleys of Bayswater",London,ENG,GB,WC2N 6NQ,2079302129,GMT+0:00 Europe/London,-0.12,51.51
+Starbucks,12065-10876,Bayswater - Whiteleys,Company Owned,"Unit 217,   2nd Floor, Unit 217 (2nd Floor)",London,ENG,GB,W2 4BS,2077271939,GMT+0:00 Europe/London,-0.19,51.51
+Starbucks,28836-251454,Victoria Coach Station,Franchise,"Unit 2.1, departures terminal gate 11",London,ENG,GB,SW1W 9TP,020 7730 2306,GMT+0:00 Europe/London,-0.15,51.49
+Starbucks,12068-11195,Langham Place W1,Company Owned,1 - 2  Langham Place,London,ENG,GB,W1B 3DE,2075806199,GMT+0:00 Europe/London,-0.14,51.52
+Starbucks,12072-11115,Clapham - Northcote Road,Company Owned,33/38 Northcote Road,London,ENG,GB,SW11 1NZ,2073502887,GMT+0:00 Europe/London,-0.17,51.46
+Starbucks,12153-17957,Minories,Company Owned,48-50 Minories,London,ENG,GB,EC3N 1JJ,2077023428,GMT+0:00 Europe/London,-0.08,51.51
+Starbucks,15880-162205,SSP Waterloo Main Store,Licensed,"12 A Mepham Street, Main concourse opposite platform 19/20, The Coronium Cafe",London,ENG,GB,SE1 8SE,,GMT+0:00 Europe/London,-0.11,51.5
+Starbucks,12275-63746,Docklands - St Katharine's Dock,Company Owned,Cloister Walk,London,ENG,GB,E1 9LD,2076801125,GMT+0:00 Europe/London,-0.07,51.51
+Starbucks,18562-192607,SSP King's Cross Kiosk,Licensed,Northern Ticket Hall (Unit 2),London,ENG,GB,NW1 2AL,,GMT+0:00 Europe/London,-0.12,51.53
+Starbucks,27845-248888,London Cineworld Fulham Road,Licensed,"Cineworld Cinemas, 142 Fulham Road, West One Centre",London,ENG,GB,SW10 9QR,,GMT+0:00 Europe/London,-0.18,51.49
+Starbucks,12808-140544,West One Centre,Company Owned,"381 Oxford Street, Unit G13",London,ENG,GB,W1C 2JS,020 76295404,GMT+0:00 Europe/London,-0.15,51.51
+Starbucks,12315-62403,Euston Road,Company Owned,93 Euston Road,London,ENG,GB,NW1 2RA,2073872505,GMT+0:00 Europe/London,-0.13,51.53
+Starbucks,12685-104385,Whitechapel Road,Company Owned,"45 Whitechapel Road, Unit 5",London,ENG,GB,E1 1DU,2072473729,GMT+0:00 Europe/London,-0.07,51.52
+Starbucks,12437-92928,Maida Vale - Randolph Ave,Company Owned,"168-170 Randolph Avenue, Maidavale",London,ENG,GB,W9 1PE,2073725918,GMT+0:00 Europe/London,-0.19,51.53
+Starbucks,12212-38581,Brushfield Street,Company Owned,8-10 Brushfield Street,London,ENG,GB,E1 6AN,2072479087,GMT+0:00 Europe/London,-0.08,51.52
+Starbucks,16025-157744,Stratford - Westfield Lower Ground,Company Owned,"Unit SU0038, Westfield Stratford",London,ENG,GB,E15,2085346698,GMT+0:00 Europe/London,-0.01,51.54
+Starbucks,12752-140612,Raynes Park,Company Owned,"Raynes Park, 1,3,5 Station Buildings",London,ENG,GB,SW20 0JY,2089712036,GMT+0:00 Europe/London,-0.23,51.41
+Starbucks,12297-55099,Southfields - Replingham Road,Company Owned,"11 Replingham Road, Southfields, Notting Hill Gate",London,ENG,GB,SW18 5LT,2088714305,GMT+0:00 Europe/London,-0.21,51.44
+Starbucks,12025-10403,Pembridge Road,Company Owned,26 Pembridge Road,London,ENG,GB,W11 3HL,2072434313,GMT+0:00 Europe/London,-0.2,51.51
+Starbucks,47373-254294,"Uxbridge Road, Ealing Common",Franchise,"433-435 Uxbridge Road, Ealing Common",London,ENG,GB,W5 3NT,,GMT+0:00 Europe/London,-0.29,51.51
+Starbucks,12158-22023,Belsize Park - Englands Lane,Company Owned,"57 Englands Lane, Belsize Park",London,ENG,GB,NW3 4YD,2075861777,GMT+0:00 Europe/London,-0.16,51.55
+Starbucks,29850-255544,Stratford - Westfield - Kiosk,Company Owned,"Unit K15 , Olympic Park, Montfichet Road",London,ENG,GB,E20 1EJ,2085224642,GMT+0:00 Europe/London,-0.01,51.54
+Starbucks,12215-33143,Sun Street,Company Owned,"31 - 33 Sun Street, Broadgate",London,ENG,GB,EC2M 2PY,2072475118,GMT+0:00 Europe/London,-0.08,51.52
+Starbucks,12424-88680,Tottenham Court Road/Tottenham St,Company Owned,77 Tottenham Court Road,London,ENG,GB,W1T 2HQ,2074364170,GMT+0:00 Europe/London,-0.13,51.52
+Starbucks,16031-166244,Drapers Gardens,Licensed,12 Copthall Avenue,London,ENG,GB,EC2N 2DL,207432001,GMT+0:00 Europe/London,-0.09,51.52
+Starbucks,12406-85705,City Thameslink - Fleet Place,Company Owned,"3 Fleet Place, Unit 2",London,ENG,GB,EC4M 7RA,2072482220,GMT+0:00 Europe/London,-0.1,51.52
+Starbucks,23578-231425,SSP Waterloo East,Licensed,"Waterloo East Station, Platform B/C, Sandell Street, Ashdown House",London,ENG,GB,SE1 8NH,,GMT+0:00 Europe/London,-0.11,51.5
+Starbucks,12014-10339,Victoria Street & Horwick Place,Company Owned,137 Victoria Street,London,ENG,GB,SW1E 6RD,2072335170,GMT+0:00 Europe/London,-0.14,51.5
+Starbucks,12751-140489,Vigo Street,Company Owned,"6A Vigo Street, London",London,ENG,GB,W1S 3HF,2077347632,GMT+0:00 Europe/London,-0.14,51.51
+Starbucks,12711-105805,Colliers Wood - Tandam Centre,Company Owned,"Colliers Wood, Unit 10 Tandem Centre",London,ENG,GB,SW19 2PT,2086872628,GMT+0:00 Europe/London,-0.18,51.41
+Starbucks,12360-75881,Kew - Station Parade,Company Owned,"Station parade, Kew",London,ENG,GB,TW9 3PS,2083327337,GMT+0:00 Europe/London,-0.29,51.48
+Starbucks,12962-142504,Great Marlborough St,Company Owned,"London - Great Marlborough Street  (3-4), Unit 36",LONDON,ENG,GB,W1F 7HH,2074341664,GMT+0:00 Europe/London,-0.14,51.51
+Starbucks,12371-78701,Hammersmith Broadway West,Company Owned,"36 Broadway Shopping Centre, Hammersmith Broadway",London,ENG,GB,W6 9YE,2087486685,GMT+0:00 Europe/London,-0.22,51.49
+Starbucks,15640-159226,Westminster - Broadway,Company Owned,"17 Broadway, Westminister",London,ENG,GB,SW1H 0AZ,2077993371,GMT+0:00 Europe/London,-0.13,51.5
+Starbucks,20726-208169,Cineworld Enfield,Licensed,"Cineworld Cinemas Southbury Leisure Park, Southbury Road (208), Enfield",London,ENG,GB,EN1 1YQ,,GMT+0:00 Europe/London,-0.07,51.63
+Starbucks,6145-149765,South Kensington - Old Brompton Rd,Company Owned,19 Old Brompton Road,London,ENG,GB,SW7 3HZ,2072250921,GMT+0:00 Europe/London,-0.17,51.49
+Starbucks,12419-87540,Hammersmith Road,Company Owned,"200 Hammersmith Road, Berkeley Square",London,ENG,GB,W6 7DL,2087419397,GMT+0:00 Europe/London,-0.22,51.49
+Starbucks,12022-10382,Berkeley Street/Berkeley Square,Company Owned,27 Berkeley St,London,ENG,GB,W1X 5AD,2076295779,GMT+0:00 Europe/London,-0.14,51.51
+Starbucks,12559-96360,Old Street - City Road,Company Owned,104-122 City Road,London,ENG,GB,EC1V 2NR,2072534069,GMT+0:00 Europe/London,-0.09,51.53
+Starbucks,12398-85695,Chiswick - High Road/Belmont Road,Company Owned,376 Chiswick High road,London,ENG,GB,W4 5TF,2089946686,GMT+0:00 Europe/London,-0.26,51.49
+Starbucks,12972-140949,London - Westfield - Lower Mall,Company Owned,Unit 1018a,London,ENG,GB,W12 7GE,2087499233,GMT+0:00 Europe/London,-0.22,51.51
+Starbucks,12058-10406,Princes Street W1,Company Owned,22-23 Princes St,London,ENG,GB,W1B 2LY,2074958370,GMT+0:00 Europe/London,-0.14,51.51
+Starbucks,12033-10380,Fulham Road,Company Owned,809 Fulham Road,London,ENG,GB,SW6 5HE,2073842494,GMT+0:00 Europe/London,-0.21,51.48
+Starbucks,12013-10378,Parsons Green,Company Owned,44 - 48  New Kings Road,London,ENG,GB,SW6 4LS,2073719866,GMT+0:00 Europe/London,-0.2,51.47
+Starbucks,12809-96661,Borough High Street/Borough Station,Company Owned,223-227 Borough High Street,London,ENG,GB,SE1 1JD,2074075464,GMT+0:00 Europe/London,-0.09,51.5
+Starbucks,12650-102781,Tottenham Court Road/Capper St,Company Owned,175 Tottenham  Court Road,London,ENG,GB,W1T 7NU,2076374459,GMT+0:00 Europe/London,-0.14,51.52
+Starbucks,26205-243830,Marble Arch,Company Owned,"1a York House, 26 Edgware Road",London,ENG,GB,W2 2EH,749589333,GMT+0:00 Europe/London,-0.16,51.51
+Starbucks,23655-232444,SSP Euston,Licensed,"Euston Station, Unit 37, Barnby St",London,ENG,GB,NW1 2RT,,GMT+0:00 Europe/London,-0.13,51.53
+Starbucks,12169-23184,Belgravia -  Pimlico Road,Company Owned,53-55 Pimlico Road,London,ENG,GB,SW1W 8NE,2072590747,GMT+0:00 Europe/London,-0.15,51.49
+Starbucks,12280-59239,Berkeley Street,Company Owned,52 Berkeley St.,London,ENG,GB,W1J 8ET,2076294911,GMT+0:00 Europe/London,-0.14,51.51
+Starbucks,12339-60039,Westbourne Grove,Company Owned,96 Westboune Grove,London,ENG,GB,W2 5RT,2072436990,GMT+0:00 Europe/London,-0.19,51.52
+Starbucks,3191-145067,SSP Wimbledon,Licensed,"Platform 7/8, The Bridge",London,ENG,GB,SW19 7NE,,GMT+0:00 Europe/London,-0.21,51.42
+Starbucks,12421-88320,Paddington Central - Sheldon Square,Company Owned,"15 Sheldon Square, Paddington Central Kiosk",London,ENG,GB,W2 6PY,2072897381,GMT+0:00 Europe/London,-0.18,51.52
+Starbucks,12114-12027,Baker Street/Porter Street,Company Owned,126 Baker Street,London,ENG,GB,W1M  1FH,2072245805,GMT+0:00 Europe/London,-0.16,51.52
+Starbucks,12071-10731,Chelsea - Kings Road/Shawfield St,Company Owned,123a Kings Road,London,ENG,GB,SW3 4PL,2073764678,GMT+0:00 Europe/London,-0.17,51.49
+Starbucks,12286-60079,Strand,Company Owned,442 Strand,London,ENG,GB,WC2R 0QU,2078366850,GMT+0:00 Europe/London,-0.13,51.51
+Starbucks,12560-96361,Wandsworth Bridge Road,Company Owned,"95-96 Wandsworth Bridge Road, Wandsworth",London,ENG,GB,SW6 2TD,2077317861,GMT+0:00 Europe/London,-0.19,51.47
+Starbucks,12317-59679,Islington - Upper Street,Company Owned,"30 Upper St, Islington, O2 Centre",London,ENG,GB,N1 0PN,2073540179,GMT+0:00 Europe/London,-0.11,51.53
+Starbucks,12265-46759,Swiss Cottage - 02 Centre,Company Owned,"255 Finchley Road, Swiss Cottage 02 Centre, Burleigh House",London,ENG,GB,NW3 6LU,2074318233,GMT+0:00 Europe/London,-0.18,51.55
+Starbucks,12039-10589,Strand/Savoy Street,Company Owned,"Unit2 Burleigh House, 355-359 The Strand",London,ENG,GB,WC2R 0HS,2078365166,GMT+0:00 Europe/London,-0.12,51.51
+Starbucks,16594-165226,Aramark Canary Wharf,Licensed,"25 Bank Street, Canary Wharf, 7th Floor",London,ENG,GB,E14 5JP,2034931115,GMT+0:00 Europe/London,-0.01,51.51
+Starbucks,18146-188344,Harewood Place,Company Owned,13b Hanover Square,London,ENG,GB,W1S 1HN,2074953936,GMT+0:00 Europe/London,-0.14,51.51
+Starbucks,12198-38259,South Bank - County Hall,Company Owned,"Belvedere Road, 3C and 3D, East Block County Hall",London,ENG,GB,SE1 7GQ,2079284557,GMT+0:00 Europe/London,-0.12,51.5
+Starbucks,12056-10405,Clapham - Abbeville Road,Company Owned,39 Abbeville Road,London,ENG,GB,SW4 9JX,2086734004,GMT+0:00 Europe/London,-0.14,51.45
+Starbucks,12248-55179,Waterloo Station Lower Entrance,Company Owned,Waterloo Station,London,ENG,GB,SE1 7LY,2079284920,GMT+0:00 Europe/London,-0.11,51.5
+Starbucks,17571-183529,SSP Liverpool St Kiosk,Licensed,Bishopsgate Entrance,London,ENG,GB,EC2M 7QH,,GMT+0:00 Europe/London,-0.08,51.52
+Starbucks,5189-148827,Tower Thistle Hotel London,Licensed,St. Katherine's Way,London,ENG,GB,E1W 1LD,207 481  2575,GMT+0:00 Europe/London,-0.07,51.51
+Starbucks,49661-270226,Sainsbury Nine Elms,Company Owned,62 Wandsworth Road,London,ENG,GB,SW8 2LF,20076221726,GMT+0:00 Europe/London,-0.13,51.48
+Starbucks,12747-140464,Canary Wharf - South Collonade/DLR,Company Owned,"South Collonade, Canary Wharf, Brent Cross Shopping Centre",London,ENG,GB,E14 4QT,2075191053,GMT+0:00 Europe/London,-0.02,51.5
+Starbucks,12186-32120,Brent Cross Shopping Ctr - Lower,Company Owned,"East Court Cafe, Brent Cross Shopping Centre",London,ENG,GB,NW4 3FG,2082034605,GMT+0:00 Europe/London,-0.22,51.58
+Starbucks,24321-237126,London - Greenwich Shopping Park,Franchise,"Unit D, 1C Greenwich Shopping Park, Bugsbys Way, Charlton",London,ENG,GB,SE7 7ST,,GMT+0:00 Europe/London,0.02,51.49
+Starbucks,12509-94369,Queens Park,Company Owned,89 Salusbury Road,London,ENG,GB,NW6 6NN,2076247738,GMT+0:00 Europe/London,-0.21,51.54
+Starbucks,12005-10346,James Street,Company Owned,"14 James Street, St. Katherine's House",London,ENG,GB,W1U 1EF,2074956680,GMT+0:00 Europe/London,-0.15,51.51
+Starbucks,12165-19479,Kingsway,Company Owned,"10 Kingsway, Unit B2; St Catherines House",London,ENG,GB,WC2B 6LH,2078314661,GMT+0:00 Europe/London,-0.12,51.51
+Starbucks,12891-137726,West Wickham - High Street,Company Owned,"11-73, HIGH STREET, WEST WICKHAM - HIGH STREET",LONDON,ENG,GB,BR4 0LS,2087774214,GMT+0:00 Europe/London,-0.02,51.38
+Starbucks,12395-84602,Highbury Corner,Company Owned,"250 Upper Street, Islington",London,ENG,GB,N1 1RU,2073596775,GMT+0:00 Europe/London,-0.1,51.55
+Starbucks,12157-22022,Greenwich - Cutty Sark,Company Owned,54-56 Greenwich Church St,London,ENG,GB,SE10 9BL,2088589992,GMT+0:00 Europe/London,-0.01,51.48
+Starbucks,12195-33460,Camden - Parkway,Company Owned,"4/6 Parkway, Camden, Unit SU2R",London,ENG,GB,NW1 7AA,2074857798,GMT+0:00 Europe/London,-0.14,51.54
+Starbucks,12104-11922,Edgware Road,Company Owned,207 Edgware Road,London,ENG,GB,W2 1ES,2077064230,GMT+0:00 Europe/London,-0.17,51.52
+Starbucks,12190-31019,High Holborn/Chancery Lane,Company Owned,37-39 High Holborn,London,ENG,GB,WC1V 6BG,2074046660,GMT+0:00 Europe/London,-0.11,51.52
+Starbucks,12712-105806,Brompton Road,Company Owned,"44-48 Brompton Road, Unit 4a 44-58",London,ENG,GB,SW3 1BW,2075816035,GMT+0:00 Europe/London,-0.16,51.5
+Starbucks,12211-34939,Gracechurch Street,Company Owned,"48 Gracechurch Street, Unit A",London,ENG,GB,EC3V 0EJ,2076263677,GMT+0:00 Europe/London,-0.09,51.51
+Starbucks,1171-140696,Tower Place East - Lower Thames St,Company Owned,"3 Tower Place, East Building",London,ENG,GB,EC3R 5BT,2079291755,GMT+0:00 Europe/London,-0.08,51.51
+Starbucks,12194-16874,New Bridge Street,Company Owned,30-34A New Bridge Street,London,ENG,GB,EC4V 6BJ,2073291928,GMT+0:00 Europe/London,-0.1,51.51
+Starbucks,12353-74920,Chelsea - Sloane Avenue,Company Owned,65-71 Sloane Avenue,London,ENG,GB,SW3 3DH,2075815550,GMT+0:00 Europe/London,-0.17,51.49
+Starbucks,12038-10588,St. John's Wood - High Street,Company Owned,"79 St Johns Wood High St & 1 Circus Road, St. John's Wood",London,ENG,GB,NW8 7NL,2075864365,GMT+0:00 Europe/London,-0.17,51.53
+Starbucks,12352-74628,Westminster - Horseferry Road,Company Owned,"35 Horseferry Road, Unit 15 Great Minster Court",London,ENG,GB,SW1P 2AA,2078344449,GMT+0:00 Europe/London,-0.13,51.49
+Starbucks,12027-10347,Bayswater - Queensway,Company Owned,47-49 Queensway,London,ENG,GB,W2 4QH,2073139515,GMT+0:00 Europe/London,-0.19,51.51
+Starbucks,12268-63739,Fleet Street,Company Owned,150 Fleet Street,London,ENG,GB,EC4A 2DQ,2075836672,GMT+0:00 Europe/London,-0.11,51.51
+Starbucks,18674-194126,SSP London Victoria Platform 2,Licensed,"Victoria Station, Platform 2 Unit 3B, 15 Victoria Street",London,ENG,GB,SW1W 0SH,,GMT+0:00 Europe/London,-2.87,55.74
+Starbucks,12131-15517,Enfield - Church St,Company Owned,"7 Church St, Belsize Park",London,ENG,GB,EN2 6AF,2083644432,GMT+0:00 Europe/London,-0.08,51.65
+Starbucks,12139-15893,Belsize Park - Haverstock Hill,Company Owned,"202 Haverstock Hill, Kingsway House, Grd Flr",London,ENG,GB,NW3 2AG,2077947378,GMT+0:00 Europe/London,-0.16,51.55
+Starbucks,12040-10398,Kingsway/Great Queen Street,Company Owned,99 Kingsway,London,ENG,GB,WC2B 6QX,2074049229,GMT+0:00 Europe/London,-0.12,51.52
+Starbucks,16888-176687,SSP King's Cross Main Concourse,Licensed,"Euston Road, Ground Concourse Unit 11a",London,ENG,GB,N1 9AL,,GMT+0:00 Europe/London,-0.12,51.53
+Starbucks,18677-194125,SSP London Victoria Main Store,Licensed,"Victoria Station Frontage, Unit 38, 15 Victoria St",London,ENG,GB,SW1V 1JU,,GMT+0:00 Europe/London,-0.14,51.5
+Starbucks,12410-85691,Crouch End - Broadway,Company Owned,"7 The Broadway, Crouch End",London,ENG,GB,N8 8DU,2083470096,GMT+0:00 Europe/London,-0.12,51.58
+Starbucks,12015-10856,King William Street,Company Owned,"87 King William St, Unit 5",London,ENG,GB,EC4N 7BJ,2079294099,GMT+0:00 Europe/London,-0.09,51.51
+Starbucks,12313-43279,Wimbledon Hill Road,Company Owned,"10 Wimbledon Hill Rd, Unit 5",London,ENG,GB,SW19 7NS,2089446864,GMT+0:00 Europe/London,-0.21,51.42
+Starbucks,12372-78702,Camden - Lock Keeper's Cottage,Company Owned,"289 Camden High st, Sulfolk Walk",London,ENG,GB,NW1 7BX,2074851986,GMT+0:00 Europe/London,-0.15,51.54
+Starbucks,12428-90786,Paternoster Sq,Company Owned,"1 Paternoster House, Unit 7",London,ENG,GB,EC4M 7DX,2072363014,GMT+0:00 Europe/London,-0.1,51.51
+Starbucks,26723-245129,Beckenham - High Street,Franchise,220 Beckenham High Street,London,ENG,GB,BR3 1EN,,GMT+0:00 Europe/London,-0.03,51.41
+Starbucks,4152-153545,Borough High Street,Company Owned,55 Borough High Street,London,ENG,GB,SE1 1NB,2074033512,GMT+0:00 Europe/London,-0.09,51.5
+Starbucks,12672-104116,Hammersmith - King Street,Company Owned,"38 King Street, Hammersmith",London,ENG,GB,W6 0YJ,2087483793,GMT+0:00 Europe/London,-0.23,51.49
+Starbucks,12204-33419,Kensington - Gloucester Rd Station,Company Owned,83 Gloucester Road,London,ENG,GB,SW7 4SS,2073736810,GMT+0:00 Europe/London,-0.18,51.49
+Starbucks,22890-225944,Baker Street Underground Station,Franchise,"Shop D, Metropolitan Line Ticket Hall, Baker Street Underground Station",London,ENG,GB,NW1 5LA,,GMT+0:00 Europe/London,-0.16,51.52
+Starbucks,12164-25147,New Oxford Street,Company Owned,112 - 116 New Oxford Street,London,ENG,GB,WC1A 1HH,2076360935,GMT+0:00 Europe/London,-0.13,51.52
+Starbucks,12256-40840,Lion Plaza-Old Broad Street,Company Owned,"13 - 15 Old Broad Street, Unit 4a",London,ENG,GB,EC2N 1DW,2073746134,GMT+0:00 Europe/London,-0.09,51.51
+Starbucks,12230-41499,London Bridge - Hays Galleria,Company Owned,"Tooley Street, Unit 6, Hays Galleria",London,ENG,GB,SE1 2HD,2074070786,GMT+0:00 Europe/London,-0.08,51.51
+Starbucks,12402-85701,Kensington High Street/Allen Street,Company Owned,197 Kensington High st,London,ENG,GB,W8 6BA,2079382335,GMT+0:00 Europe/London,-0.2,51.5
+Starbucks,24136-236024,Mile End Road,Franchise,389 Mile End Road,London,ENG,GB,E3 4QS,,GMT+0:00 Europe/London,-0.04,51.52
+Starbucks,12224-32119,Clerkenwell - Goswell Road,Company Owned,"8 Charterhouse Buildings, Goswell Road",London,ENG,GB,EC1M 7AN,2072531657,GMT+0:00 Europe/London,-0.1,51.52
+Starbucks,47771-259784,Borehamwood - Shopping Park,Franchise,Unit 12 Tiger Borehamwood Shopping Park,London,ENG,GB,WD6 1AE,020 8953 9215,GMT+0:00 Europe/London,-0.28,51.66
+Starbucks,12223-38279,South Bank - Globe,Company Owned,"New Globe Walk (Emerson Street), Unit 1-3 Benbow House",London,ENG,GB,SE1 9DS,2076339561,GMT+0:00 Europe/London,-0.1,51.51
+Starbucks,12778-139697,Kingston - Clarence St,Company Owned,"91 Clarence St, Kingston upon Thames",London,ENG,GB,KT1 1QY,2085414836,GMT+0:00 Europe/London,-0.3,51.41
+Starbucks,12625-224605,Canary Wharf - Churchill Place,Company Owned,Churchill Place,London,ENG,GB,,,GMT+0:00 Europe/London,-0.01,51.5
+Starbucks,12644-102516,Charing Cross Road,Company Owned,"Charing Cross Road, Unit 1  129-133",London,ENG,GB,WC2H 0EA,2072877536,GMT+0:00 Europe/London,-0.13,51.52
+Starbucks,12061-10545,Victoria St/Abbey Orchard St,Company Owned,27 Victoria Street,London,ENG,GB,SW1H 0EX,2072226298,GMT+0:00 Europe/London,-0.13,51.5
+Starbucks,12326-210844,Canary Wharf - Jubilee Place,Company Owned,"Unit 11 + 12, Jubilee Place",London,ENG,GB,E14 5NY,,GMT+0:00 Europe/London,-0.02,51.5
+Starbucks,20858-208629,Finsbury Park - Wells Terrace,Franchise,"Wells Terrace, Finsbury Park",London,ENG,GB,N4 3JU,,GMT+0:00 Europe/London,-0.11,51.56
+Starbucks,12323-68884,Clapham - Old Town,Company Owned,"40-42 Old Town, Unit 1,",London,ENG,GB,SW4 0LB,2076270641,GMT+0:00 Europe/London,-0.14,51.46
+Starbucks,12295-62259,South Bank - Hopton Street,Company Owned,"54 Hopton Street, Falcon Point, Lynton House",London,ENG,GB,SE1 9JH,2076339821,GMT+0:00 Europe/London,-0.1,51.51
+Starbucks,12968-140731,"Lynton House, Tavistock Square",Company Owned,"Travistock Square, Selfridges",London,ENG,GB,WC1H 9LT,2073830078,GMT+0:00 Europe/London,-0.13,51.53
+Starbucks,12364-77460,Oxford Street - Selfridges,Company Owned,400 oxford street,London,ENG,GB,W1A 1AB,2074919463,GMT+0:00 Europe/London,-0.15,51.51
+Starbucks,1304-143865,Conduit Street,Company Owned,2/3 Conduit Street,London,ENG,GB,W1S 2BX,2074939754,GMT+0:00 Europe/London,-0.14,51.51
+Starbucks,12397-85693,Chiswick - High Road/Fisher's Lane,Company Owned,280 Chiswick high road,London,ENG,GB,W4 1PD,2089941598,GMT+0:00 Europe/London,-0.26,51.49
+Starbucks,12101-11903,Covent Garden - Russell St,Company Owned,10 Russell Street,London,ENG,GB,WC2B 5HZ,2078366231,GMT+0:00 Europe/London,-0.12,51.51
+Starbucks,47901-260029,London Bridge-Shard Arcade,Company Owned,"Unit 5, The Shard Arcade, The Place, London Bridge, Colney Fields Shopping Centre",London,ENG,GB,SE1 9SG,2074077364,GMT+0:00 Europe/London,-0.09,51.51
+Starbucks,12569-96703,London Colney - New Look,Company Owned,Colney Fields Shpg Ctre-Barnet Rd,London Colney,ENG,GB,AL2 1AB,1727827963,GMT+0:00 Europe/London,-0.28,51.72
+Starbucks,25368-238534,Loughborough Cineworld BaxterGate,Licensed,"Cineworld Loughborough, Baxter Gate, Leicestershire",Loughborough,ENG,GB,LE11 1TH,,GMT+0:00 Europe/London,-1.2,52.77
+Starbucks,25198-240127,Loughton - High Road,Franchise,243 High Road,Loughton,ENG,GB,IG10 1AD,,GMT+0:00 Europe/London,0.06,51.65
+Starbucks,28832-251448,"Lowestoft, London Road North",Franchise,104 London Road North,Lowestoft,ENG,GB,NR321HA,01502 561462,GMT+0:00 Europe/London,1.75,52.48
+Starbucks,12851-145946,SSP Luton Landside,Licensed,Landside,Luton,ENG,GB,LU2 9QT,1582485851,GMT+0:00 Europe/London,-0.38,51.88
+Starbucks,26349-244324,Luton Travel Centre,Franchise,"Luton Travel Centre, Station Road",Luton,ENG,GB,LU1 2LT,,GMT+0:00 Europe/London,-0.41,51.88
+Starbucks,7187-154511,SSP Luton Airside,Licensed,"Departure Lounge, Unit 23",Luton,ENG,GB,LU2 9QT,1582485851,GMT+0:00 Europe/London,-0.38,51.88
+Starbucks,21901-216004,Maidenhead - Nicholson Centre,Franchise,"8B HIGH STREET MALL, Nicholson Shopping Centre",Maidenhead,ENG,GB,SL6 1LB,,GMT+0:00 Europe/London,-0.72,51.52
+Starbucks,26742-245292,Maidstone - King Street,Franchise,"Unit 8 -9, Coleman Parade, King Street",Maidstone,ENG,GB,ME14 1DJ,01622 683 851,GMT+0:00 Europe/London,0.52,51.27
+Starbucks,32725-140324,Village Maidstone,Licensed,"Castle View, Forstal Road",Maidstone,ENG,GB,ME14 3AQ,01622 672200,GMT+0:00 Europe/London,0.51,51.3
+Starbucks,18169-188366,Manchester - City Labs Nelson St,Franchise,Nelson St,Manchester,ENG,GB,M13 9NQ,0161 272 9651,GMT+0:00 Europe/London,-2.23,53.46
+Starbucks,18424-190948,SSP Manchester T1,Licensed,Terminal One,Manchester,ENG,GB,M90 1QX,0161 437 7957,GMT+0:00 Europe/London,-2.28,53.37
+Starbucks,28782-251212,"Manchester, Unit 7B, First Street",Franchise,"Unit 7B, First Street",Manchester,ENG,GB,M15 4FN,01612 362013,GMT+0:00 Europe/London,-2.25,53.47
+Starbucks,12361-75900,Manchester - Piccadilly Station,Company Owned,"Piccadilly Station, New Cannon",Manchester,ENG,GB,M1 2PB,1612361617,GMT+0:00 Europe/London,-2.23,53.48
+Starbucks,12588-97821,Manchester Arndale - Lower Ex Court,Company Owned,"Arndale Centre, Unit R2",Manchester,ENG,GB,M4 3AQ,1618392561,GMT+0:00 Europe/London,-2.24,53.48
+Starbucks,5153-147904,Manchester Piccadilly Place,Licensed,3 Piccadilly Place,Manchester,ENG,GB,M1 3BN,0161 228 6619,GMT+0:00 Europe/London,-2.24,53.48
+Starbucks,19237-199967,Manchester Uni North Campus,Licensed,"University of Manchester, Sackville St., 76, Overseas House",Manchester,ENG,GB,M1 3NL,1613062975,GMT+0:00 Europe/London,-2.23,53.47
+Starbucks,12607-98517,Manchester - Quay St,Company Owned,"Quay Street, Overseas House",Manchester,ENG,GB,M3 3HN,1618340984,GMT+0:00 Europe/London,-2.25,53.48
+Starbucks,12508-94978,Manchester - Market Street,Company Owned,"PICCADILLY MARKET ST, 1-3 PICCADILLY GARDENS",Manchester,ENG,GB,M1 1LZ,1618195861,GMT+0:00 Europe/London,-2.24,53.48
+Starbucks,12201-38582,Manchester - St. Ann's Square,Company Owned,"9 - 11 St Ann's Square, The Royal Exchange",Manchester,ENG,GB,M2 7EF,1618329676,GMT+0:00 Europe/London,-2.25,53.48
+Starbucks,20094-203364,Malmaison Manchester,Licensed,"Piccadilly (1-3), Gnd Flr Shop & Basement",Manchester,ENG,GB,M1 3AQ,,GMT+0:00 Europe/London,-2.24,53.48
+Starbucks,12099-11948,Manchester - Princess Street,Company Owned,23a Princess Street,Manchester,ENG,GB,M2 4EN,1612282517,GMT+0:00 Europe/London,-2.24,53.48
+Starbucks,12570-96870,Manchester Trafford - Upper Peel Av,Company Owned,"Trafford Centre, Unit 106, Peel Avenue",Manchester,ENG,GB,M17 8BL,1617499038,GMT+0:00 Europe/London,-2.35,53.47
+Starbucks,12805-140548,Manchester - City Tower,Company Owned,"City Tower, Unit E2A",Manchester,ENG,GB,M1 4BD,1612358723,GMT+0:00 Europe/London,-2.24,53.48
+Starbucks,23659-232446,SSP Manchester Victoria,Licensed,"Manchester Victoria Station, Centurion House",Manchester,ENG,GB,M3 1WY,,GMT+0:00 Europe/London,-2.24,53.49
+Starbucks,12549-95858,Manchester - Deansgate,Company Owned,"129 Deansgate, Unit 2, Trafford Centre",Manchester,ENG,GB,M3 3WR,1618340836,GMT+0:00 Europe/London,-2.25,53.48
+Starbucks,13028-149524,Manchester - Barton Dock Drive Thru,Company Owned,"Traders Avenue, Barton Dock Road",Manchester,ENG,GB,M41 7ZA,1617489610,GMT+0:00 Europe/London,-2.34,53.47
+Starbucks,12069-185824,Manchester Trafford-Lower Regent Cr,Company Owned,"Mall Cafe 2, Regents Crescent, Television House",Manchester,ENG,GB,M17 8EH,,GMT+0:00 Europe/London,-2.35,53.47
+Starbucks,12176-25207,Manchester - Mount Street,Company Owned,"10 -12 Mount Street, Ground Floor  Television House",Manchester,ENG,GB,M2 5PB,1618397419,GMT+0:00 Europe/London,-2.25,53.48
+Starbucks,12590-97819,Manchester - Fallowfield,Company Owned,"Wilmslow Road, Fallowfield",Manchester,ENG,GB,M14 6NS,1612488074,GMT+0:00 Europe/London,-2.22,53.44
+Starbucks,12544-95759,Manchester - Oxford St,Company Owned,"1-5 Oxford Road, Arndale Centre",Manchester,ENG,GB,M1 6EY,1612736394,GMT+0:00 Europe/London,-2.24,53.47
+Starbucks,12589-97820,Manchester Arndale - Lower Halle Sq,Company Owned,"Arndale Centre, Halle mall",Manchester,ENG,GB,M4 3AB,1618334789,GMT+0:00 Europe/London,-2.24,53.48
+Starbucks,12225-38142,Manchester - Corporation Street,Company Owned,"75 Hanging Ditch/Fennel Street, Pleer House",Manchester,ENG,GB,M4 3ES,1618392996,GMT+0:00 Europe/London,-2.24,53.49
+Starbucks,23477-229326,Cineworld Didsbury,Licensed,"Cineworld Parrs Wood Entertainment Centr, Wilmslow, East Didsbury",Manchester,ENG,GB,M20 5PG,1614457943,GMT+0:00 Europe/London,-2.22,53.41
+Starbucks,29726-255065,Manchester SSPEMEA - MAN Airport T1,Licensed,"Manchester Airport Airside, Terminal 1, Unit 33",Manchester,ENG,GB,M90 1QX,,GMT+0:00 Europe/London,-2.27,53.36
+Starbucks,28294-250627,Mansfield-East Midlands Des. Outlet,Franchise,"Unit 67B, East Midlands Designer Outlet",Mansfield,ENG,GB,DE55 2ER,,GMT+0:00 Europe/London,-1.31,53.11
+Starbucks,26109-243611,Market Harborough - St Mary's Road,Franchise,1-3 ST MARYS ROAD,MARKET HARBOROUGH,ENG,GB,LE16 7DS,01858 463 797,GMT+0:00 Europe/London,-0.92,52.48
+Starbucks,28568-250835,Marlow - High Street,Franchise,60 High Street,Marlow,ENG,GB,SL7 1AH,,GMT+0:00 Europe/London,-0.78,51.57
+Starbucks,12783-140488,Middlesbrough - Linthorpe Rd,Company Owned,86 Linthorpe Road,Middlesbrough,ENG,GB,TS1 2JZ,1642218942,GMT+0:00 Europe/London,-1.24,54.58
+Starbucks,18157-188190,Middlewich - A54 Holmes Chapel Road,Franchise,"A54, Holmes Chapel Road",Middlewich,ENG,GB,CW10 0JB,01606 832873,GMT+0:00 Europe/London,-2.43,53.2
+Starbucks,12167-19459,Milton Keynes - Silbury Arcade,Company Owned,"Silbury Arcade, Unit 45",Milton Keynes,ENG,GB,MK9 3AG,1908607570,GMT+0:00 Europe/London,-0.76,52.04
+Starbucks,12154-23448,Milton Keynes - Midsummer Place,Company Owned,"Boulevard Cafe Bar, Midsummer Place",Milton Keynes,ENG,GB,MK9 3AG,1908661894,GMT+0:00 Europe/London,-0.76,52.04
+Starbucks,26110-243610,Milton Keynes - Kingston Centre,Franchise,UNIT 2 KINGSTON CENTRE,Milton Keynes,ENG,GB,MK10 0AH,01908 586 950,GMT+0:00 Europe/London,-0.69,52.04
+Starbucks,24492-229329,Cineworld Milton Keynes,Licensed,"Cineworld, Xscape, 602 Marlborough Gate",Milton Keynes,ENG,GB,MK9 3XS,1908557623,GMT+0:00 Europe/London,-0.75,52.04
+Starbucks,19582-193104,Milton Keynes- Place RP Drive Thru,Company Owned,The Place Retail Park,Milton Keynes,ENG,GB,MK91EN,1908239219,GMT+0:00 Europe/London,-0.78,52.04
+Starbucks,23436-230304,WB Newport Pagnell North Kiosk,Licensed,"Starbucks Newport Pagnell, M1 Motorway Northbournd, Jct 14/15",Milton Keynes,ENG,GB,MK16 8DS,01908 217722,GMT+0:00 Europe/London,-0.75,52.08
+Starbucks,18156-188186,Mirfield - A62 Leeds Road,Franchise,"Mirfield, West Yorkshire",Mirfield,ENG,GB,WF14 0BY,01924 480 945,GMT+0:00 Europe/London,-1.72,53.69
+Starbucks,32386-134267,Centre Parcs Sherwood Forest Centre,Licensed,"Sherwood Forest, Village Square, Rufford",Newark,ENG,GB,NG22 9DN,01623 827566,GMT+0:00 Europe/London,-1.01,53.21
+Starbucks,28286-250629,Newark - Market Place,Franchise,17 - 18 Market Place,Newark,ENG,GB,NG24 1EA,,GMT+0:00 Europe/London,-0.81,53.08
+Starbucks,28566-250837,Newbury - Northbrook Street,Franchise,101 Northbrook Street,Newbury,ENG,GB,RG14 1AA,,GMT+0:00 Europe/London,-1.32,51.4
+Starbucks,12614-99020,Gateshead - Upper Mall Metrocentre,Company Owned,"Metro Centre, Unit 102a 4a The Galleria",Newcastle,ENG,GB,NE11 9YP,1914932987,GMT+0:00 Europe/London,-1.67,54.96
+Starbucks,12592-98116,Newcastle - Jesmond,Company Owned,"37 - 39 St Georges Terrace, Jesmond",Newcastle,ENG,GB,NE2 2SX,1912813168,GMT+0:00 Europe/London,-1.61,54.99
+Starbucks,27110-246875,WB Keele North DT,Licensed,"M6 Motorway Northbound, Junction 15/16, Three Mile Lane",Newcastle,ENG,GB,ST5 5HG,,GMT+0:00 Europe/London,-2.29,52.99
+Starbucks,22195-218827,WB Keele North Bridgelink,Licensed,"M6 Motorway, J15-16, Keele, Staffs",Newcastle,ENG,GB,ST5-5HG,,GMT+0:00 Europe/London,-2.29,52.99
+Starbucks,12837-137775,Newcastle-Eldon Sq St Georges Mall,Company Owned,"Eldon Square, Unit 4/5, Scheme 1",Newcastle,ENG,GB,NE1 7XE,1912603478,GMT+0:00 Europe/London,-1.61,54.97
+Starbucks,27109-246874,WB Keele South DT,Licensed,"M6 Motorway Northbound, Junction 15/16, Three Mile Lane",Newcastle,ENG,GB,ST5 5HG,,GMT+0:00 Europe/London,-2.29,52.99
+Starbucks,12536-95487,Newcastle - Neville Street,Company Owned,28-30 Neville Street,Newcastle,ENG,GB,NE1 5DH,1912301965,GMT+0:00 Europe/London,-1.62,54.97
+Starbucks,12653-102943,Newcastle - Northumberland Street,Company Owned,"137 Northumberland Street, Eldon Square Shopping Centre",Newcastle,ENG,GB,NE1 7AG,1912615049,GMT+0:00 Europe/London,-1.61,54.98
+Starbucks,9179-152313,Newcastle-Eldon Sq St Andrews Mall,Company Owned,"St Andrews Way, Mall Kiosk",Newcastle on Tyne,ENG,GB,NE1 7XD,1912329288,GMT+0:00 Europe/London,-1.62,54.97
+Starbucks,24392-236907,Tesco Kingston Park,Company Owned,"Brunton Lane, Tesco Extra",Newcastle on Tyne,ENG,GB,NE3 2FP,1912711093,GMT+0:00 Europe/London,-1.66,55.01
+Starbucks,23808-231870,Wolstanton Drive Thru,Company Owned,"Queensway, Wolstanton Retail Park",Newcastle Under Lyme,ENG,GB,ST5 0AP,1782619983,GMT+0:00 Europe/London,-2.21,53.03
+Starbucks,12126-15513,Newcastle-Grainger Street,Company Owned,142-144 Grainger St & 10 Central Arcade,Newcastle Upon Tyne,ENG,GB,NE1 5AF,1912305253,GMT+0:00 Europe/London,-1.61,54.97
+Starbucks,3754-145913,Village Newcastle Upon Tyne,Licensed,"West Allotment, Cobalt Business Park",Newcastle upon Tyne,ENG,GB,NE27 0BY,1912701414,GMT+0:00 Europe/London,-1.51,55.03
+Starbucks,19235-199965,Malmaison Newcastle,Licensed,"HDV Malmaison Hotel, Quayside 104, Tyne and Wear",Newcastle Upon Tyne,ENG,GB,NE1 3DX,1912450593,GMT+0:00 Europe/London,-1.6,54.97
+Starbucks,18150-188192,Newmarket-A14 South Newmarket Heath,Franchise,"Newmarket South, A14 Service Area South, Newmarket Heath",Newmarket,ENG,GB,CB8 0XG,01638 577205,GMT+0:00 Europe/London,0.41,52.27
+Starbucks,28834-251449,"Newmarket, High Street 61",Franchise,61 High Street,Newmarket,ENG,GB,CB88NA,1638676629,GMT+0:00 Europe/London,0.41,52.24
+Starbucks,21152-209624,Newport - St James St,Franchise,95-96 St James Street,Newport,ENG,GB,PO30 1HY,,GMT+0:00 Europe/London,-1.29,50.7
+Starbucks,28918-251789,"Newport, Kingsway Shopping Centre",Franchise,"Kingsway Shopping Centre, 2 Emlyn Street",Newport,ENG,GB,NP20 1EW,01633 841621,GMT+0:00 Europe/London,-2.99,51.59
+Starbucks,20723-208166,Cineworld Newport,Licensed,"Cineworld Cinemas,Newport Retail Park, Seven Styles Avenue, Spytty Road",Newport,ENG,GB,NP19 4QQ,,GMT+0:00 Europe/London,-2.95,51.57
+Starbucks,26989-246411,Kings Lynn - High Street,Franchise,"89 High Street, Kings Lynn",Norfolk,ENG,GB,PE30 1BL,,GMT+0:00 Europe/London,0.4,52.75
+Starbucks,12264-106754,Sainsburys North Cheam,Company Owned,"566 London Road, Starbucks c/o Sainsbury's",North Cheam,ENG,GB,SM3 9AA,2086442972,GMT+0:00 Europe/London,-0.23,51.37
+Starbucks,26806-245689,Northampton - Market Square,Franchise,24 Market Street,Northampton,ENG,GB,NN1 2DF,,GMT+0:00 Europe/London,-0.9,52.24
+Starbucks,23654-232445,SSP Northampton,Licensed,"Northampton Station, Unit B, Black Lion Hill, St. James Retail Park",Northampton,ENG,GB,NN1 1SP,01604 627222,GMT+0:00 Europe/London,-0.91,52.24
+Starbucks,7008-150065,Northampton-St James RP Drive Thru,Company Owned,"Towcester Road, A43",Northampton,ENG,GB,NN1 1EE,1604621577,GMT+0:00 Europe/London,-0.9,52.23
+Starbucks,20721-208165,Cineworld Northampton,Licensed,"Cineworld Cinemas, Sixfields Leisure, Weedon Road, Northamptonshire",Northampton,ENG,GB,NN5 5QJ,0871 200 2000,GMT+0:00 Europe/London,-0.94,52.24
+Starbucks,47776-259779,Norwich - Castle Mall LU36,Franchise,"Unit LU36, Castle Mall",Norwich,ENG,GB,NR1 3DD,01603 617 256,GMT+0:00 Europe/London,1.3,52.63
+Starbucks,47775-259780,Norwich - St Stephens Street-,Franchise,"36-38, St Stephens Street",Norwich,ENG,GB,NR1 3SH,01603 625 325,GMT+0:00 Europe/London,1.29,52.62
+Starbucks,47777-259778,Norwich - Haymarket-,Franchise,19 - 20 Haymarket,Norwich,ENG,GB,NR2 1QE,01603 615 411,GMT+0:00 Europe/London,1.29,52.63
+Starbucks,27844-248886,Norwich SSPEMEA Station Approach,Licensed,"Norwich Station, Station Approach",Norwich,ENG,GB,NR1 1EF,,GMT+0:00 Europe/London,1.31,52.63
+Starbucks,26888-245965,Norwich - Riverside Retail Park,Franchise,8B Riverside Retail Park,Norwich,ENG,GB,NR1 1WR,01603 610177,GMT+0:00 Europe/London,1.31,52.62
+Starbucks,15211-157710,Village Nottingham,Licensed,"Brailsford Way, Chilwell",Nottingham,ENG,GB,NG9 6DL,1159464422,GMT+0:00 Europe/London,-1.24,52.9
+Starbucks,1140-134271,Centre Parcs Sherwood Kiosk,Licensed,"Sherwood Forest, Rufford, Newark",Nottingham,ENG,GB,NG22 9DN,01623 827596,GMT+0:00 Europe/London,-1.15,52.94
+Starbucks,15981-167231,Notts Uni Jubilee,Licensed,Triumph Road,Nottingham,ENG,GB,NG7 2TU,,GMT+0:00 Europe/London,-1.18,52.95
+Starbucks,28285-250634,Giltbrook Retail Park,Franchise,"Unit H3, Gilbrook Retail Park, 16 Ikea Way, Gilbrook",Nottingham,ENG,GB,NG16 2RP,,GMT+0:00 Europe/London,-1.28,53
+Starbucks,28284-250632,Nottingham - South Parade,Franchise,1 South Parade,Nottingham,ENG,GB,NG1 2JS,,GMT+0:00 Europe/London,-1.15,52.95
+Starbucks,28291-250635,Nottingham - Station Rd,Franchise,"Bentinck Hotel, 1 Station Road",Nottingham,ENG,GB,NG2 3AJ,,GMT+0:00 Europe/London,-1.15,52.95
+Starbucks,15982-167229,Notts Uni Portland,Licensed,"Universtiy Park, Portland Building Food Court",Nottingham,ENG,GB,NG7 2RD,,GMT+0:00 Europe/London,-1.19,52.94
+Starbucks,28293-250630,Nottingham - Upper Parliament St,Franchise,72 - 74 Upper Parliament Street,Nottingham,ENG,GB,NG1 6LF,,GMT+0:00 Europe/London,-1.15,52.95
+Starbucks,18159-188188,Worksop - A57 St Annes Drive,Franchise,"St. Anne's drive, Worksop",Nottinghamshire,ENG,GB,S80 3QD,01909 488391,GMT+0:00 Europe/London,-1.14,53.3
+Starbucks,32554-134275,Centre Parcs Sherwood Sports Plaza,Licensed,"Sherwood Forest, Sport Plaza, Rufford, Newark",Nottinghamshire,ENG,GB,NG22 9DN,01623 827595,GMT+0:00 Europe/London,-1.05,53.17
+Starbucks,32382-138012,Bourne Leisure Primrose Park,Licensed,Primrose Valley,Nr Filey,ENG,GB,YO14 9RF,1723516754,GMT+0:00 Europe/London,-0.29,54.19
+Starbucks,18153-188193,Eastington - Stonehouse A419,Franchise,"Eastington, Stonehouse",nr Stroud,ENG,GB,GL10 3SQ,,GMT+0:00 Europe/London,-2.31,51.76
+Starbucks,25950-243132,Ormskirk - Moor Street,Franchise,10 Moor Street,Ormskirk,ENG,GB,L39 2AQ,01695 229924,GMT+0:00 Europe/London,-2.88,53.57
+Starbucks,22196-218304,Orpington - High Street,Franchise,165 - 167 High Street,Orpington,ENG,GB,BR6 OLW,,GMT+0:00 Europe/London,0.1,51.38
+Starbucks,16909-170231,Oswestry - Mile End A5 DT,Franchise,"Mile End Roundabout, Shrewsbury Rd,",Oswestry Gateway,ENG,GB,SY10 8NN,01691 65206,GMT+0:00 Europe/London,-3.03,52.85
+Starbucks,23624-231807,Compass Oxford Blackwell's,Licensed,Gipsy Lane,Oxford,ENG,GB,OX3 OBP,,GMT+0:00 Europe/London,-1.23,51.76
+Starbucks,29040-252208,Weston on the Green A34 South,Franchise,"Weston South, A34 Southbound, Weston On The Green",Oxford,ENG,GB,OX25 3QQ,01869 351359,GMT+0:00 Europe/London,-1.23,51.85
+Starbucks,26119-243591,Oxford - Cornmarket Street,Franchise,6 - 7 Cornmarket Street,Oxford,ENG,GB,OX1 3EX,01865 249 675,GMT+0:00 Europe/London,-1.26,51.75
+Starbucks,27381-247388,Oxford WelcomeBreak Jc8A M40,Licensed,"Oxford Services, Junction 8A, M40",Oxford,ENG,GB,OX33 1LJ,,GMT+0:00 Europe/London,-1.1,51.74
+Starbucks,9154-152274,WB Oxford Main Café,Licensed,"M40 Motorway, Junction 8A, Thame Road, Waterstock",Oxford,ENG,GB,OX33 1LJ,01865 877000,GMT+0:00 Europe/London,-1.1,51.71
+Starbucks,26115-243595,Oxford - Banbury Road,Franchise,240 Banbury Road,Oxford,ENG,GB,OX2 7BY,01865 511 002,GMT+0:00 Europe/London,-1.26,51.78
+Starbucks,9142-152273,WB Oxford Kiosk,Licensed,"M40 Motorway, Junction 8A, Thame Road",Oxford,ENG,GB,OX33 1LJ,01865 877004,GMT+0:00 Europe/London,-1.1,51.74
+Starbucks,1524-152886,WB Oxford Peartree,Licensed,"A34/A40/A44 Peartree Interchange, Peartree Roundabout, Woodstock Road",Oxford,ENG,GB,OX2 8JZ,,GMT+0:00 Europe/London,-1.28,51.79
+Starbucks,32507-134272,Centre Parcs Whinfell Sports Plaza,Licensed,"Whinfell Forest, Sports Plaza",Penrith,ENG,GB,CA10 2DW,01768 893145,GMT+0:00 Europe/London,-2.74,54.6
+Starbucks,32437-134273,Centre Parcs Whinfell Lakeside,Licensed,"Whinfell Forest, Boardwalk",Penrith,ENG,GB,CA10 2DW,01768 893208,GMT+0:00 Europe/London,-2.74,54.6
+Starbucks,26113-243607,Peterborough - Cathedral Gateway,Franchise,"Cathedral Gateway, 41 Long Causeway",Peterborough,ENG,GB,PE1 1YD,01733 358 869,GMT+0:00 Europe/London,-0.24,52.57
+Starbucks,3899-165164,SSP Peterborough,Licensed,Station Road,Peterborough,ENG,GB,PE1 1QL,1733344149,GMT+0:00 Europe/London,-0.25,52.57
+Starbucks,18414-190747,Pevensey - Bexhill Road,Franchise,"Bexhill Road, Pevensey Services",Pevensey,ENG,GB,BN24 5JW,,GMT+0:00 Europe/London,0.34,50.82
+Starbucks,47770-259789,Pinner High Street,Franchise,19-21 High Street,Pinner,ENG,GB,HA5 5PJ,020 8868 6250,GMT+0:00 Europe/London,-0.39,51.58
+Starbucks,24316-237004,Plymouth - Armada Way,Franchise,133 Armada Way,Plymouth,ENG,GB,PL1 1HU,,GMT+0:00 Europe/London,-4.14,50.37
+Starbucks,24318-237002,Plymouth - Drakes Circus,Franchise,"Drakes Circus, SU5, Ground Floor",Plymouth,ENG,GB,PL1 1EA,1752220237,GMT+0:00 Europe/London,-4.14,50.37
+Starbucks,27254-245966,Pocklington - York Road DT,Franchise,Pocklington Services,Pocklington,ENG,GB,YO42 1AD,1759305447,GMT+0:00 Europe/London,-0.8,53.92
+Starbucks,26725-245124,Poole - High Street,Franchise,148-150 High Street,Poole,ENG,GB,BH15 1DN,,GMT+0:00 Europe/London,-1.98,50.72
+Starbucks,18787-193485,Portsmouth -Western Road,Franchise,"Lakeside Business Park, North Harbour",Portsmouth,ENG,GB,PO6 3EN,023 9237 7845,GMT+0:00 Europe/London,-1.08,50.84
+Starbucks,47790-259765,Portsmouth The Cascades Unit 10,Franchise,"Unit 10, The Cascades Shopping Centre",Portsmouth,ENG,GB,PO1 4RJ,02392 294111,GMT+0:00 Europe/London,-1.09,50.8
+Starbucks,24178-236404,Portsmouth - Guildhall Walk,Franchise,21 Guildhall Walk,Portsmouth,ENG,GB,PO1 2RY,,GMT+0:00 Europe/London,-1.09,50.8
+Starbucks,17512-240006,WB South Mimms Kiosk,Licensed,"Bignalls Corner, South Mimms",Potters Bar,ENG,GB,EN6 3QQ,,GMT+0:00 Europe/London,-0.22,51.69
+Starbucks,26829-245770,WB South Mimms DT,Licensed,"South Mimms M25, Junction 23",Potters Bar,ENG,GB,EN6 3QQ,,GMT+0:00 Europe/London,-0.22,51.69
+Starbucks,28398-250690,Preston - Capital Retail Park,Franchise,"Unit 8, Capital Retail Park, Capital Way",Preston,ENG,GB,PR5 4AW,,GMT+0:00 Europe/London,-2.68,53.75
+Starbucks,18143-188365,Preston - Blue Bell Way DT,Franchise,"Bluebell Way, Fullwood, Preston East service area",Preston,ENG,GB,PR2 5PZ,01772 700519,GMT+0:00 Europe/London,-2.65,53.79
+Starbucks,18173-188370,Preston - Fleetwood Road DT,Franchise,"Fleetwood Road, Unit A",Preston,ENG,GB,PR4 3HE,,GMT+0:00 Europe/London,-2.9,53.82
+Starbucks,7121-150526,Preston - Blackpool Road DT,Franchise,200 Blackpool Road,Preston,ENG,GB,PR1 6UY,01772 792918,GMT+0:00 Europe/London,-2.68,53.77
+Starbucks,16937-174804,Birmingham - Quinton,Franchise,Hagley Road West,Quinton,ENG,GB,B32 1AD,01214 234086,GMT+0:00 Europe/London,-2.01,52.46
+Starbucks,12178-20020,Reading - Sainsbury's Calcot,Company Owned,"Bath Road, Starbucks c/o Sainsbury's, The Oracle Shopping Centre",Reading,ENG,GB,RG31 7SA,1189422620,GMT+0:00 Europe/London,-1.06,51.44
+Starbucks,12645-102518,Reading - Oracle Upper Mall,Company Owned,"The Oracle Shopping Centre, KIOSK K4, Upper Mall",Reading,ENG,GB,RG1 2AG,1189591463,GMT+0:00 Europe/London,-0.97,51.45
+Starbucks,28686-250881,Reading - Queen Victoria Street,Franchise,"21 Queen Victoria Street, The Oracle",Reading,ENG,GB,RG1 1SX,,GMT+0:00 Europe/London,-0.97,51.46
+Starbucks,12422-88321,Reading - The Oracle,Company Owned,"The Oracle, Kiosk Unit R19 Riverside Level",Reading,ENG,GB,RG1 2AG,1189583405,GMT+0:00 Europe/London,-0.97,51.45
+Starbucks,20095-203365,Malmaison Reading,Licensed,Station Road (18-20),Reading,ENG,GB,RG1 1JX,1189562303,GMT+0:00 Europe/London,-0.97,51.46
+Starbucks,20478-230044,SSP Reading,Licensed,"Station Approach, Berkshire",Reading,ENG,GB,RG1 1LZ,,GMT+0:00 Europe/London,-0.97,51.46
+Starbucks,28687-250891,Reading - King Street,Franchise,1 Buttermarket and 6 King Street,Reading,ENG,GB,RG1 2BH,,GMT+0:00 Europe/London,-0.97,51.46
+Starbucks,12901-137689,Hooley - Brighton Road,Company Owned,119 London Road North,Reigate and Banstead,ENG,GB,RH1 3AL,1737550382,GMT+0:00 Europe/London,-0.15,51.29
+Starbucks,24288-237070,Richmond Sainsburys,Company Owned,Lower Richmond Road,Richmond,ENG,GB,TW9 4LT,2084878969,GMT+0:00 Europe/London,-0.29,51.47
+Starbucks,12115-12047,Richmond-Kew Road,Company Owned,"Parkshot House, Unit 1",Richmond,ENG,GB,TW9 2NQ,0208  9403293,GMT+0:00 Europe/London,-0.3,51.46
+Starbucks,21324-211889,Rivenhall - A12 Southbound,Franchise,"A12 (southbound), Rivenhall End, Witham, Essex",Rivenhall South,ENG,GB,CM8 3HB,01376 572945,GMT+0:00 Europe/London,0.67,51.82
+Starbucks,16938-166845,Rochdale - Manchester Road DT,Franchise,Manchester Road,Rochdale,ENG,GB,OL11 3PT,01706 347969,GMT+0:00 Europe/London,-2.17,53.6
+Starbucks,47773-259782,Romford - Liberty Shopping Centre,Franchise,Liberty Shopping Centre,Romford,ENG,GB,RM1 3RL,01708 765789,GMT+0:00 Europe/London,0.18,51.58
+Starbucks,47767-259786,Romford - The Brewery-,Franchise,"Unit 8B, 1-15 The Brewery",Romford,ENG,GB,RM1 1AU,01708 720 418,GMT+0:00 Europe/London,0.18,51.58
+Starbucks,8190-151586,Ross on Wye - Ledbury Rd DT,Franchise,Ledbury Road,Ross on Wye,ENG,GB,HR9 7QJ,01989 763371,GMT+0:00 Europe/London,-2.57,51.93
+Starbucks,8893-151111,Runcorn - Bridge Retail Park,Franchise,"Bridge Retail Park, Thomas Jones Way",Runcorn,ENG,GB,WA7 5AQ,01928 589388,GMT+0:00 Europe/London,-2.73,53.34
+Starbucks,27639-248270,Saffron Waldon - Market Street,Franchise,4 Market Street,Safron Walden,ENG,GB,CB10 1HZ,,GMT+0:00 Europe/London,0.24,52.02
+Starbucks,23658-232526,Salisbury - Dolphin Retail Park,Franchise,"Next Unit, Dolphin Retail Park, Southampton Rd.",Salisbury,ENG,GB,SP1 2LB,01722 324187,GMT+0:00 Europe/London,-1.78,51.06
+Starbucks,47791-259764,Salisbury - Silver Street 39,Franchise,39 Silver Street,Salisbury,ENG,GB,SP1 2NG,01722 416056,GMT+0:00 Europe/London,-1.8,51.07
+Starbucks,25763-241286,Saughall - Parkgate Road,Franchise,"Red Ensign, Parkgate Road",Saughall,ENG,GB,CH1 6JS,,GMT+0:00 Europe/London,-2.95,53.24
+Starbucks,28290-250626,Sheffield - Western Bank Broomhill,Franchise,"295 Western Bank, Broomhill, Meadowhall Mall",Sheffield,ENG,GB,S10 2TJ,,GMT+0:00 Europe/London,-1.49,53.38
+Starbucks,12445-93598,Meadowhall - Lower Gallery,Company Owned,"19 The Gallery, Meadowhall",Sheffield,ENG,GB,S9 1ER,1142568868,GMT+0:00 Europe/London,-1.41,53.41
+Starbucks,27111-246880,WB Woodall North DT,Licensed,"M1 Motorway Northbound, Junction 30/31, Woodall",Sheffield,ENG,GB,S26 7XR,01142 486434,GMT+0:00 Europe/London,-1.28,53.32
+Starbucks,28288-250631,Sheffield - Orchard Square SC,Franchise,"Unit 67B, The Meadowhall Centre",Sheffield,ENG,GB,S1 2FB,,GMT+0:00 Europe/London,-1.47,53.38
+Starbucks,12409-85690,Meadowhall - Arcade,Company Owned,2 The Arcade,Sheffield,ENG,GB,S9 1EH,1142568584,GMT+0:00 Europe/London,-1.41,53.41
+Starbucks,15895-166384,SSP Sheffield,Licensed,Shead Street,Sheffield,ENG,GB,S1 2BP,,GMT+0:00 Europe/London,-1.46,53.38
+Starbucks,28283-250628,Sheffield - Eccleshall Road,Franchise,395 - 397 Eccleshall Road,Sheffield,ENG,GB,S11 8PG,,GMT+0:00 Europe/London,-1.49,53.37
+Starbucks,28287-250625,Sheffield - Surrey St,Franchise,"1 Tudor Square, 67-69 Surrey Street",Sheffield,ENG,GB,S1 2LA,,GMT+0:00 Europe/London,-1.47,53.38
+Starbucks,25877-242847,Sheffield - Woodall S Kiosk,Franchise,"M1 Motorway Southbound, Junction 30/31, Woodall",Sheffield,ENG,GB,S26 7XR,01142 486434,GMT+0:00 Europe/London,-1.28,53.32
+Starbucks,12831-140564,Meadowhall - Upper Gallery,Company Owned,"23 The Gallery, Unit 5, Meadowhall Shopping Centre",Sheffield,ENG,GB,S9 1EP,1142354337,GMT+0:00 Europe/London,-1.41,53.41
+Starbucks,28292-250633,Sheffield - Fargate,Franchise,4 Fargate,Sheffield,ENG,GB,S1 2HE,,GMT+0:00 Europe/London,-1.47,53.38
+Starbucks,15606-162366,Cineworld Sheffield,Licensed,Broughton Lane,Sheffield,ENG,GB,S9 2EP,0114 242 1238,GMT+0:00 Europe/London,-1.41,53.4
+Starbucks,15550-162904,Shoreham By Sea Next - Holmbush Cen,Company Owned,Holmbush Centre,Shoreham By Sea,ENG,GB,BN43 6TD,1273592634,GMT+0:00 Europe/London,-0.25,50.85
+Starbucks,24413-237888,Shrewsbury - Bayston Hill DT,Franchise,"Shrewsbury Services, Hereford Road",Shrewsbury,ENG,GB,SY3 0DA,,GMT+0:00 Europe/London,-2.76,52.68
+Starbucks,12840-140647,Shrewsbury Market Square,Company Owned,25-28 Shrewsbury Market Square,Shrewsbury,ENG,GB,SY1 1JZ,1743363802,GMT+0:00 Europe/London,-2.75,52.71
+Starbucks,25423-240990,SSP Shrewsbury,Licensed,"Shrewsbury Railway Stn, Castle Foregate, Platform 5&6  Shropshire, MEOLE BRACE RETAIL PARK",Shrewsbury,ENG,GB,SY1 2DQ,,GMT+0:00 Europe/London,-2.75,52.71
+Starbucks,12576-96869,Shrewsbury - Sainsbury's,Company Owned,"Hereford Road, Meole Retail Park",Shrewsbury,ENG,GB,SY3 9NB,1743245829,GMT+0:00 Europe/London,-2.75,52.69
+Starbucks,6152-149804,Shrewsbury - Battlefield DT,Franchise,"Hurstwood Service Park, Robert Jones Way, Battlefield",Shrewsbury,ENG,GB,SY4 3EQ,01743 462786,GMT+0:00 Europe/London,-2.72,52.75
+Starbucks,3680-152305,WB Telford North,Licensed,"M54 Motorway Northbound, Junction 4",Shropshire,ENG,GB,TF11 8TG,01952 238400,GMT+0:00 Europe/London,-2.4,52.68
+Starbucks,26937-246146,Sittingbourne - High Street,Franchise,92 High Street,Sittingbourne,ENG,GB,ME10 4PH,,GMT+0:00 Europe/London,0.74,51.34
+Starbucks,28837-251453,Skipton - Albion Place,Franchise,"Unit 1A, Albion Place",Skipton,ENG,GB,BD23 1EE,01756 707873,GMT+0:00 Europe/London,-2.02,53.96
+Starbucks,28681-250886,Slough - High Street,Franchise,146/149 High Street,Slough,ENG,GB,SL1 1JP,,GMT+0:00 Europe/London,-0.59,51.51
+Starbucks,6073-146871,Village Solihull,Licensed,The Green Business Park,Solihull,ENG,GB,B90 4GW,,GMT+0:00 Europe/London,-1.82,52.39
+Starbucks,12196-33039,Solihull - Touchwood Court,Company Owned,"12 High Street, Unit 1 Touchwood Court",Solihull,ENG,GB,B91 3TB,1217112750,GMT+0:00 Europe/London,-1.78,52.41
+Starbucks,23105-227804,Simonside Services-Newcastle RD DT,Franchise,"Simonside Service Station, Newcastle Road",South Shields,ENG,GB,NE34 9QE,333011778,GMT+0:00 Europe/London,-1.45,54.98
+Starbucks,28393-250695,Cheshire Oaks Outlet Centre,Franchise,"Unit 79 Cheshire Oaks Outlet Centre, Ellesmere Port",South Wirral,ENG,GB,CH65 9JJ,,GMT+0:00 Europe/London,-2.88,53.27
+Starbucks,20256-204405,Southampton - Town Quay,Franchise,"Town Quay Unit 1, Hampshire",Southampton,ENG,GB,SO14 2AQ,,GMT+0:00 Europe/London,-1.41,50.9
+Starbucks,1520-152884,Southampton - West Quay RP - Next,Company Owned,"West Quay Retail Pk Southampton, Unit 9",Southampton,ENG,GB,SO15 1BA,2380633972,GMT+0:00 Europe/London,-1.41,50.9
+Starbucks,21873-214504,Southampton - Hedge End Retail Park,Franchise,"Unit 3, Hedge End Retail Park",Southampton,ENG,GB,SO30 4RT,,GMT+0:00 Europe/London,-1.31,50.92
+Starbucks,20671-207754,Southampton - London Road,Franchise,61 London Road,Southampton,ENG,GB,SO15 2AB,,GMT+0:00 Europe/London,-1.4,50.91
+Starbucks,47859-260068,Southampton - Above Bar Street,Franchise,81 Above Bar Street,Southampton,ENG,GB,SO14 7FG,02380 829516,GMT+0:00 Europe/London,-1.4,50.91
+Starbucks,23485-230746,Southampton - Southbrook Rd,Franchise,"Lower Ground Floor, Grenville House, Nelson Gate",Southampton,ENG,GB,SO15 1GX,02380 230417,GMT+0:00 Europe/London,-1.41,50.91
+Starbucks,27645-248280,Southend - High Street,Franchise,188-190 High Street,Southend on Sea,ENG,GB,SS2 5SG,,GMT+0:00 Europe/London,0.71,51.54
+Starbucks,28402-250696,Southport - Lord Street,Franchise,"221-223 Lord Street, The Gallery",Southport,ENG,GB,PR8 1PF,,GMT+0:00 Europe/London,-3.01,53.65
+Starbucks,12663-103506,The Gallery - Bankside,Company Owned,"The Gallery, Unit R1, Bankside 1",Southwark,ENG,GB,SE1 9TG,2074018590,GMT+0:00 Europe/London,-0.1,51.51
+Starbucks,48684-264564,Spalding-Designer Outlet,Franchise,"Unit 28, Designer Outlet",Spalding,ENG,GB,PE126EU,1775718494,GMT+0:00 Europe/London,0.13,52.8
+Starbucks,47864-260055,St Albans - High Street-,Franchise,11 High Street,St Albans,ENG,GB,AL3 4ED,01727 835 837,GMT+0:00 Europe/London,-0.34,51.75
+Starbucks,16606-170228,St Helens - Rainford Road DT,Franchise,"East Lancashire Road, Windle Island",St Helens,ENG,GB,WA10 6DQ,01744 759184,GMT+0:00 Europe/London,-2.77,53.47
+Starbucks,26202-242027,St Leonard 23.5Degrees Ringwood Rd,Franchise,"Ringwood Road, Sainsbury's Superstore",St Leonard's,ENG,GB,BH24 2QA,,GMT+0:00 Europe/London,-1.84,50.83
+Starbucks,12147-18156,London Colney - Sainsbury's,Company Owned,"Barnett Road, London Colney",St. Albans,ENG,GB,AL2 1BG,1727828112,GMT+0:00 Europe/London,-0.29,51.72
+Starbucks,29247-253089,Stafford Station SSPEMEA - Station,Licensed,"Stafford Station, Station Road",Stafford,ENG,GB,ST16 2AA,,GMT+0:00 Europe/London,-2.12,52.8
+Starbucks,12911-137738,Stafford - Greengate Street,Company Owned,"STAFFORD - 5 GREENGATE STREET, 5 GREENGATE STREET",STAFFORD,ENG,GB,ST16 2HN,1785227824,GMT+0:00 Europe/London,-2.12,52.81
+Starbucks,1130-152269,WB Keele North Café,Licensed,"M6 Motorway Northbound, Junction 15/16, Three Mile Lane, Newcastle",Staffordshire,ENG,GB,ST5 5HG,01782 606011,GMT+0:00 Europe/London,-2.29,52.99
+Starbucks,9120-151584,Uttoxeter- Derby Road DT,Franchise,"By Pass Road, A518/A50",Staffordshire,ENG,GB,ST14 5AA,01889 563722,GMT+0:00 Europe/London,-1.86,52.91
+Starbucks,1131-152270,WB Keele South Café,Licensed,"M6 Motorway Southbound, Junction 15/16, Three Mile Lane, Newcastle",Staffordshire,ENG,GB,ST5 5HG,1782626211,GMT+0:00 Europe/London,-2.29,52.99
+Starbucks,47857-260067,Staines - High Street,Franchise,68 High Street,Staines,ENG,GB,TW18 4DY,01784 459 067,GMT+0:00 Europe/London,-1.48,52.92
+Starbucks,12229-35480,Staines - Sainsbury's,Company Owned,"Sainsbury Store, Unit J",Staines,ENG,GB,TW18 3AP,1784469262,GMT+0:00 Europe/London,-0.52,51.43
+Starbucks,21706-239145,SSP Stansted,Licensed,Stansted Airport Limited,Stansted,ENG,GB,CM24 1QW,,GMT+0:00 Europe/London,0.26,51.89
+Starbucks,27843-248889,Stevenage Cineworld Leisure Park,Licensed,"Units 3B & 4, Stevenage Leisure Park, Kings Way",Stevenage,ENG,GB,SG12UA,,GMT+0:00 Europe/London,-0.2,51.89
+Starbucks,21342-211126,Stockport Stn SSPEMEA Plt 12,Licensed,"Stockport Station, Station Road, Edgeley",Stockport,ENG,GB,SK3 9HZ,,GMT+0:00 Europe/London,-2.16,53.4
+Starbucks,26585-244689,Stoke on Trent-Moorland Service Stn,Franchise,Moorland Service Station,Stoke on Trent,ENG,GB,ST6 1JP,1782816210,GMT+0:00 Europe/London,-2.18,53.05
+Starbucks,24412-237887,Stoke-on-Trent - Talke Rd DT,Franchise,Talk Road,Stoke on Trent,ENG,GB,ST5 9JB,01782 566879,GMT+0:00 Europe/London,-2.24,53.03
+Starbucks,12737-140844,Stratford - The Broadway,Company Owned,46 The Broadway,Stratford,ENG,GB,E15 1NG,2085558311,GMT+0:00 Europe/London,0,51.54
+Starbucks,26112-243608,Stratford upon Avon - High Street,Franchise,"UNIT 2, 8-9 HIGH STREET",Stratford upon Avon,ENG,GB,CV37 6AU,01789 268 989,GMT+0:00 Europe/London,-1.71,52.19
+Starbucks,15850-165764,New Vision Lakenheath,Licensed,Building 998,Suffolk,ENG,GB,IP27 9PN,01638 53 22 35,GMT+0:00 Europe/London,0.55,52.39
+Starbucks,12947-48040,Sunderland - The Bridges Unit,Company Owned,"The Bridges, Unit 86",Sunderland,ENG,GB,SR1 3LB,1915674650,GMT+0:00 Europe/London,-1.38,54.91
+Starbucks,12528-94987,Surbiton,Company Owned,68 Victoria Road,Surbiton,ENG,GB,KT6 4NR,2083994934,GMT+0:00 Europe/London,-0.31,51.39
+Starbucks,1158-138010,SSP Sutton,Licensed,"Railway Bridge, High Street",Sutton,ENG,GB,SM1 1JA,2086612693,GMT+0:00 Europe/London,-0.19,51.36
+Starbucks,47860-260056,Sutton - High Street-,Franchise,"Unit 1, Times Square Shopping Centre, 132 High Street, Gracechurch Shopping Centre",Sutton,ENG,GB,SM1 1LX,020 8661 9664,GMT+0:00 Europe/London,-0.19,51.36
+Starbucks,12281-55159,Sutton Coldfield-Gracechurch Centre,Company Owned,"Unit 202 The Parade, Gracechurch Street",Sutton Coldfield,ENG,GB,B72 1PA,1213552139,GMT+0:00 Europe/London,-1.82,52.56
+Starbucks,12771-155330,Village Swindon,Licensed,"Whitehill Way, Shaw Ridge Leisure Park, Orbital Retail Park",Swindon,ENG,GB,SN5 7DW,,GMT+0:00 Europe/London,-1.83,51.56
+Starbucks,12416-87281,Swindon - New Look Orbital Park,Company Owned,"Orbital shopping park, Unit B1 & B2",Swindon,ENG,GB,SN25 4BG,1793704943,GMT+0:00 Europe/London,-1.81,51.6
+Starbucks,47866-260052,Swindon - Brunel Centre,Franchise,"Unit 1, The Plaza, Brunel Centre",Swindon,ENG,GB,SN1 1LF,01793 535 973,GMT+0:00 Europe/London,-1.79,51.56
+Starbucks,47832-260044,Swindon - Great Western Outlet,Franchise,"Unit 51, Great Western Designer Village",Swindon,ENG,GB,SN2 2DZ,01793 693 200,GMT+0:00 Europe/London,-1.8,51.56
+Starbucks,32465-138009,Village Ashton,Licensed,"Pamir Drive, Ashton Under Lyne",Tameside,ENG,GB,OL7 0PG,8449800017,GMT+0:00 Europe/London,-2.11,53.49
+Starbucks,31680-134124,Compass Tamworth Snowdome,Licensed,"River Drive, Leisure Island",Tamworth,ENG,GB,B79 7ND,1827305093,GMT+0:00 Europe/London,-1.7,52.63
+Starbucks,24414-237889,Tamworth - Centurion Services DT,Franchise,"75 Watling Street, Dordon",Tamworth,ENG,GB,B78 1SS,01827 892438,GMT+0:00 Europe/London,-1.61,52.6
+Starbucks,12289-227665,Taplow Sainsburys,Company Owned,"Lake End Road, Starbucks c/o Sainsbury's",Taplow,ENG,GB,SL6 0QH,1628662038,GMT+0:00 Europe/London,-0.67,51.52
+Starbucks,25422-240991,SSP Taunton,Licensed,"Taunton Railway Stn,Station Approach, Platform 6 Somerset",Taunton,ENG,GB,TA1 1QP,,GMT+0:00 Europe/London,-3.1,51.02
+Starbucks,47935-260611,Teddington - High Street,Franchise,70 High Street,Teddington,ENG,GB,TW11 8JD,020 8943 1750,GMT+0:00 Europe/London,-0.33,51.43
+Starbucks,22878-225146,Cineworld Telford,Licensed,"Cineworld Cinemas, Southwater Square",Telford,ENG,GB,TF3 4HS,,GMT+0:00 Europe/London,-2.45,52.67
+Starbucks,20857-208628,Tewkesbury - Ashchurch A46,Franchise,"A46 Ashchurch Road, Tewkesbury, Gloucestershire",Tewkesbury,ENG,GB,GL20 8JN,,GMT+0:00 Europe/London,-2.12,52
+Starbucks,15494-158984,Centre Parcs Elveden Poolside,Licensed,"Elveden Forest, Poolside, Brandon",Thetford,ENG,GB,IP27 OYZ,01842 894419,GMT+0:00 Europe/London,0.66,52.39
+Starbucks,15851-163467,Thinford - Durham Road DT,Franchise,"Durham Road, Ferryhill, Lakeside Shopping Centre",Thinford,ENG,GB,DL17 8LD,,GMT+0:00 Europe/London,-1.57,54.7
+Starbucks,12377-78822,Lakeside - Level 2,Company Owned,"Lakeside Shopping Centre, Unit 219",Thurrock,ENG,GB,RM20 2ZP,1708867705,GMT+0:00 Europe/London,0.28,51.49
+Starbucks,25239-240312,Tonbridge - High Street,Franchise,82/82a High Street,Tonbridge,ENG,GB,TN9 1EE,,GMT+0:00 Europe/London,0.27,51.19
+Starbucks,29753-254295,"Torquay, Fleet Street",Franchise,"Unit 78, Fleet Walk, Fleet Street,",Torquay,ENG,GB,TQ2 5EA,1803290839,GMT+0:00 Europe/London,-3.53,50.46
+Starbucks,20255-204406,Trowbridge Fore Street (49),Franchise,"49 Fore Street, Wiltshire",Trowbridge,ENG,GB,BA14 8ES,,GMT+0:00 Europe/London,-2.21,51.33
+Starbucks,24317-237003,Truro - Victoria Square,Franchise,3/14 Victoria Square,Truro,ENG,GB,TR1 2SD,1872274485,GMT+0:00 Europe/London,-5.05,50.26
+Starbucks,25246-240305,Tunbridge Wells - Caverley Road,Franchise,30 Calverley Road,Tunbridge Wells,ENG,GB,TN1 2TB,,GMT+0:00 Europe/London,0.26,51.13
+Starbucks,47856-260059,Twickenham - King Street-,Franchise,"21 King Street, Unit 201",Twickenham,ENG,GB,TW1 3SD,020 8538 9820,GMT+0:00 Europe/London,-0.33,51.45
+Starbucks,12380-80460,Uxbridge - The Chimes Kiosk - Upper,Company Owned,"High Street, Unit 201,The Chimes Shopping Centre",Uxbridge,ENG,GB,UB8 1GB,1895811939,GMT+0:00 Europe/London,-0.48,51.55
+Starbucks,12192-23449,Uxbridge - The Chimes - Upper,Company Owned,"High Street, Unit 201 The Chimes Shopping Centre",Uxbridge,ENG,GB,UB8 1GB,1895253320,GMT+0:00 Europe/London,-0.48,51.55
+Starbucks,16939-176686,Wakefield - Calder Park DT,Franchise,"Calder Park, Plot 17",Wakefield,ENG,GB,WF2 7UA,01924 252640,GMT+0:00 Europe/London,-1.52,53.65
+Starbucks,16137-157266,Wallasey - New Brighton,Franchise,Wallasey Water front retail park,Wallasey,ENG,GB,CH45 2HZ,0151 6306556,GMT+0:00 Europe/London,-3.05,53.44
+Starbucks,12838-140737,Walsall - Crown Wharf Shopping Park,Company Owned,"Crown Wharf, Unit 15c",Walsall,ENG,GB,WS28LL,1922616283,GMT+0:00 Europe/London,-1.99,52.59
+Starbucks,32664-138524,Village Walsall,Licensed,"Tempus Drive, Tempus Ten",Walsall,ENG,GB,WS2 8TJ,8449808041,GMT+0:00 Europe/London,-2.01,52.58
+Starbucks,27634-248278,Cheshunt - Brookfield Centre,Franchise,"Unit 1, Brookfield Centre, Cheshunt, J Sainsbury's",Waltham Cross,ENG,GB,EN8 0PZ,,GMT+0:00 Europe/London,-0.04,51.72
+Starbucks,12312-65546,Walton on Thames - Sainsbury's,Company Owned,"'Starbucks c/o Sainsbury's, 53 New Zealand Avenue",Walton on Thames,ENG,GB,KT12 1QU,1932234843,GMT+0:00 Europe/London,-0.42,51.39
+Starbucks,23662-229330,Wandsworth Cineworld,Licensed,"Cineworld, Southside Shopping Centre, Wandsworth High Street",Wandsworth,ENG,GB,SW18 4TF,,GMT+0:00 Europe/London,-0.19,51.46
+Starbucks,47774-259781,Wanstead High Street,Franchise,56A - 58 High Street,Wanstead,ENG,GB,E11 2RJ,020 8530 7130,GMT+0:00 Europe/London,0.03,51.58
+Starbucks,32315-134268,Centre Parcs Longleat,Licensed,Longleat Forest,Warminster,ENG,GB,BA12 7PU,01985 848021,GMT+0:00 Europe/London,-2.22,51.17
+Starbucks,15115-157711,Village Warrington,Licensed,110 Centre Park Square,Warrington,ENG,GB,WA1 1QA,8712224612,GMT+0:00 Europe/London,-2.6,53.38
+Starbucks,28404-250702,Warrington - Golden Square SC,Franchise,7 The Mall,Warrington,ENG,GB,WA1 1QE,,GMT+0:00 Europe/London,-2.6,53.39
+Starbucks,22771-222424,Warrington - Oakwood Gate DT,Franchise,"Unit 8, Junction 9 Retail Park",Warrington,ENG,GB,WA2 8TW,01925 817656,GMT+0:00 Europe/London,-2.53,53.42
+Starbucks,28399-250689,Warrington - Apollo Park,Franchise,"Unit 2, Apollo Park",Warrington,ENG,GB,WA5 7YA,,GMT+0:00 Europe/London,-2.64,53.42
+Starbucks,22192-218830,WB Warwick South DT,Licensed,S DTM40 Motorway J13 Banbury Rd Ashorne,Warwick,ENG,GB,CV35 0AA,01926 650168,GMT+0:00 Europe/London,-1.5,52.22
+Starbucks,7164-150844,WB Warwick South,Licensed,"M40 Motorway Southbound, Junction 13/12, Banbury Road",Warwick,ENG,GB,CV35 0AA,01926 650168,GMT+0:00 Europe/London,-1.5,52.22
+Starbucks,26045-243304,Warwick - M40 Budbrooke South DT,Franchise,"Site Adjacent to Budbrooke Services, Southbound, A46 Warwick by-pass",Warwick,ENG,GB,CV35 8RH,1926499802,GMT+0:00 Europe/London,-1.61,52.28
+Starbucks,22193-218829,WB Warwick North Kiosk,Licensed,"M40 Motorway, J13, Banbury Rd, Ashorne,",Warwick,ENG,GB,CV35-0AA,01926 650168,GMT+0:00 Europe/London,-1.51,52.22
+Starbucks,26741-245296,Watford - High Street,Franchise,34-36 High Street,Watford,ENG,GB,WD17 1ED,01923 252830,GMT+0:00 Europe/London,-0.4,51.66
+Starbucks,47768-259785,Watford Harlequin Centre Lower Mall,Franchise,"Unit 12&12a   Lower Mall, The Harlequin Shopping Centre, Wednesbury Next - Gallagher Retail Park",Watford,ENG,GB,WD17 2TB,01923 215 487,GMT+0:00 Europe/London,-0.39,51.66
+Starbucks,15932-164784,Birmingham - Gallagher RP - Next,Company Owned,"Axletree Way, C/O Next, Gallagher Retail Park",Wednesbury,ENG,GB,WS10 9QY,1215022805,GMT+0:00 Europe/London,-2.01,52.57
+Starbucks,28707-250966,"Willow Place, Wellingborough,  Co",Franchise,"Unit 4, Willow Place",Wellingborough,ENG,GB,NN8 2DP,,GMT+0:00 Europe/London,-0.69,52.29
+Starbucks,47867-260072,Welwyn Garden City Howard Centre,Franchise,"Unit 56, The Howard Centre",Welwyn Garden City,ENG,GB,AL8 6HA,01707 330 746,GMT+0:00 Europe/London,-0.2,51.8
+Starbucks,22021-216985,Wembley -  Civic Centre,Franchise,"""Brent Civic Centre, Engineers Way, 
+""",Wembley,ENG,GB,HA9 0FJ,,GMT+0:00 Europe/London,-0.28,51.56
+Starbucks,20729-208172,Cineworld Wembley,Licensed,"Cineworld Cinemas London Designer Outlet, Wembley Park Boulevard",Wembley,ENG,GB,HA9,,GMT+0:00 Europe/London,-0.28,51.56
+Starbucks,49359-268364,Gatwick - Airside - South Terminal,Licensed,"Gatwick Terminal, South Terminal, Airside",West Sussex,ENG,GB,RH6 0NP,,GMT+0:00 Europe/London,-0.19,51.16
+Starbucks,18936-196184,SSP Gatwick,Licensed,"Airside, North Terminal",West Sussex,ENG,GB,RH6 0JN,01293 557204,GMT+0:00 Europe/London,-0.18,51.16
+Starbucks,25369-237273,Lakeside - West Thurrock Retail Pk,Company Owned,Weston Avenue,West Thurrock,ENG,GB,RM20 3LP,1708860672,GMT+0:00 Europe/London,0.27,51.49
+Starbucks,18477-171205,Leeds White Rose Drive Thru,Company Owned,"Leeds White Rose, Dewsbury Road (A653)",West Yorkshire,ENG,GB,LS27 8PU,1132533117,GMT+0:00 Europe/London,-1.57,53.76
+Starbucks,15104-157584,WB Sedgemoor North,Licensed,"M5 Motorway Northbound, Junction 21/22",Weston Super Mare,ENG,GB,BS24 0JL,01934 750730,GMT+0:00 Europe/London,-2.92,51.27
+Starbucks,28565-250838,Weybridge - Church Street,Franchise,13 Church Street,Weybridge,ENG,GB,KT13 8DE,,GMT+0:00 Europe/London,-0.46,51.37
+Starbucks,32381-138013,Bourne Leisure Littlesea,Licensed,Lynch Lane,Weymouth,ENG,GB,DT4 9DT,01305 774414,GMT+0:00 Europe/London,-2.49,50.6
+Starbucks,24415-237890,Whitchurch - Wrexham Road DT,Franchise,"Whitchurch Bypass, Wrexham Road",Whitchurch,ENG,GB,SY13 1JZ,01948 665 924,GMT+0:00 Europe/London,-2.71,52.97
+Starbucks,47785-259770,Whitely Village Unit E3,Franchise,"Unit E3, Whitely Shopping Centre",Whiteley,ENG,GB,PO15 7LJ,01489 580909,GMT+0:00 Europe/London,-1.25,50.89
+Starbucks,28003-249486,Whitton - High Street,Franchise,33-35 High Street,Whitton,ENG,GB,TW2 7LD,020 8898 0508,GMT+0:00 Europe/London,-0.36,51.45
+Starbucks,22649-222784,Witney - Woolgate Shopping Centre,Franchise,"Unit 6, Woolgate Shopping Centre,, Market Square",Wigan,ENG,GB,OX28 6AP,,GMT+0:00 Europe/London,-1.49,51.78
+Starbucks,28403-250700,Wigan - Market Place,Franchise,31-33 Market Place,Wigan,ENG,GB,WN1 1PE,,GMT+0:00 Europe/London,-2.63,53.55
+Starbucks,18142-188364,Wigan - Scot Lane DT,Franchise,"Scott Lane, Unit A, Scott Lane Services",Wigan,ENG,GB,WN5 0PU,01942 214584,GMT+0:00 Europe/London,-2.67,53.55
+Starbucks,28395-250694,Wilmslow - Grove Street,Franchise,55 Grove Street,Wilmslow,ENG,GB,SK9 1DT,01625 529459,GMT+0:00 Europe/London,-2.23,53.33
+Starbucks,32744-134274,Centre Parcs Longleat Sports Plaza,Licensed,"Longleat Forest, Warminster, J Sainsbury plc",Wiltshire,ENG,GB,BA12 7PU,01985 848013,GMT+0:00 Europe/London,-2.23,51.19
+Starbucks,12311-55039,Badger Farm - Sainsbury's,Company Owned,"1 Badger Farm Road, Starbucks c/o Sainsbury's",Winchester,ENG,GB,SO22 4QB,1962864251,GMT+0:00 Europe/London,-1.34,51.05
+Starbucks,47783-259772,Winchester High Street,Franchise,3 High Street,Winchster,ENG,GB,SO23 9BL,01962 849974,GMT+0:00 Europe/London,-1.31,51.06
+Starbucks,29617-254527,"Peascod Str, Windsor",Franchise,138/139 Peascod Street,Windsor,ENG,GB,SL4 1DS,01753 850004,GMT+0:00 Europe/London,-0.61,51.48
+Starbucks,18154-188187,Wirral - A41 New Chester Road,Franchise,"1408 New Chester Road, A41 North, Eastham",Wirral,ENG,GB,CH62 9AQ,0151 3271282,GMT+0:00 Europe/London,-2.96,53.31
+Starbucks,15212-157712,Village Wirral,Licensed,"Pool Lane, Bromborough Pool",Wirral,ENG,GB,CH62 4UE,0844 980 8035 ,GMT+0:00 Europe/London,-2.99,53.35
+Starbucks,18415-190746,Wisbech - A47 Wisbech Bypass,Franchise,"A47, Wisbech By-Pass, Biggs Road, Walton Highway",Wisbech,ENG,GB,PE14 7BF,01945 588649,GMT+0:00 Europe/London,0.21,52.68
+Starbucks,28561-250843,Woking - Wolsey Walk,Franchise,48 Wolsey Walk,Woking,ENG,GB,GU21 6XX,,GMT+0:00 Europe/London,-0.56,51.32
+Starbucks,21345-211127,SSP Woking,Licensed,"Woking Station, Station Approach, Surrey, Mander Centre",Woking,ENG,GB,GU22 7AE,,GMT+0:00 Europe/London,-0.55,51.31
+Starbucks,12620-99392,Wolverhampton,Company Owned,"31 Dudley Street, Unit 141 Mander Centre",Wolverhampton,ENG,GB,WV1 3ER,1902427403,GMT+0:00 Europe/London,-2.13,52.58
+Starbucks,47897-260287,University of Wolverhampton,Franchise,Wulfruna St,Wolverhampton,ENG,GB,WV1 1LY,,GMT+0:00 Europe/London,-2.13,52.59
+Starbucks,12884-137739,Woolwich - Powis Street,Company Owned,"32, POWIS STREET",Woolwich,ENG,GB,SE18 6LF,2088547350,GMT+0:00 Europe/London,0.07,51.49
+Starbucks,27733-248624,Worcester - The Cross,Franchise,24-25 The Cross,Worcester,ENG,GB,,,GMT+0:00 Europe/London,-2.22,52.19
+Starbucks,23487-230748,Worthing - South Street,Franchise,22-26 South Road,Worthing,ENG,GB,BN11 3AA,,GMT+0:00 Europe/London,-0.37,50.81
+Starbucks,23486-230747,Worthing - Broadwater Street West,Franchise,47-49 Broadwater Street West,Worthing,ENG,GB,BN14 9BY,,GMT+0:00 Europe/London,-0.38,50.83
+Starbucks,26182-243846,Yate Shopping Ctr West Walk,Franchise,"1 West Walk, Yate Shopping Centre",Yate,ENG,GB,BS37 4AX,,GMT+0:00 Europe/London,-2.41,51.54
+Starbucks,22464-221087,Yeovi -  Babylon Retail Park,Franchise,"The Peel Shopping Park, Babylon Hill",Yeovil,ENG,GB,BA21 5BT,,GMT+0:00 Europe/London,-2.61,50.94
+Starbucks,28696-250905,York - Monks Cross Shopping Centre,Franchise,"Monks Cross Shopping Centre, Unit A",York,ENG,GB,YO32 9GX,,GMT+0:00 Europe/London,-1.05,53.99
+Starbucks,28693-250900,York - McArthur Glen Factory Outlet,Franchise,"BAA McArthur Glen Factory Outlet, St Nicholas Avenue",York,ENG,GB,YO19 4TA,,GMT+0:00 Europe/London,-1.08,53.92
+Starbucks,18863-194128,SSP York,Licensed,Station Road,York,ENG,GB,YO24 1AY,1904613675,GMT+0:00 Europe/London,-1.09,53.96
+Starbucks,28700-250896,York - Coney Street,Franchise,14 Coney Street,York,ENG,GB,YO1 9NA,,GMT+0:00 Europe/London,-1.08,53.96
+Starbucks,3785-152292,WB Woodall North Cafe,Licensed,"M1 Motorway Northbound, Junction 30/31, Woodall, Sheffield",Yorkshire,ENG,GB,S26 7XR,01142 486 434,GMT+0:00 Europe/London,-1.28,53.32
+Starbucks,3790-152293,WB Woodall South Cafe,Licensed,"M1 Motorway Southbound, Junction 30/31, Woodall, Sheffield",Yorkshire,ENG,GB,S26 7XR,01142 486 434,GMT+0:00 Europe/London,-1.28,53.32
+Starbucks,1127-152288,WB Hartshead Moor East,Licensed,"M62 Motorway Eastbound, Junction 24/25, Cifton, Brighouse",Yorkshire,ENG,GB,HD6 4JX,01274 876 584,GMT+0:00 Europe/London,-1.75,53.71
+Starbucks,1128-152289,WB Hartshead Moor West,Licensed,"M62 Motorway Westbound, Junction 24/25, Cifton, Brighouse",Yorkshire,ENG,GB,HD6 4JX,01274 876 584,GMT+0:00 Europe/London,-1.74,53.71
+Starbucks,23410-236917,Antrim Junction 1 New,Licensed,"Ballymena Road, Unit 42B, Internat Outlet",Antrim,NIR,GB,BT41 4JG,2894469696,GMT+0:00 Europe/London,-6.23,54.73
+Starbucks,23401-230086,Bridgewater Park Outlet Centre - 6,Licensed,"Bridgewater Park Outlet Centre, Unit 61",Banbridge,NIR,GB,BT32 4LF,2840627997,GMT+0:00 Europe/London,-6.28,54.33
+Starbucks,23411-230090,Bangor Springhill,Licensed,Killeen Avenue,Bangor,NIR,GB,BT19 1ND,2891460651,GMT+0:00 Europe/London,-5.7,54.66
+Starbucks,23412-230087,Belfast Victoria Square (UG13),Licensed,"Victoria Square, UG13",Belfast,NIR,GB,BT1 4QG,2890323604,GMT+0:00 Europe/London,-5.93,54.6
+Starbucks,26216-244044,Great Victoria Street,Licensed,22 Great Victoria Street,Belfast,NIR,GB,BT2 7LX,028 90310919,GMT+0:00 Europe/London,-5.93,54.6
+Starbucks,23403-230071,Belfast Lisburn Road,Licensed,"711/713 Lisburn Road, Unit 3",Belfast,NIR,GB,BT9 7GU,2890666311,GMT+0:00 Europe/London,-5.96,54.57
+Starbucks,47740-259625,Belfast City Airport (airside),Licensed,Sydenham By-Pass,Belfast,NIR,GB,BT39JH,,GMT+0:00 Europe/London,-5.87,54.62
+Starbucks,23406-230068,Belfast Lisburn Road (90),Licensed,90 Lower Lisburn Road,Belfast,NIR,GB,BT9 6AG,2890681641,GMT+0:00 Europe/London,-5.94,54.59
+Starbucks,24491-238154,Corn Market,Licensed,1 High Street,Belfast,NIR,GB,BT1 2AA,028 90315321,GMT+0:00 Europe/London,-5.93,54.6
+Starbucks,18423-190947,BFS - Belfast Airport,Licensed,Belfast International Airport,Belfast,NIR,GB,BT29 4AB,028 35100444,GMT+0:00 Europe/London,-6.22,54.66
+Starbucks,23405-230069,Belfast Castle Lane,Licensed,2 Castle lane,Belfast,NIR,GB,BT1 5DA,2890236679,GMT+0:00 Europe/London,-5.93,54.6
+Starbucks,23404-247553,Boucher-,Licensed,"Boucher Crescent, Unit 9B 21-43",Belfast,NIR,GB,BT12 6HU,2890665903,GMT+0:00 Europe/London,-5.96,54.58
+Starbucks,23415-230084,Belfast Botanic Avenue,Licensed,90 Botanic Avenue,Belfast,NIR,GB,BT7 1JR,2890241325,GMT+0:00 Europe/London,-5.93,54.59
+Starbucks,23408-230066,Belfast Castlecourt,Licensed,"Castlecourt Shopping centre, Mall Cafe, Upper level",Belfast,NIR,GB,BT1 1DD,2890245843,GMT+0:00 Europe/London,-5.93,54.6
+Starbucks,23416-230072,Coleraine 1 Kingsgate Street,Licensed,1 Kingsgate Street,Coleraine,NIR,GB,BT52 1LB,2870359788,GMT+0:00 Europe/London,-6.67,55.13
+Starbucks,23409-230065,Craigavon Rushmere SC (unit H),Licensed,Rushmore Shopping Centre,Craigavon,NIR,GB,BT64-1AA,2838342937,GMT+0:00 Europe/London,-6.39,54.45
+Starbucks,23413-230089,Londonderry Foyleside SC (Unit M14),Licensed,Londenderry Foyleside,Londonderry,NIR,GB,BT48 6XY,2871368113,GMT+0:00 Europe/London,-7.32,54.99
+Starbucks,23407-230067,Londonderry Crescent Link (7B),Licensed,Cresent LInk Retail Park,Londonderry,NIR,GB,BT47 5FX,2871345423,GMT+0:00 Europe/London,-7.27,55
+Starbucks,23414-230085,Newry The Quays,Licensed,"The Quays, Unit 4",Newry,NIR,GB,BT35 8QS,2830832920,GMT+0:00 Europe/London,-6.34,54.18
+Starbucks,12892-137745,Aberdeen - Upperkirkgate,Company Owned,"Upperkirkgate(2&4), St. Nicholas Centre",Aberdeen,SCT,GB,AB10 1BA,1224635223,GMT+0:00 Europe/London,-2.1,57.15
+Starbucks,12155-15514,Aberdeen - St. Nicholas Centre,Company Owned,"St Nicholas Centre, Unit E9(b)",Aberdeen,SCT,GB,AB10 1HW,1224633684,GMT+0:00 Europe/London,-2.1,57.15
+Starbucks,21608-213346,Compass Aberdeen Uni,Licensed,"Aberdeen University, Crombie Annexe, Meston Walk",Aberdeen,SCT,GB,AB24 3FX,,GMT+0:00 Europe/London,-2.11,57.17
+Starbucks,12849-139607,Aberdeen - Holburn Junction,Company Owned,496 Union Street,Aberdeen,SCT,GB,AB10 1TS,1224611565,GMT+0:00 Europe/London,-2.11,57.14
+Starbucks,23663-220744,Village Aberdeen,Licensed,"Village Hotel, Prime Four, Kingswells, Aberdeenshire",Aberdeen,SCT,GB,AB15 8PJ,,GMT+0:00 Europe/London,-2.21,57.15
+Starbucks,12110-11930,Aberdeen - Union Street,Company Owned,"208 Union Street, Union Square",Aberdeen,SCT,GB,AB10 1DW,1224622260,GMT+0:00 Europe/London,-2.11,57.14
+Starbucks,7059-150224,Aberdeen Union Square,Company Owned,"MC2, First Floor Level, Guild Square",Aberdeen,SCT,GB,AB11 5RG,1224589142,GMT+0:00 Europe/London,-2.1,57.14
+Starbucks,23019-227090,Compass Next Cardiff,Licensed,"Next, 82-88 Queen Street, South Glamorgan",Cardiff,SCT,GB,CF10 2GR,,GMT+0:00 Europe/London,-3.18,51.48
+Starbucks,20848-208626,Dumbarton - A82 Milton,Franchise,"The A82, Milton, Dumbarton, Dumbartonshire",Dumbarton,SCT,GB,G82 2TZ,,GMT+0:00 Europe/London,-4.52,55.94
+Starbucks,24137-227651,Dunfermline - Fife Leisure Park DT,Franchise,Fife Leisure Park,Dumfermline,SCT,GB,KY11 8EX,01383 726718,GMT+0:00 Europe/London,-3.4,56.08
+Starbucks,3794-152300,WB Gretna,Licensed,"M74A Trunk Road, Gretna Green",Dumfries,SCT,GB,DG16 5HQ,146137567,GMT+0:00 Europe/London,-3.08,55.01
+Starbucks,18896-196625,Dumfries - High Street,Franchise,"144 - 148 High Street, Overgate",Dumfries,SCT,GB,DG1 2BA,01387 262828,GMT+0:00 Europe/London,-3.61,55.07
+Starbucks,12138-15516,Dundee - Overgate,Company Owned,"Balcony Cafe, Unit 35, Kingsgate Shopping Centre",Dundee,SCT,GB,DD1 1UG,01382 201 204,GMT+0:00 Europe/London,-2.97,56.46
+Starbucks,12893-137746,Dunfermline-Kingsgate Shopping Ctr,Company Owned,"Dunfermline-Kingsgate Shop Ctr Unit G14, Unit G14",Dunfermline,SCT,GB,KY12 7QU,1383741810,GMT+0:00 Europe/London,-3.46,56.07
+Starbucks,12773-139659,East Kilbride Shopping Centre -West,Company Owned,"Centre West, Unit LR7",East Kilbride,SCT,GB,G75 1LL,1355579774,GMT+0:00 Europe/London,-4.18,55.76
+Starbucks,12595-98114,Edinburgh - Canongate,Company Owned,116-118 Canongate,Edinburgh,SCT,GB,EH1 8DD,1315588572,GMT+0:00 Europe/London,-3.18,55.95
+Starbucks,23542-231125,Edinburgh - Shandwick Place,Franchise,52 Shandwick Place,Edinburgh,SCT,GB,EH2 4RT,,GMT+0:00 Europe/London,-3.21,55.95
+Starbucks,12060-10175,Edinburgh-Lothian Road,Company Owned,123 Lothian Road,Edinburgh,SCT,GB,EH3 9AN,1312294899,GMT+0:00 Europe/London,-3.21,55.95
+Starbucks,22809-222384,Village Edinburgh,Licensed,"Village Hotel, Crewe Road North",Edinburgh,SCT,GB,EH4 2NY,,GMT+0:00 Europe/London,-3.23,55.97
+Starbucks,12172-21961,Edinburgh - Princes Street,Company Owned,"120 Princes St, (ground floor)",Edinburgh,SCT,GB,EH2 4AD,1312265881,GMT+0:00 Europe/London,-3.2,55.95
+Starbucks,12629-100508,Edinburgh - Haymarket Station,Company Owned,"1a Haymarket Railway Station, Unit RU41 Ocean Terminal Shopping Centre",Edinburgh,SCT,GB,EH12 5EY,1313379050,GMT+0:00 Europe/London,-3.22,55.95
+Starbucks,12296-47940,Edinburgh -Ocean Terminal-Level One,Company Owned,"Shopping Centre, Ocean Drive, Unit RU41 Ocean Terminal",Edinburgh,SCT,GB,EH6 6JJ,1315544292,GMT+0:00 Europe/London,-3.18,55.98
+Starbucks,12857-139656,Edinburgh- Middle Meadow Walk,Company Owned,"32 Simpson Loan, Quartermile, Fort Kinniard Retail Park",Edinburgh,SCT,GB,EH3 9GG,1316560455,GMT+0:00 Europe/London,-3.19,55.94
+Starbucks,12463-154646,Edinburgh-Fort Kinnaird RP-W/Stones,Company Owned,"Unit 26,HMV/Waterstones, Newcraighall Rd, The Royal Mile",Edinburgh,SCT,GB,EH15 3RD,1316691249,GMT+0:00 Europe/London,-3.11,55.93
+Starbucks,12124-13990,Edinburgh-Royal Mile,Company Owned,124 High Street,Edinburgh,SCT,GB,EH1 1QS,1312254201,GMT+0:00 Europe/London,-3.19,55.95
+Starbucks,12649-102743,Edinburgh - Colinton Road,Company Owned,2 Colinton Road,Edinburgh,SCT,GB,EH10 5DN,1314470728,GMT+0:00 Europe/London,-3.21,55.93
+Starbucks,23716-232705,Edinburgh Dreghorn Link,Franchise,"46 Dreghorn Link, City By-Pass",Edinburgh,SCT,GB,EH13 9QR,1314415996,GMT+0:00 Europe/London,-3.23,55.9
+Starbucks,12216-38380,Edinburgh - George St/Castle St,Company Owned,106 George Street,Edinburgh,SCT,GB,EH2 3HT,1312201451,GMT+0:00 Europe/London,-3.2,55.95
+Starbucks,12850-139655,Edinburgh - Nicolson Street,Company Owned,"EDINBURGH - NICOLSON STREET, 140, NICOLSON STREET",Edinburgh,SCT,GB,EH8 9EH,1316628947,GMT+0:00 Europe/London,-3.18,55.94
+Starbucks,25114-239449,SSP Edinburgh Airport,Licensed,"Edinburgh Airport, Scotland",Edinburgh,SCT,GB,EH12 9DN,,GMT+0:00 Europe/London,-3.36,55.95
+Starbucks,17831-186424,Edinburgh - Waverley Steps,Company Owned,"Princes Mall/Waverley Steps, Unit 13, Gyle Shopping Centre",Edinburgh,SCT,GB,EH1 1BQ,1315583006,GMT+0:00 Europe/London,-3.19,55.95
+Starbucks,12174-19260,Edinburgh - Gyle,Company Owned,"Gyle Avenue, Unit 63",Edinburgh,SCT,GB,EH12 9JU,1313393002,GMT+0:00 Europe/London,-3.31,55.94
+Starbucks,12240-33142,Edinburgh - George St/Hanover St,Company Owned,30A George Street,Edinburgh,SCT,GB,EH2 2LE,1312205670,GMT+0:00 Europe/London,-3.2,55.95
+Starbucks,20722-208167,Cineworld Edinburgh,Licensed,"Cineworld Cinemas, Fountain Park, Dundee Street130/133",Edinburgh,SCT,GB,EH11 1AF,,GMT+0:00 Europe/London,-3.23,55.94
+Starbucks,15291-154725,Edinburgh - The Cube,Company Owned,47 Leith Street,Edingurgh,SCT,GB,EH1 3AT,1315565792,GMT+0:00 Europe/London,-3.19,55.95
+Starbucks,12881-137736,Elgin - High Street,Company Owned,143 High Street,Elgin,SCT,GB,IV30 1DS,1343547957,GMT+0:00 Europe/London,-3.32,57.65
+Starbucks,20725-208170,Cineworld Falkirk,Licensed,"Cineworld Cinemas, Central Retail Park, Old Bison Works",Falkirk,SCT,GB,FK1 1LW,,GMT+0:00 Europe/London,-3.78,56
+Starbucks,12562-60620,Glasgow - Buchanan Street,Company Owned,"136-140 Buchanan Street, Charing Cross Mansions",Glasgow,SCT,GB,G1 2JA,1412218348,GMT+0:00 Europe/London,-4.25,55.86
+Starbucks,12180-27548,Glasgow - St Georges Road,Company Owned,"10 St Georges Road, Charing Cross Mansions, Glasgow Central Station",Glasgow,SCT,GB,G3 6UJ,1413327852,GMT+0:00 Europe/London,-4.27,55.87
+Starbucks,18489-191425,Glasgow - Central Station,Company Owned,"1 Gordon Street, Mobile Site B, Glasgow Fort",Glasgow,SCT,GB,G1 3SL,0141 204 3497,GMT+0:00 Europe/London,-4.26,55.86
+Starbucks,12537-95489,Glasgow-Fort,Company Owned,"Glasgow Fort, Unit C4",Glasgow,SCT,GB,G34 9DL,1417734473,GMT+0:00 Europe/London,-4.14,55.87
+Starbucks,22808-222385,Village Glasgow,Licensed,"Village Hotels Starbucks, Festival Gate",Glasgow,SCT,GB,GU51 1AA,,GMT+0:00 Europe/London,-4.34,55.82
+Starbucks,23478-229328,Glasgow Cineworld Renfrew St (7),Licensed,"Cineworld, 7 Renfrew St",Glasgow,SCT,GB,G2 3AB,,GMT+0:00 Europe/London,-4.26,55.86
+Starbucks,12218-33459,Glasgow - Exchange Place,Company Owned,9 Exchange Place,Glasgow,SCT,GB,G1 3AN,1412042767,GMT+0:00 Europe/London,-4.25,55.86
+Starbucks,12166-24311,Glasgow - Byres Road,Company Owned,252-254 Byres Road,Glasgow,SCT,GB,G12 8SH,1413575318,GMT+0:00 Europe/London,-4.29,55.88
+Starbucks,20730-208171,Cineworld Science Centre,Licensed,"Cineworld Cinemas Glasgow Science Centre, Pacific Quay (50)",Glasgow,SCT,GB,G51 1EA,,GMT+0:00 Europe/London,-4.29,55.85
+Starbucks,25020-239625,Cineworld Glasgow Silverburn,Licensed,"Silverburn Shopping Centre, Barrhead Road, Flat Basement",Glasgow,SCT,GB,G53 6QR,,GMT+0:00 Europe/London,-2.87,55.74
+Starbucks,12045-10176,Glasgow-Bothwell Street,Company Owned,"33 Bothwell St, Buchanan Galleries",Glasgow,SCT,GB,G2 6AU,1412214461,GMT+0:00 Europe/London,-4.26,55.86
+Starbucks,12784-139662,Glasgow - Buchanan Galleries -Upper,Company Owned,"Glasgow Buchanan Galleries, Unit 15, Level 4, Braehead Shopping and Leisure Centre",Glasgow,SCT,GB,G1 2FF,1413339187,GMT+0:00 Europe/London,-4.25,55.86
+Starbucks,17963-182568,Glasgow-Braehead Shopping Ctr-Upper,Company Owned,"Kings Inch Road, Unit 162A",Glasgow,SCT,GB,G51 4BN,1418859323,GMT+0:00 Europe/London,-4.37,55.88
+Starbucks,12836-137777,Glasgow - Nelson Mandela Square,Company Owned,"Glasgow West Nile Street, 58 Nelson Mandela Square",Glasgow,SCT,GB,G1 2NP,1412210302,GMT+0:00 Europe/London,-4.25,55.86
+Starbucks,23017-227088,Compass Next Glasgow,Licensed,"Next, Unit A, Braehead Retail World, King Inch Road",Glasgow,SCT,GB,G51 4BN,,GMT+0:00 Europe/London,-4.35,55.86
+Starbucks,12053-10195,Glasgow-Sauchiehall Street,Company Owned,27 Sauchiehall St,Glasgow,SCT,GB,G2 3AT,1413533149,GMT+0:00 Europe/London,-4.25,55.86
+Starbucks,12763-139661,Glasgow - Silverburn SC - Lower,Company Owned,"F1A Silverburn Shopping Centre, Eastgate Centre",Glasgow,SCT,GB,G53 6QR,1418819425,GMT+0:00 Europe/London,-4.34,55.82
+Starbucks,12246-41559,Inverness - Eastgate Centre,Company Owned,"Eastgate Centre, Unit 13, Inverness Retail Park",Inverness,SCT,GB,IV2 3NA,1463713291,GMT+0:00 Europe/London,-4.22,57.48
+Starbucks,3824-153525,Inverness - Inverness RP - New Look,Company Owned,Unit 1B West Seafield,Inverness,SCT,GB,IV2 7GD,1463709532,GMT+0:00 Europe/London,-4.18,57.48
+Starbucks,12456-154104,SSP Forth Valley Hospital,Licensed,Stirling Road,Larbert,SCT,GB,FK5 4RB,1324570497,GMT+0:00 Europe/London,-3.85,56.03
+Starbucks,22412-220864,Paisley - Phoenix Retail Park DT,Franchise,"The Phoenix Retail Park, McArthurGlen Designer Outlet",Linwood,SCT,GB,PA1 2AB,,GMT+0:00 Europe/London,-4.47,55.85
+Starbucks,12660-103504,Livingston Designer Outlet,Company Owned,"Unit 23, Almondvale Avenue",Livingston,SCT,GB,EH54 6HS,1506462457,GMT+0:00 Europe/London,-3.52,55.88
+Starbucks,18426-240465,Glasgow SSPEMEA - GLA Air Landside-,Licensed,"Landside Arrivals, 1st floor",Paisley,SCT,GB,PA3 2SW,0141 889 8473,GMT+0:00 Europe/London,-4.43,55.86
+Starbucks,18425-190949,SSP Glasgow Airside,Licensed,Ground Floor Arrivals,Paisley,SCT,GB,PA3 2SW,0141 848 4746,GMT+0:00 Europe/London,-4.43,55.86
+Starbucks,22106-217704,Perth - High Street,Franchise,189 High Street,Perth,SCT,GB,PH1 5UN,,GMT+0:00 Europe/London,-3.43,56.4
+Starbucks,31126-106654,SSP Prestwick Airport,Licensed,Terminal Building,Prestwick,SCT,GB,KA9 2PL,,GMT+0:00 Europe/London,-4.61,55.51
+Starbucks,12594-98117,St Andrews - Market Street,Company Owned,127/129 Market Street,St Andrews,SCT,GB,KY16 9PE,1334470938,GMT+0:00 Europe/London,-2.8,56.34
+Starbucks,12163-33119,Edinburgh - Stockbridge,Company Owned,8-10 Baker's Place,Stockbridge,SCT,GB,EH3 6SY,1312204908,GMT+0:00 Europe/London,-3.21,55.96
+Starbucks,24685-238749,Bridgend - McArthur Glen RP,Franchise,"McArthur Glen, The Dewen, The Brewery",Bridgend,WLS,GB,CF32 9SU,,GMT+0:00 Europe/London,-3.58,51.53
+Starbucks,12535-95486,Cardiff - The Brewery,Company Owned,"St Marys Street, Unit 1 - The Brewery, St. David's Centre",Cardiff,WLS,GB,CF10 5DS,2920344026,GMT+0:00 Europe/London,-3.18,51.48
+Starbucks,6029-140752,Cardiff St Davids Ctr - Bridgelink,Company Owned,Bridgelink Cafe,Cardiff,WLS,GB,CF10 1GA,2920359065,GMT+0:00 Europe/London,-3.18,51.48
+Starbucks,9140-152302,WB Cardiff Gate,Licensed,"M4 Motorway, Junction 30, Cardiff Gate Business Park",Cardiff,WLS,GB,CF23 8RA,02920 541122,GMT+0:00 Europe/London,-3.14,51.54
+Starbucks,22806-224264,Cardiff - Mansion Hse Newport Rd,Franchise,"Mansion Shand House, 20 Newport Road",Cardiff,WLS,GB,CF24 0DB,02920 482781,GMT+0:00 Europe/London,-3.17,51.48
+Starbucks,15221-158868,Village Cardiff,Licensed,29 Pendwyallt Road,Cardiff,WLS,GB,CF14 7EF,,GMT+0:00 Europe/London,-3.26,51.52
+Starbucks,12755-140529,Cardiff - Ty Glas Retail Park,Company Owned,"Llanishen, Unit 4, Tyglass Centre",Cardiff,WLS,GB,CF14 5DY,2920755395,GMT+0:00 Europe/London,-3.19,51.53
+Starbucks,12232-38320,Cardiff - Queen St/Frederick St,Company Owned,"46/48 Queen Street, Part Ground Floor",Cardiff,WLS,GB,CF10 2GQ,2920395845,GMT+0:00 Europe/London,-3.18,51.48
+Starbucks,12693-105424,Cardiff Mermaid Quay,Company Owned,"Mermaid Quay, UNIT 23A",Cardiff,WLS,GB,CF10 5BZ,2920451961,GMT+0:00 Europe/London,-3.17,51.46
+Starbucks,12181-33339,Cardiff - Queen Street,Company Owned,"Unit 1, 125/139 Queen Street, St. David's Centre",Cardiff,WLS,GB,CF10 2BJ,2920373622,GMT+0:00 Europe/London,-3.17,51.48
+Starbucks,5016-140751,Cardiff St Davids Ctr - Lower Hayes,Company Owned,"23 The Hayes, LG 59 St Davids centre",Cardiff,WLS,GB,CF10 2FN,2920341814,GMT+0:00 Europe/London,-3.18,51.48
+Starbucks,25634-242025,Cardiff - Newport Road DT,Franchise,376 Newport Road,Cardiff,WLS,GB,CF23 9AE,02920 489761,GMT+0:00 Europe/London,-3.14,51.5
+Starbucks,12745-109630,Cardiff - Dunleavy Drive Thru,Company Owned,"CARDIFF - DUNLEAVY DRIVE, UNITS 1-5",Cardiff,WLS,GB,CF11 0SR,2920227512,GMT+0:00 Europe/London,-3.19,51.45
+Starbucks,24034-235326,Aberystwyth - Darkgate Street,Franchise,"47-49 Great Darkgate Street, Aberystwyth",Ceredigion,WLS,GB,SY23 1DW,,GMT+0:00 Europe/London,-4.09,52.41
+Starbucks,24690-238748,Cwmbran - Gwent Square,Franchise,28 Gwent Square,Cwmbran,WLS,GB,NP44 1PS,01633 863126,GMT+0:00 Europe/London,-3.02,51.65
+Starbucks,3784-239369,WB Sarn Park,Licensed,"M4 Motorway, Juntion 36, Sarn Park",Glamorgan,WLS,GB,CF32 9SY,1656 655332,GMT+0:00 Europe/London,-3.58,51.53
+Starbucks,24035-235325,Llandudno - Mostyn Street,Franchise,1 Mostyn Street,Llandudno,WLS,GB,LL30 2NL,,GMT+0:00 Europe/London,-3.82,53.32
+Starbucks,24687-238750,Llanelli - Parc Trostre Retail Park,Franchise,Parc Trostre Retail Park Unit 14,Llanelli,WLS,GB,SA14 9UY,,GMT+0:00 Europe/London,-4.14,51.68
+Starbucks,20849-208627,Llanelli - Cross Hands A48,Franchise,"Llanelli, Carmarthenshire",Llanelli,WLS,GB,SA14 6NN,,GMT+0:00 Europe/London,-4.08,51.8
+Starbucks,21846-212225,Monmouth Northbound A40,Franchise,"Monmouth Roadside Services (A40) North, Talbot Green Retail Park",Monmouth,WLS,GB,NP15 2HG,01600 717274,GMT+0:00 Europe/London,-2.81,51.77
+Starbucks,12665-103623,Llantrisant New Look Talbot,Company Owned,Talbot Green Retail Park,Pontyclun,WLS,GB,CF72 8SY,1443238357,GMT+0:00 Europe/London,-3.38,51.54
+Starbucks,32506-138015,Bourne Leisure Hafan Y Mor,Licensed,Hafan Y Mor Holiday Park,Pwllheli Gwynedd,WLS,GB,LL53 6HX,1758704515,GMT+0:00 Europe/London,-4.33,52.91
+Starbucks,21472-213065,Rhyl - Kinmel Park Eastbound,Franchise,"Kinmel Park,  A55 Eastbound, Bodelwyddon",Rhyl,WLS,GB,LL18 5XW,01745 822467,GMT+0:00 Europe/London,-3.52,53.27
+Starbucks,18412-190745,Rhyl - Kinmel Park Westbound,Franchise,"Kinmel Park, A55 Westbound, Bodelwyddon",Rhyl,WLS,GB,LL18 5XW,01745 826187,GMT+0:00 Europe/London,-3.52,53.27
+Starbucks,24684-238747,Swansea - Oxford Street,Franchise,804/812 Oxford Street,Swansea,WLS,GB,SA1 3AF,01792 645494,GMT+0:00 Europe/London,-3.95,51.62
+Starbucks,24686-238751,Swansea - Morfa Retail Park,Franchise,"Unit 3, Morfa Retail Park",Swansea,WLS,GB,SA1 7BP,,GMT+0:00 Europe/London,-3.93,51.64
+Starbucks,32726-140373,Village Swansea,Licensed,"Langdon Road (off Fabian Way), SA1 Waterfront",Swansea,WLS,GB,SA1 8QY,01792 479965,GMT+0:00 Europe/London,-3.92,51.62
+Starbucks,24489-238169,Swansea - Fabian Way DT,Franchise,"Fabian Way, Port Tennant",Swansea,WLS,GB,SA1 8LD,,GMT+0:00 Europe/London,-3.91,51.62
+Starbucks,18158-188191,Wrexham - A483/A539 Wrexham Rd,Franchise,"A483/A539,  Wrexham Bypass, Rhostyllen, Eagles Meadow Shopping Centre",Wrexham,WLS,GB,LL14 4EG,01978 358169,GMT+0:00 Europe/London,-3.03,53.03
+Starbucks,12832-137758,Wrexham - Eagles Meadow SC,Company Owned,"Unit C7 Eagles Meadow, Deree College Aghia Paraskevi Campus",Wrexham,WLS,GB,LL13 8DG,01978 290 560,GMT+0:00 Europe/London,-2.99,53.04
